@@ -3,7 +3,7 @@ layout: post
 category : lessons
 tagline: "di Paolo Curreri"
 tags : [poesie]
-img : gun-no-violence.jpg
+img : 1.png
 author : Antonio Trento
 css: 
 js: 
