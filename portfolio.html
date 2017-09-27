@@ -3,7 +3,7 @@ layout: page
 title: Portfolio
 group: navigation
 tagline: Tutti i progetti ai quali ho collaborato.
-tags : [blog, portfolio, antoniotrento, Antonio Trento]
+tags : [portfolio]
 img : 01.jpg
 author : Antonio Trento
 css: 
@@ -48,7 +48,7 @@ canonical: https://antoniotrento.github.io/blog
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
                                         <span>{{ post.title }}</span>
-                                        <em>{{post.tags | array_to_sentence_string}}</em>
+                                        <em>{{post.tags | array_to_sentence_string}} {% for tag in post.tags %}{{ tag[0] }}-{% endfor %}</em>
                                     </div>
                                 </div>
                             </div>
