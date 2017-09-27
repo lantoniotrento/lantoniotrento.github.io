@@ -28,7 +28,7 @@
                 {%for tag in post.tags %} 
                 <li><i class="ion-ios-circle-filled"></i> {{ tag }}</li>
                 {% endfor %}
-                {% for tag in site.tags %}
+                {% for tag in post.tags %}
                  <li><a href="" data-filter=".{{ tag[0] }}">{{ tag[0] }}</a></li>
                 {% endfor %}
             </ul>
