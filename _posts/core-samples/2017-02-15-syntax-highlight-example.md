@@ -4,6 +4,8 @@ category : lessons
 tagline: "Example how post on Jekyll FullIt"
 tags : [jekyll, code]
 img : 1.png
+img2 : 2.png
+img3 : 3.png
 author : Antonio Trento
 title2 : Ciao bello
 title3 : Ciao fantastico
