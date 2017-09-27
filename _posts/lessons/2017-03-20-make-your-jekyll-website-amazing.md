@@ -3,7 +3,7 @@ layout: post
 category : lessons
 tagline: "Using FullIt.github.io"
 tags : [bootstrap, web desing, jekyll]
-img : 
+img : 1.png
 img-mobile : 
 img2 : 
 img3 : 
