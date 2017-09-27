@@ -3,7 +3,7 @@ layout: post
 category : lessons
 tagline: "Aforismi di #NoAlFemminicidio"
 tags : [poesie]
-img : 
+img : 1.png
 author : Antonio Trento
 css: 
 js: 
