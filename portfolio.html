@@ -48,7 +48,7 @@ canonical: https://antoniotrento.github.io/blog
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
                                         <span>{{ post.title }}</span>
-                                        <em>{% for tagg in post.tags %}{{ post.tags[tagg] }} {% endfor %}</em>
+                                        <em>{% for tagg in post.tags %}{{ post.tags[0] }} {% endfor %}</em>
                                     </div>
                                 </div>
                             </div>
