@@ -3,7 +3,7 @@ layout: post
 category : lessons
 tagline: "Using FullIt.github.io"
 tags : [bootstrap, web-desing, jekyll]
-img : 1.png
+img : 01.jpg
 img2 : 2.png
 img3 : 3.png
 author : Antonio Trento
