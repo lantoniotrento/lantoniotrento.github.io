@@ -2,7 +2,7 @@
 layout: post
 category : lessons
 tagline: "Using FullIt.github.io"
-tags : [bootstrap, web desing, jekyll]
+tags : [bootstrap, web-desing, jekyll]
 img : 1.png
 author : Antonio Trento
 title2 : Improve the desing of your blog
