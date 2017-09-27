@@ -889,12 +889,7 @@ footer img {
 ==================================================*/
 
 .top-bar {
-    color: #333;
-    padding: 150px 0 150px;
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center center;
-    text-align: center;
+
 }
 
 .top-bar h1 {
