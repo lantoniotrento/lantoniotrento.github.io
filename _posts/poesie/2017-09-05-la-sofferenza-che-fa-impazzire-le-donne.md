@@ -3,7 +3,7 @@ layout: post
 category : poesie
 tagline: 
 tags : [poesie]
-img : 
+img : 1.png
 author : Antonio Trento
 css: 
 js: 
