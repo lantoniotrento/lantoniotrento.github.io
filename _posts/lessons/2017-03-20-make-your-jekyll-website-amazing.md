@@ -4,9 +4,6 @@ category : lessons
 tagline: "Using FullIt.github.io"
 tags : [bootstrap, web desing, jekyll]
 img : 1.png
-img-mobile : 
-img2 : 
-img3 : 
 author : Antonio Trento
 title2 : Improve the desing of your blog
 title3 : Make it a full of slides
