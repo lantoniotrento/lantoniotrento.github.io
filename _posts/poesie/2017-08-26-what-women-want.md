@@ -3,7 +3,7 @@ layout: post
 category : poesie
 tagline: "Il web contro la violenza sulle donne"
 tags : [poesie]
-img : what-women-want.jpg
+img : 1.png
 author : Antonio Trento
 css: 
 js: 
