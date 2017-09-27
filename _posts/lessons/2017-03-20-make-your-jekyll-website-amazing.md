@@ -5,7 +5,7 @@ tagline: "Using FullIt.github.io"
 tags : [bootstrap, web-desing, jekyll]
 img : 01.jpg
 img2 : 2.png
-img3 : 3.png
+img3 : 1.png
 author : Antonio Trento
 title2 : Improve the desing of your blog
 title3 : Make it a full of slides
