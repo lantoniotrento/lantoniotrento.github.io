@@ -18,26 +18,38 @@ canonical: https://antoniotrento.github.io/blog
         <!-- portfolio div -->
         <div class="portfolio-div">
             <div class="portfolio">
+                
+{% for tag in site.tags %}
+  <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
+  <ul>
+    {% assign pages_list = tag[1] %}
+    {% include JB/pages_list %}
+  </ul>
+{% endfor %}
+                
+                
                 <!-- portfolio_filter -->
                 <div class="categories-grid wow fadeInLeft">
                     <nav class="categories text-center">
                         <ul class="portfolio_filter">
                             <li><a href="" class="active" data-filter="*">All</a></li>
-                            <li><a href="" data-filter=".photography">Photography</a></li>
-                            <li><a href="" data-filter=".logo">Logo</a></li>
-                            <li><a href="" data-filter=".graphics">Graphics</a></li>
-                            <li><a href="" data-filter=".ads">Advertising</a></li>
-                            <li><a href="" data-filter=".fashion">Fashion</a></li>
+                            {% for tag in site.tags %}
+                            <li><a href="" data-filter=".{{ tag[0] }}">{{ tag[0] }}</a></li>
+                            {% endfor %}
                         </ul>
                     </nav>
                 </div>
                 <!-- portfolio_filter -->
+                
+                
+                
+                
 
              <div class="no-padding portfolio_container clearfix">
 
               {% for post in site.posts %}                  
                     <!-- single work -->
-                    <div class="col-md-4 col-sm-6  fashion logo">
+                    <div class="col-md-4 col-sm-6  {% for tag in post.tags %}{{ tag[0] }} {% endfor %}">
                         <a href="{{ BASE_PATH }}{{ post.url }}" class="portfolio_item">
                             <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
