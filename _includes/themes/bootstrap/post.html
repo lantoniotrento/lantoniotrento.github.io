@@ -1,70 +1,37 @@
-            <!--Home Sections-->
 
-            <section id="home" class="home">
-                <div class="container">
-                    <div class="row">
-                        <div class="main_home">
-                            <div class="col-md-6">
-                                <div class="home_text">
-                                    <h1 class="text-white">{{ page.title }}</h1>
-                                    {% if page.tagline %} <p class="text-white">{{ page.tagline }}</p>{% endif %}                                   
-                                </div>
-
-                                <div class="home_btns m-top-40">
-                                    <a href="#blog" class="btn btn-danger m-top-20">Leggi il post</a>
-                                    
-                                </div>
-                            </div>
-
-                            <div class="col-md-6">
-                                <div class="phone_one phone_attr1 text-center sm-m-top-50">
-                                    <div class="attr_deg">No</div>
-                                    <div class="attr_rio text-uppercase">No</div>
-                                    <div class="attr_sun text-uppercase text-white">Violence</div>
-                                    <div class="attr_lon text-uppercase text-white">Violenza</div>
-                                    {% if page.img %}<img class="img-responsive" src="{{ BASE_PATH }}/assets/images/{{ page.img }}" alt="" />{% endif %}
-                                </div>
-                            </div>
-
-                        </div>
-                        <div class="scrooldown">
-                            <a href="#blog"><i class="fa fa-chevron-down"></i></a>
-                        </div>
-
-                    </div><!--End off row-->
-                </div><!--End off container -->
-            </section> <!--End off Home Sections-->
-
-
-
-
-    <br />
-    <br />
-
-
-     <div id = "blog" class="container">      
-      <div class="row">
-
-        <div class="col-sm-8 blog-main post">
-
-          {% include ads-block.html %}
-          <br />
-           {{ content }}
-          <br />
-          {% include ads-block.html %}
-          <br />    
-
-          {% include JB/comments %}
-          
-
+    <!-- top bar -->
+    <div class="top-bar" style = "background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url({{ BASE_PATH }}/assets/images/{{ page.img }}); background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url({{ BASE_PATH }}/assets/images/{{ page.img }}); color: #333; padding: 150px 0 150px; background-size: cover; background-attachment: fixed; background-position: center center; text-align: center;">
+        <h1>{{ page.title }}</h1>
+        <p>{{ page.tagline }}</p>
+    </div>
+    <!-- end top bar -->
+    
+    <!-- main-container -->
+    <div class="container main-container">
+        <div class="col-md-12">
+            <img src="{{ BASE_PATH }}/assets/images/{{ page.img2 }}" alt="" class="img-responsive" />
+            <div class="h-30"></div>
         </div>
 
-        <div class="col-sm-4 blog-sidebar">
-          {% include side-bar.html %}
-        </div>          
-      </div>
-     </div>    
+        <div class="col-md-12">
+            <h3 class="text-uppercase">{{ page.title }}</h3>
+            <h5>{{ page.tagline }}</h5>
+            <div class="h-30"></div>
+        </div>
 
+        <div class="col-md-9">
+         {{ content }}       
+        </div>
 
-
-
+        <div class="col-md-3">
+            <ul class="cat-ul">
+                {%for tag in post.tags %} 
+                <li><i class="ion-ios-circle-filled"></i> {{ tag }}</li>
+                {% endfor %}
+            </ul>
+            <div class="h-10"></div>
+            <h4>Share</h4>
+            {% include social-share.html %}
+        </div>
+    </div>
+    <!-- end main-container -->
