@@ -4,6 +4,8 @@ category : lessons
 tagline: "How to test your Jekyll site locally"
 tags : [intro, beginner, jekyll, tutorial]
 img : 1.png
+img2 : 2.png
+img3 : 3.png
 author : Antonio Trento
 title2 : New FullIt Theme
 title3 : Created for jekyll
