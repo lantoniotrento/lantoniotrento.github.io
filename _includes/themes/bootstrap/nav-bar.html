@@ -2,7 +2,7 @@
         <!-- box header -->
         <header class="box-header">
             <div class="box-logo">
-                <a href="index.html"><img src="img/logo.png" width="80" alt="Logo"></a>
+                <a href="index.html"><img src="{{ BASE_PATH }}/assets/img/logo.png" width="80" alt="Logo"></a>
             </div>
             <!-- box-nav -->
             <a class="box-primary-nav-trigger" href="#0">
@@ -27,10 +27,11 @@
 
                 <li class="box-label">Follow me</li>
 
-                <li class="box-social"><a href="#0"><i class="ion-social-facebook"></i></a></li>
-                <li class="box-social"><a href="#0"><i class="ion-social-instagram-outline"></i></a></li>
-                <li class="box-social"><a href="#0"><i class="ion-social-twitter"></i></a></li>
-                <li class="box-social"><a href="#0"><i class="ion-social-dribbble"></i></a></li>
+                {% if site.author.facebook %}<li class="box-social"><a href="https://www.facebook.com/{{ site.author.facebook }}/"><i class="ion-social-facebook"></i></a></li>{% endif %}
+                {% if site.author.linkedin %}<li class="box-social"><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="ion-social-linkedin"></i></a></li>{% endif %}
+                {% if site.author.instagram %}<li class="box-social"><a href="https://www.instagram.com/{{ site.author.instagram }}/"><i class="ion-social-instagram-outline"></i></a></li>{% endif %}
+                {% if site.author.twitter %}<li class="box-social"><a href="https://twitter.com/{{ site.author.twitter }}"><i class="ion-social-twitter"></i></a></li>{% endif %}
+
             </ul>
         </nav>
         <!-- end nav -->
