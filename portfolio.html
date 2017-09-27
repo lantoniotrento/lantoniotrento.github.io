@@ -48,7 +48,7 @@ canonical: https://antoniotrento.github.io/blog
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
                                         <span>{{ post.title }}</span>
-                                        <em>{{ post.tags |  array_to_sentence_string | prepend: 'on ' }} -- {{ post.tags }} -- {% for tag in post.tags %}{{ post.tag[0] }}{% endfor %}</em>
+                                        <em>{{ post.tags |  array_to_sentence_string | prepend: 'on ' }} -- {{ post.tags }} -- {% for tag in post.tags %}{{ post.tags[0] }} {% endfor %}</em>
                                     </div>
                                 </div>
                             </div>
