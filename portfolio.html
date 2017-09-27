@@ -33,151 +33,30 @@ canonical: https://antoniotrento.github.io/blog
                 </div>
                 <!-- portfolio_filter -->
 
-                <!-- portfolio_container -->
-                <div class="no-padding portfolio_container clearfix">
+             <div class="no-padding portfolio_container clearfix">
+
+              {% for post in site.posts %}                  
                     <!-- single work -->
                     <div class="col-md-4 col-sm-6  fashion logo">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="http://placehold.it/1000x1000" alt="image" class="img-responsive" />
+                        <a href="{{ BASE_PATH }}{{ post.url }}" class="portfolio_item">
+                            <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info">
-                                        <span>Mockups in seconds</span>
-                                        <em>Fashion / Logo</em>
+                                        <span>{{ post.title }}</span>
+                                        <em>{{post.tags | array_to_sentence_string}}</em>
                                     </div>
                                 </div>
                             </div>
                         </a>
-                    </div>
-                    <!-- end single work -->
+                    </div>                            
+              {% endfor %}                
+                
+                
+                
+                <!-- portfolio_container -->
 
-                    <!-- single work -->
-                    <div class="col-md-4 col-sm-6 ads graphics">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="http://placehold.it/1000x1000" alt="image" class="img-responsive" />
-                            <div class="portfolio_item_hover">
-                                <div class="portfolio-border clearfix">
-                                    <div class="item_info">
-                                        <span>Floating mockups</span>
-                                        <em>Ads / Graphics</em>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- end single work -->
 
-                    <!-- single work -->
-                    <div class="col-md-4 col-sm-12 photography">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="http://placehold.it/1000x1000" alt="image" class="img-responsive" />
-                            <div class="portfolio_item_hover">
-                                <div class="portfolio-border clearfix">
-                                    <div class="item_info">
-                                        <span>Photorealistic smartwatch</span>
-                                        <em>Photography</em>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- end single work -->
-
-                    <!-- single work -->
-                    <div class="col-md-4 col-sm-6 fashion ads">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="http://placehold.it/1000x1000" alt="image" class="img-responsive" />
-                            <div class="portfolio_item_hover">
-                                <div class="portfolio-border clearfix">
-                                    <div class="item_info">
-                                        <span>Held by hands</span>
-                                        <em>Fashion / Ads</em>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- end single work -->
-
-                    <!-- single work -->
-                    <div class="col-md-4 col-sm-6 graphics ads">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="http://placehold.it/1000x1000" alt="image" class="img-responsive" />
-                            <div class="portfolio_item_hover">
-                                <div class="portfolio-border clearfix">
-                                    <div class="item_info">
-                                        <span>Mobile devices</span>
-                                        <em>Graphics / Ads</em>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- end single work -->
-
-                    <!-- single work -->
-                    <div class="col-md-4 col-sm-12 photography">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="http://placehold.it/1000x1000" alt="image" class="img-responsive" />
-                            <div class="portfolio_item_hover">
-                                <div class="portfolio-border clearfix">
-                                    <div class="item_info">
-                                        <span>Photorealistic smartwatch</span>
-                                        <em>Photography</em>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- end single work -->
-
-                    <!-- single work -->
-                    <div class="col-md-4 col-sm-6 graphics ads">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="http://placehold.it/1000x1000" alt="image" class="img-responsive" />
-                            <div class="portfolio_item_hover">
-                                <div class="portfolio-border clearfix">
-                                    <div class="item_info">
-                                        <span>Mobile devices</span>
-                                        <em>Graphics / Ads</em>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- end single work -->
-
-                    <!-- single work -->
-                    <div class="col-md-4 col-sm-6 graphics ads">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="http://placehold.it/1000x1000" alt="image" class="img-responsive" />
-                            <div class="portfolio_item_hover">
-                                <div class="portfolio-border clearfix">
-                                    <div class="item_info">
-                                        <span>Mobile devices</span>
-                                        <em>Graphics / Ads</em>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- end single work -->
-
-                    <!-- single work -->
-                    <div class="col-md-4 col-sm-6 graphics ads">
-                        <a href="single-project.html" class="portfolio_item">
-                            <img src="http://placehold.it/1000x1000" alt="image" class="img-responsive" />
-                            <div class="portfolio_item_hover">
-                                <div class="portfolio-border clearfix">
-                                    <div class="item_info">
-                                        <span>Mobile devices</span>
-                                        <em>Graphics / Ads</em>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- end single work -->
 
                 </div>
                 <!-- end portfolio_container -->
