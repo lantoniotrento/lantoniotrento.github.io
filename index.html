@@ -42,10 +42,10 @@ canonical: https://antoniotrento.github.io
         <div class="portfolio">
             <div class="no-padding portfolio_container">
 
-
+	      {% assign counter = 1 %}
               {% for post in site.posts %}                  
                     <!-- single work -->
-		    {% assign counter = 1 %}
+		    
 		    {% if counter == 3 %}
 		    <div class="col-md-6 col-sm-12">{% else %}<div class="col-md-3 col-sm-6">{%endif%}
                         <a href="{{ BASE_PATH }}{{ post.url }}" class="portfolio_item">
