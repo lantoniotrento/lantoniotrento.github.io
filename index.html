@@ -45,7 +45,11 @@ canonical: https://antoniotrento.github.io
 
               {% for post in site.posts %}                  
                     <!-- single work -->
-		    {% if post[i] == 3 %}
+		    {% assign counter = 1 %}
+
+		    {% unless post.published == false %}
+
+		    {% if counter == 3 %}
 		    <div class="col-md-6 col-sm-12">{% else %}<div class="col-md-3 col-sm-6">{%endif%}
                         <a href="{{ BASE_PATH }}{{ post.url }}" class="portfolio_item">
                             <img src="{{ BASE_PATH }}/assets/images/{{ post.img3 }}" alt="image" class="img-responsive" />
@@ -58,7 +62,9 @@ canonical: https://antoniotrento.github.io
                                 </div>
                             </div>
                         </a>
-                    </div>                            
+                    </div>
+		    {% assign counter=counter | plus:1 %}
+	  	    {% endunless %}			    
               {% endfor %} 
 		    
             </div>
