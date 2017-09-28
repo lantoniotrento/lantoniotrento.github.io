@@ -1,50 +1,89 @@
 ---
-layout: index
-title: Error the page doesn't exist
-tagline: You're lost in the space of Fullit make your landing page a fullpage sliding tool usefull for web marketing. 404 error
-img : 1.jpg
-img-mobile : 1-mobile.jpg
-css: cover.css
+layout: 404
+title: Errore la pagina non esiste
+tagline: Pagina non trovata
+img : 
+img-mobile : 
+css: 
 js: 
-keywords: gradient, html, css, landing page, jekyll, ruby, web marketing, advertising
-canonical: https://grads.github.io
+keywords: 
+canonical: https://antoniotrento.github.io
 ---
 {% include JB/setup %}
 
-<div class="site-wrapper gradient">
+    
+    
+    <!-- Grained Background Start -->
+    <div id="lost">
 
-
-      <div class="site-wrapper-inner">
-
-
-        <div class="cover-container">
-
-
-
-          <div class="inner cover">
-			<div class="row vertical-align">
-			  <div class="col-md-6">
-	            <h1 class="cover-heading jumbotitle">This page doesn't exist!</h1>
-	            <p class="lead jumbotext">You're in the right place: <b>Grads</b>! But this page doesn't exist, maybe you're lost (404 error). Try to go back to home by the button below.</p>
-	            <p class="lead jumbotext">
-	              <a href="{{ BASE_PATH }}" class="btn btn-lg btn-default">Home buddy</a>
-	            </p>
-			  </div>
-			  <div class="col-md-6" style="align-content: center;">
-			  	<img src="{{ BASE_PATH }}/assets/img/404.gif" style="margin: auto;" class="img-responsive" alt="Error 404">
-			  </div>
-			</div>          	
-
-          </div>
-
-          <div class="mastfoot">
-            <div class="inner">
-              <p>This template is made by <a href="https://twitter.com/lantoniotrento">Antonio Trento</a>.</p>
+    <!-- Error Page Start -->
+    <section class="error-page-background">
+       <div class="container">
+     
+         <div class="row">
+                
+           <div class="col-md-12">
+                     
+                      
+                  <!-- Error Page Content Start -->
+               
+                  <div class="text-center">
+                  <a href="" data-toggle="modal" data-target="#reason" title="Why You Are Seeing 404 Page"><i class="icon-question bounce"></i></a>
+                        </div>
+                            
+                            <h2>404</h2>
+                            <p>The Page You Are Looking For Doesn't Exist.</p>
+                             
+                             <div class="text-center">
+                               <a class="button button-style" href="#">Back To Home</a>
+                            </div>
+                            
+                            <!-- Error Page Content End --> 
+                     
+                   </div>
+              </div>
             </div>
+        </section>
+        <!-- Error Page End -->
+        
+       </div>
+       <!-- Grained Background End -->
+       
+       
+       
+       
+       <!-- Reason Popup Start -->
+       <div class="modal fade reason-popup-box padding-top-120" id="reason" role="dialog">
+         <div class="modal-dialog">
+    
+      
+         <div class="modal-content">
+            <div class="modal-body">
+               <div class="row">
+                  <div class="col-sm-12">
+                   
+                   <div class="box-padding">
+                     <button type="button" class="btn pull-right" data-dismiss="modal"><i class="icon-close"></i></button>
+                      <h3>Why You Are Seeing 404 Page ?</h3>
+                       
+                       <div class="margin-top-20">
+                         
+                          <ul class="list-icon size-sm">
+                            <li>May be, The page is removed.</li>
+                            <li>May be, The page name have changed.</li>
+                            <li>May be, You did typed wrong keyword.</li>
+                            <li>May be, The link is temporarily unavailable.</li>
+                           </ul>
+                        
+                           </div>
+            
+                         </div>
+
+                      
+                     </div>
+                    </div>
+                 </div>
+             </div>
           </div>
-
-        </div>
-
-      </div>
-
-</div>
+       </div>
+       <!-- Reason Popup End -->
