@@ -28,7 +28,7 @@ lantoniotrento@gmail.com
     {% if page.canonical %}<link rel="canonical" href="{{ page.canonical }}"/>{% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- CSS loaded by the children page -->
-    {% if page.css %}<link rel="stylesheet" type="text/css" href="{{ BASE_PATH }}/assets/css/custom/{{ page.css }}" />{% endif %}
+    {% if page.css %}<link rel="stylesheet" type="text/css" href="{{ BASE_PATH }}/assets/css/{{ page.css }}" />{% endif %}
     
 	  
 	    <link rel="icon" href="{{ BASE_PATH }}/assets/images/fav.png" type="image/x-icon">
@@ -104,7 +104,7 @@ lantoniotrento@gmail.com
 
 <!-- ********************* Box SCRIPTING ******************************-->
 <!--Custom script loaded by children page-->
-{% if page.js %}<script type="text/javascript" src="text/css" href="{{ BASE_PATH }}/assets/js/custom/{{ page.js }}" />{% endif %}
+{% if page.js %}<script type="text/javascript" src="text/css" href="{{ BASE_PATH }}/assets/js/{{ page.js }}" />{% endif %}
 
     <!-- JS includes -->
 
