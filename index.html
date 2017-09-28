@@ -46,7 +46,7 @@ canonical: https://antoniotrento.github.io
               {% for post in site.posts %}                  
                     <!-- single work -->
 		    
-		    {% if counter == 3 %}
+		    {% if counter == 3 or counter == 6 or counter == 9 %}
 		    <div class="col-md-6 col-sm-12">{% else %}<div class="col-md-3 col-sm-6">{%endif%}
                         <a href="{{ BASE_PATH }}{{ post.url }}" class="portfolio_item">
                             <img src="{{ BASE_PATH }}/assets/images/{{ post.img3 }}" alt="image" class="img-responsive" />
