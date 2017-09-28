@@ -1,3 +1,6 @@
+jQuery(document).ready(function($){
+
+
 var TxtRotate = function(el, toRotate, period) {
   this.toRotate = toRotate;
   this.el = el;
@@ -73,4 +76,6 @@ $(function(){
   }).on("blur",function(){
       $(this).prev("label").removeClass(onClass);
   }).trigger("checkval");
+});
+
 });
