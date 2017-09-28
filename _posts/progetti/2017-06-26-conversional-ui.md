@@ -7,6 +7,7 @@ img : 01.jpg
 img2 : conversional_ui2.gif
 img3 : folio-conversational.jpg
 author : Antonio Trento
+tools: [HTML, CSS, Javascript, Jekyll, Github Pages]
 css: 
 js: 
 keywords: jekyll, website, web design, javascript
