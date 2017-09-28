@@ -24,6 +24,18 @@
 .logo > *:nth-of-type(5) {
   animation-delay: 2.1s
 }
+.logo > *:nth-of-type(6) {
+  animation-delay: 2.3s
+}
+.logo > *:nth-of-type(7) {
+  animation-delay: 2.6s
+}
+.logo > *:nth-of-type(8) {
+  animation-delay: 2.9s
+}
+.logo > *:nth-of-type(9) {
+  animation-delay: 3.3s
+}
 @keyframes appear {
   from {
     font-size: 0em;
