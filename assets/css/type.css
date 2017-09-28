@@ -58,10 +58,3 @@
     opacity: 0;
   }
 }
-/* CSS for centering demo */
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
