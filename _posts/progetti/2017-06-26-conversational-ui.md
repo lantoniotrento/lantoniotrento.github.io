@@ -4,7 +4,7 @@ category : progetti
 tagline: "Implementazione javascript framework su Jekyll"
 tags : [web-design, javascript]
 img : 01.jpg
-img2 : conversational_ui2.gif
+img2 : conversional_ui2.gif
 img3 : folio-conversational.jpg
 author : Antonio Trento
 css: 
