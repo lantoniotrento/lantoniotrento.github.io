@@ -2,7 +2,7 @@
 layout: post
 category : progetti
 tagline: "Implementazione cloud media server privato su rete pubblica"
-tags : [linux, hosting, cloud, web-desing]
+tags : [linux, hosting, cloud, web-design]
 img : 01.jpg
 img2 : 2.png
 img3 : 1.png
