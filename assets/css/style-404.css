@@ -209,7 +209,7 @@ fieldset {
 }
 
 .image-bg {
-    background-image: url(../images/bg/error.jpg) !important;
+    background-image: url(/assets/images/bg/error.jpg) !important;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -226,12 +226,12 @@ fieldset {
 }
 
 .reason-popup-box .modal-content {
-    background: url(../images/bg/reason-popup.png);
+    background: url(/assets/images/bg/reason-popup.png);
     background-repeat: repeat;
 }
 
 .image-demo-bg .modal-content {
-    background: url(../images/bg/error.jpg);
+    background: url(/assets/images/bg/error.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
