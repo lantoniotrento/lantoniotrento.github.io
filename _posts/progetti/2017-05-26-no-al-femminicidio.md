@@ -3,9 +3,9 @@ layout: post
 category : progetti
 tagline: "Realizzazione idea e prototipo web"
 tags : [web-design, marketign, funnel]
-img : 01.jpg
+img : noalfemminicidio.jpg
 img2 : 2.png
-img3 : 1.png
+img3 : folio-noalfemminicidio.jpg
 author : Antonio Trento
 css: 
 js: 
