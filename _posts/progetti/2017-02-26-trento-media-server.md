@@ -10,7 +10,7 @@ author : Antonio Trento
 css: 
 js: 
 keywords: cloud, website, web design, design, marketign, web marketing, linux, server
-canonical: https://noalfemminicidio.github.io
+canonical: https://antoniotrento.github.io
 
 ---
 {% include JB/setup %}
