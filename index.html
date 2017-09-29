@@ -3,7 +3,7 @@ layout: index
 title: Antonio Trento
 tagline: Graphic design, web marketing, web design
 css: 
-js: type.js
+js:
 keywords: Graphic design, web marketing, web design
 canonical: https://antoniotrento.github.io
 ---
@@ -67,7 +67,38 @@ canonical: https://antoniotrento.github.io
     <!-- end portfolio div -->
 
 
+<script language="javascript" type="text/javascript">
+   (function() {
+  var app;
 
+  $(document).ready(function() {
+    return app.init();
+  });
+
+  app = {
+    text: "Hello stranger. How are you doing?",
+    index: 0,
+    chars: 0,
+    speed: 100,
+    container: ".text .content",
+    init: function() {
+      this.chars = this.text.length;
+      return this.write();
+    },
+    write: function() {
+      $(this.container).append(this.text[this.index]);
+      if (this.index < this.chars) {
+        this.index++;
+        return window.setTimeout(function() {
+          return app.write();
+        }, this.speed);
+      }
+    }
+  };
+
+}).call(this);
+
+</script>
 
 
 
