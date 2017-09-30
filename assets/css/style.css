@@ -1223,7 +1223,8 @@ textarea:focus {
   border: none;
   cursor: pointer;
   line-height: 1.5;
-  font: 700 1.2rem 'Roboto Slab', sans-serif;
+
+  font-size: 1.2rem;
   padding: 1em 2em;
   letter-spacing: 0.05rem;
 }
