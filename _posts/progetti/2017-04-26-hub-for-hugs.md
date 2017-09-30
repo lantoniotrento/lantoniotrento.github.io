@@ -3,9 +3,9 @@ layout: post
 category : progetti
 tagline: "Realizzazione strategia di marketing e sito web"
 tags : [web-design, marketign]
-img : 01.jpg
+img : hub4hugs.jpg
 img2 : 2.png
-img3 : 1.png
+img3 : folio-hub4hugs.jpg
 author : Antonio Trento
 css: 
 js: 
