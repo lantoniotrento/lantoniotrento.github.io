@@ -3,9 +3,9 @@ layout: post
 category : progetti
 tagline: "Realizzazione template grafico per Jekyll"
 tags : [web-design, marketign]
-img : 01.jpg
+img : getshjtdone.jpg
 img2 : 2.png
-img3 : 1.png
+img3 : folio-getshjtdone.jpg
 author : Antonio Trento
 css: 
 js: 
