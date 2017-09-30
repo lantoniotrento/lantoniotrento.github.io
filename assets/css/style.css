@@ -1171,71 +1171,62 @@ textarea:focus {
     }
 }
 
+/* Border over button */
 
-/* Mana button from codepen */
-.c-button {
-  color: #000;
-  font-weight: 700;
-  font-size: 1em;
-  text-decoration: none;
-  padding: .7em 1.8em;
-  cursor: pointer;
-  display: inline-block;
-  vertical-align: middle;
-}
-
-.c-button--gooey {
-  color: #06c8d9;
-  font-size: 1.3em;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  border: 4px solid #06c8d9;
-  border-radius: 0;
-  padding: 1.2em 3.4em;
+.draw-border {
+  box-shadow: inset 0 0 0 4px #58afd1;
+  color: #58afd1;
+  -webkit-transition: color 0.25s 0.08333s;
+  transition: color 0.25s 0.08333s;
   position: relative;
-  -webkit-transition: all 700ms ease;
-  transition: all 700ms ease;
 }
-.c-button--gooey .c-button__blobs {
-  height: 100%;
-  -webkit-filter: url(#goo);
-          filter: url(#goo);
-  overflow: hidden;
+.draw-border::before, .draw-border::after {
+  border: 0 solid transparent;
+  box-sizing: border-box;
+  content: '';
+  pointer-events: none;
   position: absolute;
-  top: 0;
-  left: 0;
-  bottom: -3px;
-  right: -1px;
-  z-index: -1;
+  width: 0;
+  height: 0;
+  bottom: 0;
+  right: 0;
 }
-.c-button--gooey .c-button__blobs div {
-  background-color: #06c8d9;
-  width: 34%;
+.draw-border::before {
+  border-bottom-width: 4px;
+  border-left-width: 4px;
+}
+.draw-border::after {
+  border-top-width: 4px;
+  border-right-width: 4px;
+}
+.draw-border:hover {
+  color: #ffe593;
+}
+.draw-border:hover::before, .draw-border:hover::after {
+  border-color: #ffe593;
+  -webkit-transition: border-color 0s, width 0.25s, height 0.25s;
+  transition: border-color 0s, width 0.25s, height 0.25s;
+  width: 100%;
   height: 100%;
-  border-radius: 100%;
-  position: absolute;
-  -webkit-transform: scale(1.4) translateY(125%) translateZ(0);
-          transform: scale(1.4) translateY(125%) translateZ(0);
-  -webkit-transition: all 700ms ease;
-  transition: all 700ms ease;
 }
-.c-button--gooey .c-button__blobs div:nth-child(1) {
-  left: -5%;
+.draw-border:hover::before {
+  -webkit-transition-delay: 0s, 0s, 0.25s;
+          transition-delay: 0s, 0s, 0.25s;
 }
-.c-button--gooey .c-button__blobs div:nth-child(2) {
-  left: 30%;
-  -webkit-transition-delay: 60ms;
-          transition-delay: 60ms;
+.draw-border:hover::after {
+  -webkit-transition-delay: 0s, 0.25s, 0s;
+          transition-delay: 0s, 0.25s, 0s;
 }
-.c-button--gooey .c-button__blobs div:nth-child(3) {
-  left: 66%;
-  -webkit-transition-delay: 25ms;
-          transition-delay: 25ms;
+
+.btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  line-height: 1.5;
+  font: 700 1.2rem 'Roboto Slab', sans-serif;
+  padding: 1em 2em;
+  letter-spacing: 0.05rem;
 }
-.c-button--gooey:hover {
-  color: #fff;
-}
-.c-button--gooey:hover .c-button__blobs div {
-  -webkit-transform: scale(1.4) translateY(0) translateZ(0);
-          transform: scale(1.4) translateY(0) translateZ(0);
+.btn:focus {
+  outline: 2px dotted #55d7dc;
 }
