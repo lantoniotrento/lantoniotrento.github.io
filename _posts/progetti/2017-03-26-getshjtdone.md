@@ -3,8 +3,8 @@ layout: post
 category : progetti
 tagline: "Realizzazione template grafico per Jekyll"
 tags : [web-design, marketign]
-img : getshjtdone.jpg
-img2 : getshjtdone1.jpg
+img : getshjtdone-mockup1.jpg
+img2 : getshjtdone-mockup.jpg
 img3 : folio-getshjtdone.jpg
 author : Antonio Trento
 tools: [Bootstrap3, Jekyll, Github Pages]
