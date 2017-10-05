@@ -3,8 +3,8 @@ layout: post
 category : progetti
 tagline: "Implementazione cloud media server privato su rete pubblica"
 tags : [linux, hosting, cloud, web-design]
-img : trendo-media-server.jpg
-img2 : trendomedia1.jpg
+img : trendoserver-mockup1.jpg
+img2 : trendoserver-mockup.jpg
 img3 : folio-trendo-media-server.jpg
 author : Antonio Trento
 tools: [Hosting Linux, Cloud Server, Wordpress, Funnel, Email Automation]
