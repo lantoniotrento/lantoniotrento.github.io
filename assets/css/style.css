@@ -1175,7 +1175,7 @@ textarea:focus {
 
 .draw-border {
   box-shadow: inset 0 0 0 4px #58afd1;
-  color: #58afd1;
+  color: #337ab7;
   -webkit-transition: color 0.25s 0.08333s;
   transition: color 0.25s 0.08333s;
   position: relative;
@@ -1200,7 +1200,7 @@ textarea:focus {
   border-right-width: 4px;
 }
 .draw-border:hover {
-  color: #ffe593;
+  color: #ffbf00;
 }
 .draw-border:hover::before, .draw-border:hover::after {
   border-color: #ffe593;
