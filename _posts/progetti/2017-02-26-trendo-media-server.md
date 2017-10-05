@@ -7,7 +7,7 @@ img : trendoserver-mockup1.jpg
 img2 : trendoserver-mockup.jpg
 img3 : folio-trendo-media-server.jpg
 author : Antonio Trento
-tools: [Hosting Linux, Cloud Server, Wordpress, Funnel, Email Automation]
+tools: [Hosting Linux, Esperimento Cloud, Wordpress, Funnel, Email Automation, piwik]
 css: 
 js: 
 keywords: cloud, website, web design, design, marketign, web marketing, linux, server
