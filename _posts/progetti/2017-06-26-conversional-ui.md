@@ -3,8 +3,8 @@ layout: post
 category : progetti
 tagline: "Implementazione javascript framework su Jekyll"
 tags : [web-design, javascript]
-img : 01.jpg
-img2 : conversationalui1.jpg
+img : conversional-ui-mockup1.jpg
+img2 : conversional-ui-mockup.jpg
 img3 : folio-conversational_ui.jpg
 author : Antonio Trento
 tools: [HTML, CSS, Javascript, Jekyll, Github Pages]
