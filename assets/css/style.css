@@ -1174,8 +1174,8 @@ textarea:focus {
 /* Border over button */
 
 .draw-border {
-  box-shadow: inset 0 0 0 4px #337ab7;
-  color: #337ab7;
+  box-shadow: inset 0 0 0 4px #337ab7!important;
+  color: #337ab7!important;
   -webkit-transition: color 0.25s 0.08333s;
   transition: color 0.25s 0.08333s;
   position: relative;
@@ -1200,10 +1200,10 @@ textarea:focus {
   border-right-width: 4px;
 }
 .draw-border:hover {
-  color: #ffbf00;
+  color: #ffbf00!important;
 }
 .draw-border:hover::before, .draw-border:hover::after {
-  border-color: #ffbf00;
+  border-color: #ffbf00!important;
   -webkit-transition: border-color 0s, width 0.25s, height 0.25s;
   transition: border-color 0s, width 0.25s, height 0.25s;
   width: 100%;
@@ -1230,7 +1230,7 @@ textarea:focus {
   letter-spacing: 0.05rem;
 }
 .btn2:focus {
-  outline: 2px dotted #337ab7;
+  outline: 2px dotted #337ab7!important;
 }
 a.btn2:hover {
   text-decoration: none !important;
