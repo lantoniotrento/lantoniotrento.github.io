@@ -1169,9 +1169,6 @@ textarea:focus {
         font-size: 30px;
         line-height: 30px;
     }
-    mobile-mail{
-	 font-size: 10px!important;   
-    }
 }
 
 /* Border over button */
