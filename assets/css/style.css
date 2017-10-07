@@ -769,9 +769,9 @@ b i:last-child {
 .portfolio_item .portfolio_item_hover .item_info em {
     font-style: normal;
     display: inline-block;
-    background-color: #ffbf00;
+    /*background-color: #ffbf00;*/
     padding: 5px 20px;
-    border-radius: 25px;
+    /*border-radius: 25px;*/
     color: #333;
     margin-top: 10px;
     -webkit-transform: translateX(-100px);
