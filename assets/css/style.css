@@ -1255,7 +1255,7 @@ a.btn2:hover {
 }
 .highlight-container:before {
   background: rgba(255, 191, 0, 0.9);
-  transform: rotate(2deg);
+  transform: rotate(1deg);
   top: -1px;
   left: -1px;
 }
