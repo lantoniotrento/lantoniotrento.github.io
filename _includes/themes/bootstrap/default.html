@@ -101,11 +101,6 @@ lantoniotrento@gmail.com
   <script id="dsq-count-scr" src="//{{ site.JB.comments.disqus.short_name }}.disqus.com/count.js" async></script>
   {% endif %}
 
-
-<!-- ********************* Box SCRIPTING ******************************-->
-<!--Custom script loaded by children page-->
-{% if page.js %}<script type="text/javascript" src="text/css" href="{{ BASE_PATH }}/assets/js/{{ page.js }}" />{% endif %}
-
     <!-- JS includes -->
 
     <script src="{{ BASE_PATH }}/assets/js/jquery-2.1.1.js"></script>
@@ -131,6 +126,9 @@ scaleY:.85},"-=1").to(l,1,{x:-40,transformOrigin:"50% 50%",scaleY:.85},"-=1").se
 A,a],1,{scale:0,ease:Back.easeOut},.1).to(r,2,{y:80,delay:2,ease:Back.easeIn.config(2)});TweenMax.set("svg",{visibility:"visible"})})();
 	</script>
 	
+<!-- ********************* Grads SCRIPTING ******************************-->
+	<!--Custom script loaded by children page-->
+	{% if page.js %}<script src="{{ BASE_PATH }}/assets/js/{{ page.js }}"></script>{% endif %}
 
 
   </body>
