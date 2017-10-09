@@ -3,7 +3,7 @@ layout: post
 category : progetti
 tagline: "Realizzazione idea e prototipo web"
 tags : [web-design, marketign, funnel]
-img : helium-jekyll1.jpg
+img : helium-jekyll2.jpg
 img2 : helium-jekyll.jpg
 img3 : folio-helium.jpg
 author : Antonio Trento
