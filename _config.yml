@@ -99,8 +99,8 @@ JB :
   #
   comments :
     provider : disqus
-    disqus : antonio-trento-portfolio
-      short_name : 
+    disqus : 
+      short_name : antonio-trento-portfolio
     #livefyre :
     #  site_id : 
     #intensedebate :
