@@ -1268,3 +1268,11 @@ a.btn2:hover {
   color: #333;
   z-index: 4;
 }
+::selection {
+  background: #ffb7b7; /* WebKit/Blink Browsers */
+  color: black;
+}
+::-moz-selection {
+  background: #ffb7b7; /* Gecko Browsers */
+  color: black;
+}
