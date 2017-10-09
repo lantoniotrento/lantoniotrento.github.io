@@ -236,6 +236,7 @@ h5 {
     height: 100%;
     width: 50px;
     background-color: #fff;
+    z-index: 5;		
 }
 
 .box-primary-nav-trigger .box-menu-text {
