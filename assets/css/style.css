@@ -1269,10 +1269,10 @@ a.btn2:hover {
   z-index: 4;
 }
 ::selection {
-  background: #ffb7b7; /* WebKit/Blink Browsers */
-  color: black;
+  background: black; /* WebKit/Blink Browsers */
+  color: white;
 }
 ::-moz-selection {
-  background: #ffb7b7; /* Gecko Browsers */
-  color: black;
+  background: black; /* Gecko Browsers */
+  color: white;
 }
