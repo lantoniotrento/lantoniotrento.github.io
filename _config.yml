@@ -99,7 +99,7 @@ JB :
   #
   comments :
     provider : disqus
-    disqus : 
+    disqus : antonio-trento-portfolio
       short_name : 
     #livefyre :
     #  site_id : 
