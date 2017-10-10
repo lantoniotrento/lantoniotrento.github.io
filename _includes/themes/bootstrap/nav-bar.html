@@ -1,37 +1,30 @@
-   <div class="container-fluid">
-        <!-- box header -->
-        <header class="box-header">
-            <div class="box-logo">
-                <a href="{{ BASE_PATH }}"><img src="{{ BASE_PATH }}/assets/images/antonio-trento-small-logo.png" width="80" alt="Antonio Trento Web Marketing Specialist"></a>
-            </div>
-            <!-- box-nav -->
-            <a class="box-primary-nav-trigger" href="#0">
-                <span class="box-menu-text">Menu</span><span class="box-menu-icon"></span>
-            </a>
-            <!-- box-primary-nav-trigger -->
-        </header>
-        <!-- end box header -->
-
-        <!-- nav -->
-        <nav>
-            <ul class="box-primary-nav">
-
-                         {% assign pages_list = site.pages %}
-                         {% assign group = 'navigation' %}
-                         {% include JB/pages_list %}
-
-
-
-                <li class="box-label">Socializziamo:</li>
-
-                {% if site.author.facebook %}<li class="box-social"><a href="https://www.facebook.com/{{ site.author.facebook }}/"><i class="ion-social-facebook"></i></a></li>{% endif %}
-                {% if site.author.linkedin %}<li class="box-social"><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="ion-social-linkedin"></i></a></li>{% endif %}
-                {% if site.author.instagram %}<li class="box-social"><a href="https://www.instagram.com/{{ site.author.instagram }}/"><i class="ion-social-instagram-outline"></i></a></li>{% endif %}
-                {% if site.author.twitter %}<li class="box-social"><a href="https://twitter.com/{{ site.author.twitter }}"><i class="ion-social-twitter"></i></a></li>{% endif %}
-
-            </ul>
-        </nav>
-        <!-- end nav -->
+<nav id="ntitle">
+<div>
+  <a href="{{ BASE_PATH }}"><h1>Schrift <span>for Jekyll</span></h1></a>
+  <div class="desc"><a href=https://github.com/lantoniotrento/lantoniotrento.github.io><span class=oi data-glyph=fork></span> Fork me</a></div>
+  
+  <a onclick="document.getElementById('ntitle').classList.toggle('expanded')" class="button menumarker" style="width:35px;padding:0"><span class="oi" data-glyph="menu"></span></a>
+  <a class="button rss" title="RSS" href="{{ BASE_PATH }}/rss.xml"><span class="oi" data-glyph="rss"></span></a>
+  
+  <div class="nlinks">
+    <div>
+	
+	   <a href="{{ BASE_PATH }}/blog">
+		<span class="oi" data-glyph="list"></span>
+		<span>Archive<span>
+	   </a>
+	
+	    <a href="{{ BASE_PATH }}/page">
+		<span class="oi" data-glyph="list-rich"></span>
+		<span>some page<span>
+	    </a>
+	
+	    <a href="{{ BASE_PATH }}/about">
+		<span class="oi" data-glyph="info"></span>
+		<span>an About page<span>
+	    </a>
+	
+    </div>
+  </div>
 </div>
-
-        
+</nav>
