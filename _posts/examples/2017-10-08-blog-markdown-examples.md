@@ -80,6 +80,8 @@ This is \*\*not\*\* in bold.
 
 [This is a link](https://antoniotrento.github.io)
 
+{% include info-block.html %}
+
 ----
 
 **Default**. Text paragraph basic color
