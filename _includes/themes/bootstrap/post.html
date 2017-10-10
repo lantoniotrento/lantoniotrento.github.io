@@ -14,9 +14,10 @@
 
     <div id="post"{% if page.link %} class=link{% endif %}>
         {{ content }}
-	{% include JB/comments %}
+	    	
     </div>
-
+	    
+    <div>{% include JB/comments %}</div>
     </article>
 </section>
 
