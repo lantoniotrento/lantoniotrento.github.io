@@ -683,7 +683,8 @@
 		left: 0;
 		line-height: 8em;
 		position: absolute;
-		text-align: center;
+		text-align: right;
+		color: #b4b4b4;
 		width: 100%;
 	}
 
