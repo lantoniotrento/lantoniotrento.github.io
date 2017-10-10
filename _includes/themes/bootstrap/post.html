@@ -13,8 +13,7 @@
     </hgroup>
 
     <div id="post"{% if page.link %} class=link{% endif %}>
-        {{ content }}
-	{% include JB/comments %}    	
+        {{ content }}	   	
     </div>
 	    
 
@@ -27,7 +26,10 @@
 	      <span class="oi" data-glyph="chat" style="padding-right: 12px;"></span> If you have any feedback you would like me to read, please don't hesitate to send them over to <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>.
 	  </div>
 </div>
-      
+
+<div>
+{% include JB/comments %} 
+</div>
 
 <div class="readnext">
 {% if page.previous.url %}
