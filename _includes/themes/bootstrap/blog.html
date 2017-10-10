@@ -1,21 +1,28 @@
-{% include themes/bootstrap/nav-bar.html %}      
-<div id = "blog" class="container">      
-      <div class="row">
 
-        <div class="col-sm-8 blog-main post">
+<section class="article page" >
 
-           {{ content }}     
+<article>
 
-            {% include JB/comments %}
-          
 
-        </div>
+<hgroup>
+	<h1>Archive </h1>
+</hgroup>
 
-        <div class="col-sm-4 blog-sidebar">
-          {% include side-bar.html %}
-        </div>          
-      </div>
-     </div>
+
+<div class="archives">
+   <div class="desc">
+	   <a href="/flux.xml"><span class="oi" data-glyph="rss"></span> <em>RSS Feed</em></a>
+   </div>
+   <div>
+	{{ content }}  
+   </div>
+</div>
+
+
+</article>
+
+</section>
+
           
 
 
