@@ -19,16 +19,13 @@
     </article>
 </section>
 
-{% unless page.comments == false %}
-      {% if site.invitationmsg %}
-      <div class="invitation">
+      
+<div class="invitation">
 	  <div>
-	      <span class="oi" data-glyph="chat" style="padding-right: 12px;"></span> {{ site.invitationmsg }}
+	      <span class="oi" data-glyph="chat" style="padding-right: 12px;"></span> If you have any feedback you would like me to read, please don't hesitate to send them over to <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>.
 	  </div>
-      </div>
-      {% endif %}
-{% endunless %}
-
+</div>
+      
 
 <div class="readnext">
 {% if page.previous.url %}
@@ -40,11 +37,5 @@
 
 
 
-      
-      <div class="invitation">
-	  <div>
-	      <span class="oi" data-glyph="chat" style="padding-right: 12px;"></span> If you have any feedback you would like me to read, please don't hesitate to send them over to <a href=mailto:you@domain.xyz>you@domain.xyz</a>.
-	  </div>
-      </div>
-      
+
 
