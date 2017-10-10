@@ -1,6 +1,6 @@
-@import url('../assets/fonts/Fira/fira.css');
-@import url('../assets/fonts/openiconic/css/open-iconic.css');
-@import url('../assets/fonts/charissil/charissil.css');
+@import url('/assets/fonts/Fira/fira.css');
+@import url('/assets/fonts/openiconic/css/open-iconic.css');
+@import url('/assets/fonts/charissil/charissil.css');
 
 
 body,input {
