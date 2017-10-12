@@ -1041,3 +1041,11 @@
 		#header nav {
 			padding: 0 1em;
 		} }
+::selection {
+  background: black; /* WebKit/Blink Browsers */
+  color: white;
+}
+::-moz-selection {
+  background: black; /* Gecko Browsers */
+  color: white;
+}
