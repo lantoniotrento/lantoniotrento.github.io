@@ -651,3 +651,11 @@ blockquote {
 a.btn2:hover {
   text-decoration: none !important;
 }
+::selection {
+  background: black; /* WebKit/Blink Browsers */
+  color: white;
+}
+::-moz-selection {
+  background: black; /* Gecko Browsers */
+  color: white;
+}
