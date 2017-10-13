@@ -69,15 +69,16 @@ lantoniotrento@gmail.com
 	jQuery(document).ready(function ($) {
 	   $('.to-lock').sociallocker({
 		theme: 'glass',
-		google:{
-		   plus:{
+		facebook:{
+		   share:{
 		      url: '{{ post.url }}'
-		   }
+		   },
+		   appId: '1948709282049734'
 		},
 		twitter:{
 		   tweet:{
 		      url: '{{ post.url }}',
-		      text: 'Hey, dai un occhiata a questo post: ',
+		      text: 'Hey, dai un'occhiata a questo post: ',
 		      via: 'lantoniotrento'
 		   }
 		},
@@ -87,14 +88,14 @@ lantoniotrento@gmail.com
 		   }
 		},
 		buttons:{
-		   order: ["google-plus","twitter-tweet","linkedin-share"],
+		   order: ["facebook-share","twitter-tweet","linkedin-share"],
 		   counters: false,
 		   lazy: false
 		}
 	   });
 	});
-	</script>	  
-    
+	</script>
+	  
  </head>
   <body>	  	   
 
