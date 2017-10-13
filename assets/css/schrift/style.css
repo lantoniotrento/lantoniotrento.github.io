@@ -659,3 +659,62 @@ a.btn2:hover {
   background: black; /* Gecko Browsers */
   color: white;
 }
+
+ /*=====================*/
+.social-nav {
+  padding: 0;
+  list-style: none;
+  display: inline-block;
+  margin: 10px auto;
+}
+.social-nav li {
+  display: inline-block;
+}
+.social-nav a {
+  display: inline-block;
+  float: left;
+  width: 48px;
+  height: 48px;
+  font-size: 20px;
+  color: #FFF;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+  line-height: 48px;
+  background: #000;
+  position: relative;
+  -moz-transition: 0.5s;
+  -o-transition: 0.5s;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+
+.model-4 li {
+  margin: 0 2px;
+}
+.model-4 a {
+  background: none;
+  line-height: 1.5;
+  font-size: 32px;
+  text-shadow: 0px 0px 1px;
+}
+.model-4 a:hover {
+  text-shadow: 0px 0px 25px;
+}
+.model-4 .twitter {
+  color: #00ACED;
+}
+.model-4 .facebook {
+  color: #3B579D;
+}
+.model-4 .google-plus {
+  color: #DD4A3A;
+}
+.model-4 .linkedin {
+  color: #007BB6;
+}
+.model-4 .pinterest {
+  color: #CB2026;
+}
+
