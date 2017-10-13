@@ -63,12 +63,12 @@ Dai va bene, ma però prima posso chiederti una condivisione? Non immagini quant
 
 ----
  
- <ul class="social-ul">
-                <li class="box-social"><a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}%20{{ page.description }}&source=LinkedIn" rel="nofollow" target="_blank" class="icon-17 linkedin" title="Post on LinkedIn"><i class="ion-social-linkedin"></i></a></li>                                                
-                <li class="box-social"><a href="https://facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" class="icon-10 facebook" title="Share on Facebook"><i class="ion-social-facebook"></i></a></li>               
-                <li class="box-social"><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" class="icon-26 twitter" title="Tweet it"><i class="ion-social-twitter"></i></a></li>
-                <li class="box-social"><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" class="icon-14 googleplus" title="Plus it on GooglePlus"><i class="ion-social-googleplus"></i></a></li>                        
-            </ul>
+<p class="social">
+<a href="http://twitter.com/bgardner"><i class="icon ion-social-twitter"></i></a>
+<a href="http://www.facebook.com/bgardner"><i class="icon ion-social-facebook"></i></a>
+<a href="http://instagram.com/bgardner"><i class="icon ion-social-instagram-outline"></i></a>
+<a href="http://dribbble.com/bgardner"><i class="icon ion-social-dribbble-outline"></i></a>
+</p>
 
 ----
 
