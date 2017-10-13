@@ -3,7 +3,7 @@ layout: post
 category : docs
 tagline: "I migliori hosting per wordpress e jekyll nel 2018"
 tags : [hosting, web sites, web business]
-locker: <h2>4 Digital ocean</h2><p>Questo strumento è eccezionale, si è vero, hai bisogno di competenze in amministrazione di rete e linux per utilizzarla al meglio, ma è comunque strutturata in modo molto semplice e ti permette di eseguire azioni amministrative molto complesse in pochi e facili passi.</p><p>È lo strumento che consiglio maggiormente per gestire le tue pagine web perchè è molto stabile, scalabile, velocissimo e nettamente meno costoso di qualsiasi altro provider tu possa trovare su web a parità di prestazioni offerte!</p><p>Con poche centinaia di euro l'anno potrai installare in modo semplice e gestire piattaforme web Wordpress velocissime, che possono accettare milioni di visite al mese! È l'ideale per chi vuole operare in modo professionale creando campagne di markerting che portano traffico considerevole alle pagine web.</p><p>Il tutto con un'interfaccia amministrativa semplice e molto versatile ti permetterà di creare molte azioni al tuo server in modo semplice da implementare la tua macchina virtuale per un'applicazione professionale ed ospitarla in cloud in modo semplice a operare sulla shell della tua macchina per modificare conigurazioni complesse.</p>
+locker: <h2>Digital ocean</h2><p>Questo strumento è eccezionale, si è vero, hai bisogno di competenze in amministrazione di rete e linux per utilizzarla al meglio, ma è comunque strutturata in modo molto semplice e ti permette di eseguire azioni amministrative molto complesse in pochi e facili passi.</p><p>È lo strumento che consiglio maggiormente per gestire le tue pagine web perchè è molto stabile, scalabile, velocissimo e nettamente meno costoso di qualsiasi altro provider tu possa trovare su web a parità di prestazioni offerte!</p><p>Con poche centinaia di euro l'anno potrai installare in modo semplice e gestire piattaforme web Wordpress velocissime, che possono accettare milioni di visite al mese! È l'ideale per chi vuole operare in modo professionale creando campagne di markerting che portano traffico considerevole alle pagine web.</p><p>Il tutto con un'interfaccia amministrativa semplice e molto versatile ti permetterà di creare molte azioni al tuo server in modo semplice da implementare la tua macchina virtuale per un'applicazione professionale ed ospitarla in cloud in modo semplice a operare sulla shell della tua macchina per modificare conigurazioni complesse.</p>
 img : markdown-samples.jpg
 img2 : 
 img3 : 
@@ -91,7 +91,9 @@ Il fatto che sia **gratuito e veloce non lo rende la prima** scelta per via dell
 
 Ho scelto per te un'ultima soluzione sia per prezzo che per qualità del servizio, che ti permette di ospitare milioni di utenti al mese, una piattaforma di cloud hosting che a mio avviso è la migliore ma richiede alcune competenze tecniche per essere implementata.
 
-Ma per questa informazione ti chiedo di condividere il post su uno dei tuoi social perchè è un'informazione che pochi forniscono ed Antonio ha fatto tanta fatica per reperirla 
+## Cloud Hosting segreto
+
+Per questa informazione ti chiedo di condividere il post su uno dei tuoi social perchè è un'informazione che pochi forniscono ed Antonio ha fatto tanta fatica per reperirla 
  
 {% include social-locker.html %}
 
