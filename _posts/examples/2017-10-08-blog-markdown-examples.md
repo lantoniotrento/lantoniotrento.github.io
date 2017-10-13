@@ -3,7 +3,7 @@ layout: post
 category : docs
 tagline: "Example helium post in markdown and html classes"
 tags : [jekyll, code, markdown]
-locker: Prova locker contenuto hidden provo un contenuto lungo con un link in [markdown](https://antcv.github.io) per vedere se rende bene o fa ridere ai polli, poi proverò anche un locker con elementi html ma la vedo dura in questa configurazione
+locker: Prova locker contenuto hidden provo un contenuto lungo con un link in <a href="https://antcv.github.io">markdown</a> per vedere se rende bene o fa ridere ai polli, poi proverò anche un locker con elementi html ma la vedo dura in questa configurazione
 img : markdown-samples.jpg
 img2 : 
 img3 : 
