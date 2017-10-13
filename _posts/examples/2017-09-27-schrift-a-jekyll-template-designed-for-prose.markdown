@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Schrift, a Jekyll template designed for prose.
+locker: Prova locker contenuto hidden
 ---
 *I have often tried to design a weblog style that would focus on the content and would still be elegant and nice to look at. I don’t pretend I have achieved it yet. But **Schrift** is my most recent attempt at it. I’m making this template for Jekyll available now. [Please use and hack](https://github.com/Schoewilliam/Schrift)!*
 
@@ -19,20 +20,4 @@ Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. 
 ---
 
 
-{% include social-locker-in.html %}
-            <div>
-                <p><strong>Prova social locker</strong></p>
-                <p>
-                    Qua proviamo il social locker non si scherza un cazzo.
-                </p>
-            </div>
-            <div>
-                <img src="{{ BASE_PATH }}/img/image.jpg" alt="Preview image"><br />
-                <i>Questo è il social locker e fa paura per viralizzare contenuti.</i>
-            </div>
-            <div >
-                <p>Diventa anche tu un pro marketer. 
-                Morbi dui leo, euismod a diam vitae, hendrerit ultricies arcu. 
-                Suspendisse tempor ultrices urna ut auctor.</p>
-            </div>
-{% include social-locker-out.html %}
+{% include social-locker.html %}
