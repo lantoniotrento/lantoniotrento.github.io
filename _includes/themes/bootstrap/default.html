@@ -90,17 +90,6 @@ jQuery(document).ready(function ($) {
 	   position: 'top',
 	   intensity: '6'
 	},
-	facebook:{
-	   share:{
-	      url: '{{ post.url }}'
-	   },
-	   appId: '1948709282049734'
-	},
-	google:{
-	   plus:{
-	      url: '{{ post.url }}'
-	   }
-	},
 	twitter:{
 	   tweet:{
 	      url: '{{ post.url }}',
@@ -114,7 +103,7 @@ jQuery(document).ready(function ($) {
 	   }
 	},
 	buttons:{
-	   order: ["facebook-share","google-plus","twitter-tweet","linkedin-share"],
+	   order: ["twitter-tweet","linkedin-share"],
 	   counters: false,
 	   lazy: false
 	}
