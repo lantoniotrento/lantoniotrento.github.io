@@ -55,6 +55,30 @@ lantoniotrento@gmail.com
 	<script src="//widget.manychat.com/1010094929028825.js" async="async">
 	</script>	  
   </head>
+	
+	
+<!-- Social locker block -->	
+    <!-- 1. Include jQuery and the plugin files in to your page -->
+    <script src="{{ BASE_PATH }}/js/libs/jquery.min.js"></script>
+    <script src="{{ BASE_PATH }}/js/libs/jquery.ui.highlight.min.js"></script>
+    <script src="{{ BASE_PATH }}/js/pandalocker.2.0.0.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="{{ BASE_PATH }}/css/pandalocker.2.0.0.min.css">
+    <script>
+	jQuery(document).ready(function ($) {
+	   $('.to-lock').sociallocker({
+		theme: 'glass',
+		facebook:{
+		   appId: '117100935120196'
+		},
+		buttons:{
+		   order: ["facebook-share","google-plus","twitter-tweet"],
+		   counters: true,
+		   lazy: true
+		}
+	   });
+	});
+  </script>	
+
   <body>	  	   
 
       <!--Home page style--> 
