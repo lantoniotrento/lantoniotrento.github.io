@@ -90,27 +90,34 @@ jQuery(document).ready(function ($) {
 	   position: 'top',
 	   intensity: '6'
 	},
+	facebook:{
+	   appId: '1948709282049734',
+	   share:{
+	      title: 'Condividi'
+	   }
+	},
 	twitter:{
 	   tweet:{
 	      url: '{{ post.url }}',
 	      text: 'Hey, dai un occhio a questo post: ',
-	      via: 'lantoniotrento'
+	      via: 'lantoniotrento',
+	      title: 'Tweet'
 	   }
 	},
 	linkedin:{
 	   share:{
-	      url: '{{ post.url }}'
+	      url: '{{ post.url }}',
+	      title: 'Post'
 	   }
 	},
 	buttons:{
-	   order: ["twitter-tweet","linkedin-share"],
+	   order: ["facebook-share","twitter-tweet","linkedin-share"],
 	   counters: false,
 	   lazy: false
 	}
    });
 });
-</script>
-	  
+</script>	  
 </head>
   <body>	  	   
 
