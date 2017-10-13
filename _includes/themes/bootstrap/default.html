@@ -74,8 +74,20 @@ lantoniotrento@gmail.com
 		      url: '{{ post.url }}'
 		   }
 		},
+		twitter:{
+		   tweet:{
+		      url: '{{ post.url }}',
+		      text: 'Hey, dai un'occhiata a questo post: ',
+		      via: 'lantoniotrento'
+		   }
+		},
+		linkedin:{
+		   share:{
+		      url: '{{ post.url }}'
+		   }
+		},
 		buttons:{
-		   order: ["google-plus","twitter-tweet"],
+		   order: ["google-plus","twitter-tweet","linkedin-share"],
 		   counters: false,
 		   lazy: false
 		}
