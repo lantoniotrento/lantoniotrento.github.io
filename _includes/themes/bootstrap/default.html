@@ -65,24 +65,23 @@ lantoniotrento@gmail.com
     <script src="{{ BASE_PATH }}/js/libs/jquery.ui.highlight.min.js"></script>
     <script src="{{ BASE_PATH }}/js/pandalocker.2.0.0.min.js"></script>
 
-    <script>
+	<script>
 	jQuery(document).ready(function ($) {
 	   $('.to-lock').sociallocker({
 		theme: 'glass',
-		facebook:{
-		   like:{
-		      url: 'https://facebook.com/lantoniotrento'
+		google:{
+		   plus:{
+		      url: '{{ post.url }}'
 		   }
 		},
 		buttons:{
-		   order: ["facebook-like","google-plus","twitter-tweet"],
-	      	   counters: false,
+		   order: ["google-plus","twitter-tweet"],
+		   counters: false,
 		   lazy: false
-
 		}
 	   });
 	});
-    </script>	  
+	</script>	  
     
  </head>
   <body>	  	   
