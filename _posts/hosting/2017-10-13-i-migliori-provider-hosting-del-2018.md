@@ -63,12 +63,15 @@ Dai va bene, ma però prima posso chiederti una condivisione? Non immagini quant
 
 ----
  
-<p class="social">
-<a href="http://twitter.com/bgardner"><i class="icon ion-social-twitter"></i></a>
-<a href="http://www.facebook.com/bgardner"><i class="icon ion-social-facebook"></i></a>
-<a href="http://instagram.com/bgardner"><i class="icon ion-social-instagram-outline"></i></a>
-<a href="http://dribbble.com/bgardner"><i class="icon ion-social-dribbble-outline"></i></a>
-</p>
+
+      <ul class="social-nav model-4">
+        <li><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" class="google-plus" rel="nofollow" target="_blank" title="Share on Google plus"><i class="fa fa-google-plus"></i></a></li>
+        <li><a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}%20{{ page.description }}&source=LinkedIn" rel="nofollow" target="_blank" title="Share on LinkedIn" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
+        <li><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" class="twitter" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a></li>
+        <li>
+          <a href="https://facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" class="facebook" rel="nofollow" target="_blank" title="Share on Facebook"> <i class="fa fa-facebook"></i></a>
+        </li>
+      </ul>
 
 ----
 
