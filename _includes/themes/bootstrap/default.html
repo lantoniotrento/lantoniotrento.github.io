@@ -59,25 +59,8 @@ lantoniotrento@gmail.com
 	
 <!-- Social locker block -->	
     <!-- 1. Include jQuery and the plugin files in to your page -->
-    <script src="{{ BASE_PATH }}/js/libs/jquery.min.js"></script>
-    <script src="{{ BASE_PATH }}/js/libs/jquery.ui.highlight.min.js"></script>
-    <script src="{{ BASE_PATH }}/js/pandalocker.2.0.0.min.js"></script>
-    <link type="text/css" rel="stylesheet" href="{{ BASE_PATH }}/css/pandalocker.2.0.0.min.css">
-    <script>
-	jQuery(document).ready(function ($) {
-	   $('.to-lock').sociallocker({
-		theme: 'glass',
-		facebook:{
-		   appId: '117100935120196'
-		},
-		buttons:{
-		   order: ["facebook-share","google-plus","twitter-tweet"],
-		   counters: true,
-		   lazy: true
-		}
-	   });
-	});
-  </script>	
+    <link type="text/css" rel="stylesheet" href="{{ BASE_PATH }}/css/pandalocker.2.0.0.min.css">	  
+    
  </head>
   <body>	  	   
 
@@ -92,9 +75,30 @@ lantoniotrento@gmail.com
   <script id="dsq-count-scr" src="//{{ site.JB.comments.disqus.short_name }}.disqus.com/count.js" async></script>
   {% endif %}
 
-<!-- ********************* Grads SCRIPTING ******************************-->
-	<!--Custom script loaded by children page-->
-	{% if page.js %}<script src="{{ BASE_PATH }}/assets/js/{{ page.js }}"></script>{% endif %}
+<!-- ********************* SOCIAL LOCKER SCRIPTING ******************************-->
+	  
+    <script src="{{ BASE_PATH }}/js/libs/jquery.min.js"></script>
+    <script src="{{ BASE_PATH }}/js/libs/jquery.ui.highlight.min.js"></script>
+    <script src="{{ BASE_PATH }}/js/pandalocker.2.0.0.min.js"></script>
+
+    <script>
+	jQuery(document).ready(function ($) {
+	   $('.to-lock').sociallocker({
+		theme: 'glass',
+		facebook:{
+		   appId: '117100935120196'
+		},
+		buttons:{
+		   order: ["facebook-share","google-plus","twitter-tweet"],
+		   counters: true,
+		   lazy: true
+		}
+	   });
+	});
+    </script>		  
+    
+    <!--Custom script loaded by children page-->
+    {% if page.js %}<script src="{{ BASE_PATH }}/assets/js/{{ page.js }}"></script>{% endif %}
 	
 
 
