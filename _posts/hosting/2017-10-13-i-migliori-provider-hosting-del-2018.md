@@ -60,13 +60,10 @@ Allora vuoi conoscere quali sono i migliori provider hosting del 2018?
 
 Dai va bene, ma però prima posso chiederti una condivisione? Non immagini quante ricerche abbia fatto e quanto tempo ho dedicato per stilare questa lista! Grazie in anticipo dell'aiuto ☺️ 
 
-----
-
-{% include social-share.html %}
 
 ----
  
-{% include social-locker.html %}
+{% include social-share.html %}
 
 ----
 
