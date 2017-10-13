@@ -33,7 +33,7 @@ Un **hosting** è un tassello fondamentale per creare una presena online perchè
 
 Avendo un sito web ospitato sul tuo hosting avrai a disposizione un punto di riferimento al quale appoggiarsi per promuovere i propri servizi e le prorpie offerte, creare interesse tramite post sul tuo blog, generare interesse nel tuo pubblico tramite campagne di marketing **avere un punto di riferimento per i tuoi lettori** e molto altro.
 
-*Credo che ad oggi possedere un hosting performante dove far girare il proprio sito web sia molto importante per l'immagine del business associato.*
+> "Credo che ad oggi possedere un hosting performante dove far girare il proprio sito web sia molto importante per l'immagine del business associato."
 
 Per questo dopo molte ricerche e tests con molti provider su mercato sono riuscito a estrapolare una lista con i migliori hosting su mercato in base alle esigenze di business ed in base alle performace dei servizi offerti.
 
