@@ -65,7 +65,6 @@ Dai va bene, ma però prima posso chiederti una condivisione? Non immagini quant
 {% include social-share.html %}
 
 ----
-----
  
 {% include social-locker.html %}
 
