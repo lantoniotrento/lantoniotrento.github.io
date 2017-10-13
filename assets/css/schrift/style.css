@@ -703,18 +703,18 @@ a.btn2:hover {
   text-shadow: 0px 0px 25px;
 }
 .model-4 .twitter {
-  color: #00ACED;
+  color: #00ACED!important;
 }
 .model-4 .facebook {
-  color: #3B579D;
+  color: #3B579D!important;
 }
 .model-4 .google-plus {
-  color: #DD4A3A;
+  color: #DD4A3A!important;
 }
 .model-4 .linkedin {
-  color: #007BB6;
+  color: #007BB6!important;
 }
 .model-4 .pinterest {
-  color: #CB2026;
+  color: #CB2026!important;
 }
 
