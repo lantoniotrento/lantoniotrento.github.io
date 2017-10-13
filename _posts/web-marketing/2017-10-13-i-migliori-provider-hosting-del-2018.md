@@ -70,6 +70,11 @@ Dai va bene, ma però prima posso chiederti una condivisione? Non immagini quant
 
 # I migliori provider Hosting
 
+Ecco il quore della questione!
+
+Ma è necessaria una premessa, la scelta del tuo provider dipende sia dalla disponibilità economica sia dai tuoi obiettivi di business, non credi?
+
+Qui in basso ho creato una lista mirata a proporre servizi sia economici che di alta qualità, per riuscire a **presentare i tuoi servizi in maniera professionale**.
  
 ## Siteground
 Dicono sia il miglior hosting per quanto riguarda il mercato Italiano. Dicono così solo perchè è il più semplice da implementare, non c'è bisogno di skills particolari e quindi risulta il servizio più efficace da proprorre ad un grande pubblico.
