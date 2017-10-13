@@ -19,23 +19,20 @@ Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. 
 ---
 
 
-<div style="max-width: 600px; margin: 20px auto;">
- <p>Check out <a href="index.html">Configuration Wizard</a> for more details.</p>
-    <div class="to-lock" style="text-align: center;">
+{% include social-locker-in.html %}
             <div>
-                <p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing</strong></p>
+                <p><strong>Prova social locker</strong></p>
                 <p>
-                    Maecenas sed consectetur tortor. Morbi non vestibulum eros, at posuere nisi praesent consequat.
+                    Qua proviamo il social locker non si scherza un cazzo.
                 </p>
             </div>
             <div>
-                <img src="img/image.jpg" alt="Preview image"><br />
-                <i>Aenean vel sodales sem. Morbi et felis eget felis vulputate placerat.</i>
+                <img src="{{ BASE_PATH }}/img/image.jpg" alt="Preview image"><br />
+                <i>Questo è il social locker e fa paura per viralizzare contenuti.</i>
             </div>
             <div >
-                <p>Curabitur a rutrum enim, sit amet ultrices quam. 
+                <p>Diventa anche tu un pro marketer. 
                 Morbi dui leo, euismod a diam vitae, hendrerit ultricies arcu. 
                 Suspendisse tempor ultrices urna ut auctor.</p>
             </div>
-        </div>
-   </div>
+{% include social-locker-out.html %}
