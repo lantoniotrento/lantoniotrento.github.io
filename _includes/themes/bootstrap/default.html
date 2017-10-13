@@ -65,37 +65,46 @@ lantoniotrento@gmail.com
     <script src="{{ BASE_PATH }}/js/libs/jquery.ui.highlight.min.js"></script>
     <script src="{{ BASE_PATH }}/js/pandalocker.2.0.0.min.js"></script>
 
-	<script>
-	jQuery(document).ready(function ($) {
-	   $('.to-lock').sociallocker({
-		theme: 'flat',
-		facebook:{
-		   share:{
-		      url: '{{ post.url }}'
-		   },
-		   appId: '1948709282049734'
-		},
-		twitter:{
-		   tweet:{
-		      url: '{{ post.url }}',
-		      text: 'Hey, dai un occhiata a questo post: ',
-		      via: 'lantoniotrento'
-		   }
-		},
-		linkedin:{
-		   share:{
-		      url: '{{ post.url }}'
-		   }
-		},
-		buttons:{
-		   order: ["facebook-share","twitter-tweet","linkedin-share"],
-		   counters: false,
-		   lazy: false
-		}
-	   });
-	});
-	</script>
-	  
+<script>
+jQuery(document).ready(function ($) {
+   $('.to-lock').sociallocker({
+	theme: 'flat',
+	overlap:{
+	   mode: 'blurring',
+	   position: 'top',
+	   intensity: '6'
+	},
+	google:{
+	   plus:{
+	      url: '{{ post.url }}'
+	   }
+	},
+	facebook:{
+	   share:{
+	      url: '{{ post.url }}'
+	   },
+	   appId: '1948709282049734'
+	},
+	twitter:{
+	   tweet:{
+	      url: '{{ post.url }}',
+	      text: 'Hey, dai un occhio a questo post: ',
+	      via: 'lantoniotrento'
+	   }
+	},
+	linkedin:{
+	   share:{
+	      url: '{{ post.url }}'
+	   }
+	},
+	buttons:{
+	   order: ["google-plus","facebook-share","twitter-tweet","linkedin-share"],
+	   counters: false,
+	   lazy: false
+	}
+   });
+});
+</script>	  
  </head>
   <body>	  	   
 
