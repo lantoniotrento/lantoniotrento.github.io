@@ -71,14 +71,14 @@ Dai va bene, ma però prima posso chiederti una condivisione? Non immagini quant
 # I migliori provider Hosting
 
  
-## 2 Siteground
+## Siteground
 Dicono sia il miglior hosting per quanto riguarda il mercato Italiano. Dicono così solo perchè è il più semplice da implementare, non c'è bisogno di skills particolari e quindi risulta il servizio più efficace da proprorre ad un grande pubblico.
 
 Il servizio funziona bene per siti piccoli e di medie dimensioni, mi sento di consigliarti di usarlo se non capisci nulla di informatica e vuoi affacciarti al mondo del business su web, ti permetterà di svolgere azioni amministrative complesse in modo semplice e naturale. 
 
 In conseguenza al fatto che sia semplice da utilizzare i costi del servizio non sono proprio utopici ma sono abbordabili.
 
-## 3 Git Hub
+## Git Hub
 
 È lo strumento che ho scelto per ospitare questo blog peculiarmente perchè è gratis! 
 
