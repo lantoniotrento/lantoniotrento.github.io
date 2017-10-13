@@ -99,10 +99,9 @@ Il piano di hosting gratuito è molto permissivo, permette di ottenere 100.000 c
 
 Il fatto che sia **gratuito e veloce non lo rende la prima** scelta per via della difficoltà nell'implementare la piattaforma di blogging, dato che, richiede competenze di programmazione mettere in piedi il tutto, ma per chi conosce abbastanza bene HTML e CSS risulterebbe un'ottima scelta per creare un business senza costi di hosting.
 
+## Cloud Hosting segreto
 
 Ho scelto per te un'ultima soluzione sia per prezzo che per qualità del servizio, che ti permette di ospitare milioni di utenti al mese, una piattaforma di cloud hosting che a mio avviso è la migliore ma richiede alcune competenze tecniche per essere implementata.
-
-## Cloud Hosting segreto
 
 Per questa informazione ti chiedo di condividere il post su uno dei tuoi social perchè è un'informazione che pochi forniscono ed Antonio ha fatto tanta fatica per reperirla 
 
