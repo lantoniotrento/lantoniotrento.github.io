@@ -16,11 +16,12 @@ From this line on, posts are written in Latin on a demoing purpose. Enjoy.
 
 Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
 
-    <div style="max-width: 600px; margin: 20px auto;">
+---
 
-        <p>Check out <a href="index.html">Configuration Wizard</a> for more details.</p>
 
-        <div class="to-lock" style="text-align: center;">
+<div style="max-width: 600px; margin: 20px auto;">
+ <p>Check out <a href="index.html">Configuration Wizard</a> for more details.</p>
+    <div class="to-lock" style="text-align: center;">
             <div>
                 <p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing</strong></p>
                 <p>
@@ -37,5 +38,4 @@ Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. 
                 Suspendisse tempor ultrices urna ut auctor.</p>
             </div>
         </div>
-    
-    </div>
+   </div>
