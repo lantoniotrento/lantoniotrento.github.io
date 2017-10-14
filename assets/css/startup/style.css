@@ -1141,4 +1141,180 @@ li.nav-item .btn-white {
     justify-content: center; } }
 
 
-.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}.gm-style-pbc{transition:opacity ease-in-out;background-color:rgba(0,0,0,0.45);text-align:center}.gm-style-pbt{font-size:22px;color:white;font-family: "Charis SIL", Bitstream Charter, Georgia, "Fira Sans", serif;position:relative;margin:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}
+.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}
+.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}
+@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}
+@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}
+.gm-style-pbc{transition:opacity ease-in-out;background-color:rgba(0,0,0,0.45);text-align:center}
+.gm-style-pbt{font-size:22px;color:white;font-family: "Charis SIL", Bitstream Charter, Georgia, "Fira Sans", serif;position:relative;margin:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}
+
+
+
+/* Ntitle (Navigation Title) */
+#ntitle {
+    max-height: 50px;
+    position: fixed;
+    top: 0;
+    font-size: 85%;
+    width: calc(100% - 50px);
+    display: block;
+    background-color: rgba(255, 255, 255, .92);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+    padding: 0 25px;
+    text-align: left;
+    z-index: 2;
+    animation: slidedown .5s 1;
+    transition: max-height .8s, bottom .8s;
+      -webkit-transition: max-height .8s, bottom .8s;
+}
+#ntitle > div {
+    margin: 0 auto;
+    padding: 0;
+}
+#ntitle > div > * {
+    line-height: 50px;
+    display: inline-block;
+    text-align: left;
+}
+#ntitle h1 {
+    margin: 0 10px 0 0;
+    font-weight: 800;
+    color: rgba(0, 0, 0, 0.8);
+    text-transform: uppercase;
+    font-size: 120%;
+    transition: all .2s;
+      -webkit-transition: all .2s;
+}
+#ntitle h1:hover {
+    opacity: .75;
+}
+#ntitle h1 span {
+    text-transform: none;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.5);
+    font-style: italic;
+    padding-left: 2px;
+}
+#ntitle .desc {
+    font-style: italic;
+    font-size: 95%;
+    color: rgba(0, 0, 0, 0.6);
+    line-height: 50px;
+    max-width: 245px;
+    vertical-align: top;
+    padding: 0;
+}
+@media screen and (max-width: 480px) {
+    #ntitle .desc {
+       display: none;
+    }
+}
+#ntitle .nlinks {
+    padding: 0 0 0 10px;
+    color: #888;
+    display: block;
+    background-color: #FAFAFA;
+    position: fixed;
+    top: 50px;
+    width: 220px;
+    right: 0;
+    bottom: 0;
+    min-height: 300px;
+    border-left: 1px solid rgba(0, 0, 0, 0.05);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05) inset;
+    transition: all .5s;
+      -webkit-transition: all .5s;
+    transform: translateX(100%);
+      -webkit-transform: translateX(100%);
+      -ms-transform: translateX(100%);
+}
+#ntitle .nlinks > div {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    overflow: hidden;
+}
+#ntitle.expanded .nlinks {
+    transform: translateX(0);
+      -webkit-transform: translateX(0);
+      -ms-transform: translateX(0);
+}
+#ntitle .nlinks a {
+    display: block;
+    margin: 0 5px;
+    font-style: italic;
+    line-height: 1.4;
+    padding: 10px 0;
+    color: rgba(0, 0, 0, 0.8);
+    box-shadow: -25px 0 0 0 transparent, 25px 0 0 0 transparent;
+}
+#ntitle .nlinks a:not(:last-of-type) {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.03);
+}
+#ntitle .nlinks a span {
+    display: inline-block;
+    max-width: 75%;
+    vertical-align: middle;
+}
+#ntitle .nlinks a .oi {
+    transition: all .2s;
+      -webkit-transition: all .2s;
+}
+#ntitle .nlinks a:hover .oi {
+    background-color: #337ab7;
+    color: #fff !important;
+}
+#ntitle .button {
+    font-size: 100%;
+    width: 35px;
+    height: 35px;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 999em;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+    display: inline-block;
+}
+#ntitle .button:hover {
+    border-color: rgba(0, 0, 0, .6);
+}
+#ntitle .button.menumarker {
+    float: right;
+    margin-top: 6px;
+    width: auto;
+    padding: 0 16px;
+    overflow: hidden;
+    color: #337ab7;
+    border-color: #337ab7;
+}
+#ntitle.expanded .button.menumarker {
+    transform: rotate(-90deg);
+      -webkit-transform: rotate(-90deg);
+}
+#ntitle .nlinks a .oi {
+    margin-right: 5px;
+    color: #337ab7;
+    width: 35px;
+    height: 35px;
+    line-height: 40px;
+    display: inline-block;
+    background-color: #FFF;
+    border-radius: 999em;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    text-align: center;
+}
+#ntitle .button.rss {
+    float: right;
+    margin-top: 6px;
+    margin-right: 5px;
+}
+@media screen and (max-width:799px) {
+   #ntitle {
+      font-size: 100%;
+   }
+}
+
+
