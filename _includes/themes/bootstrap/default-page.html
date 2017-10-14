@@ -64,17 +64,11 @@ lantoniotrento@gmail.com
 <!-- ********************* Grads SCRIPTING ******************************-->
 	<!--Custom script loaded by children page-->
 	{% if page.js %}<script src="{{ BASE_PATH }}/assets/js/{{ page.js }}"></script>{% endif %}
-<script>  
- $(function(){ 
-     var navMain = $("#navbarToggler");
-     navMain.on("click", "a", null, function () {
-         navMain.collapse('hide');
-     });
- });
-</script>
+
+  <script src="{{ BASE_PATH }}/assets/js/jquery-3.1.1.min.js"></script>	  
   <script src="{{ BASE_PATH }}/assets/js/bootstrap.min.js"></script>
   <script src="{{ BASE_PATH }}/assets/js/tether.min.js"></script>
-  <script src="{{ BASE_PATH }}/assets/js/jquery-3.1.1.min.js"></script>	  
+	  
 
 
   </body>
