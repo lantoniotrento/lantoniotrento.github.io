@@ -1184,6 +1184,7 @@ li.nav-item .btn-white {
     font-size: 120%;
     transition: all .2s;
       -webkit-transition: all .2s;
+    line-height: 0!important;  
 }
 #ntitle h1:hover {
     opacity: .75;
@@ -1194,7 +1195,6 @@ li.nav-item .btn-white {
     color: rgba(0, 0, 0, 0.5);
     font-style: italic;
     padding-left: 2px;
-    line-height: 0!important;
 }
 #ntitle .desc {
     font-style: italic;
