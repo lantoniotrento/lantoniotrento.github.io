@@ -6,7 +6,7 @@ body {
   border-bottom: 20px solid #222; }
 
 body {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Fira Sans", "Droid Sans", "Open Sans", Verdana, arial, sans-serif;
   font-size: 16px;
   background-color: #ffffff;
   color: #46484a; }
@@ -15,29 +15,31 @@ a {
   color: #59a0d7; }
 
 h1 {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Fira Sans", "Droid Sans", "Open Sans", Verdana, arial, sans-serif;
   font-size: 4rem;
   font-weight: 600; }
 
 h2 {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Fira Sans", "Droid Sans", "Open Sans", Verdana, arial, sans-serif;
   font-size: 2.8rem;
   font-weight: 500; }
 
 h3 {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Fira Sans", "Droid Sans", "Open Sans", Verdana, arial, sans-serif;
   font-size: 2rem;
   font-weight: 500; }
 
 h4 {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Fira Sans", "Droid Sans", "Open Sans", Verdana, arial, sans-serif;
   font-size: 1rem;
   font-weight: 700;
   text-transform: uppercase; }
 
 p {
   color: #696b6e;
-  font-size: .9rem; }
+  font-size: .9rem; 
+  font-family: "Charis SIL", Bitstream Charter, Georgia, "Fira Sans", serif;
+}
 
 .divider {
   display: block;
@@ -59,7 +61,7 @@ p {
   outline: none; }
 
 .emphasis {
-  font-family: Georgia, Times, 'Times New Roman';
+  font-family: "Charis SIL", Bitstream Charter, Georgia, "Fira Sans", serif;
   font-style: italic;
   color: #59a0d7; }
 
@@ -172,7 +174,7 @@ p {
   background: transparent; }
 
 a.navbar-brand, a.logo {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Fira Sans", "Droid Sans", "Open Sans", Verdana, arial, sans-serif;
   color: #fff !important;
   font-size: 2rem;
   font-weight: bold;
@@ -269,7 +271,7 @@ li.nav-item .btn-white {
   .cover-4 p.lead {
     margin: 2rem auto;
     color: rgba(255, 255, 255, 0.75);
-    font-family: "Droid Serif", Times, Georgia, serif;
+    font-family: "Charis SIL", Bitstream Charter, Georgia, "Fira Sans", serif;
     font-style: italic; }
   .cover-4 .cover-container {
     display: table;
@@ -301,7 +303,7 @@ li.nav-item .btn-white {
   .cover-5 p.lead {
     margin: 2rem auto;
     color: #696b6e;
-    font-family: "Droid Serif", Times, Georgia, serif;
+    font-family: "Charis SIL", Bitstream Charter, Georgia, "Fira Sans", serif;
     font-style: italic; }
   .cover-5 .cover-container {
     display: table;
@@ -909,7 +911,7 @@ li.nav-item .btn-white {
     font-style: italic; }
   .testimonial-1 .quote-author {
     font-style: italic;
-    font-family: "Droid Serif", Times, Georgia, serif;
+    font-family: "Charis SIL", Bitstream Charter, Georgia, "Fira Sans", serif;
     color: #46484a; }
 
 .testimonial-2 {
@@ -929,7 +931,7 @@ li.nav-item .btn-white {
     font-style: italic; }
   .testimonial-2 .quote-author {
     font-style: italic;
-    font-family: "Droid Serif", Times, Georgia, serif;
+    font-family: "Charis SIL", Bitstream Charter, Georgia, "Fira Sans", serif;
     color: #46484a; }
 
 .testimonial-3 {
@@ -952,7 +954,7 @@ li.nav-item .btn-white {
     width: 4rem; }
   .testimonial-3 .quote-author {
     font-style: italic;
-    font-family: "Droid Serif", Times, Georgia, serif;
+    font-family: "Charis SIL", Bitstream Charter, Georgia, "Fira Sans", serif;
     color: #46484a; }
 
 .testimonial-4 {
@@ -968,7 +970,7 @@ li.nav-item .btn-white {
     color: rgba(255, 255, 255, 0.1); }
   .testimonial-4 .quote-author {
     font-style: italic;
-    font-family: "Droid Serif", Times, Georgia, serif;
+    font-family: "Charis SIL", Bitstream Charter, Georgia, "Fira Sans", serif;
     color: rgba(255, 255, 255, 0.8); }
 
 .testimonial-5 {
@@ -982,7 +984,7 @@ li.nav-item .btn-white {
     color: #a0a0a0; }
   .testimonial-5 .quote-author {
     font-style: italic;
-    font-family: "Droid Serif", Times, Georgia, serif;
+    font-family: "Charis SIL", Bitstream Charter, Georgia, "Fira Sans", serif;
     color: #46484a; }
 
 .footer-1 {
@@ -1139,4 +1141,4 @@ li.nav-item .btn-white {
     justify-content: center; } }
 
 
-.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}.gm-style-pbc{transition:opacity ease-in-out;background-color:rgba(0,0,0,0.45);text-align:center}.gm-style-pbt{font-size:22px;color:white;font-family:Roboto,Arial,sans-serif;position:relative;margin:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}
+.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}.gm-style-pbc{transition:opacity ease-in-out;background-color:rgba(0,0,0,0.45);text-align:center}.gm-style-pbt{font-size:22px;color:white;font-family: "Charis SIL", Bitstream Charter, Georgia, "Fira Sans", serif;position:relative;margin:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}
