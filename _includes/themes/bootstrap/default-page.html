@@ -66,10 +66,8 @@ lantoniotrento@gmail.com
 	{% if page.js %}<script src="{{ BASE_PATH }}/assets/js/{{ page.js }}"></script>{% endif %}
 <script>  
  $(function(){ 
-     var navMain = $(".navbar-collapse"); // avoid dependency on #id
-     // "a:not([data-toggle])" - to avoid issues caused
-     // when you have dropdown inside navbar
-     navMain.on("click", "a:not([data-toggle])", null, function () {
+     var navMain = $("#navbarToggler");
+     navMain.on("click", "a", null, function () {
          navMain.collapse('hide');
      });
  });
