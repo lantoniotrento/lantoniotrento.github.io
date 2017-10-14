@@ -50,6 +50,50 @@ lantoniotrento@gmail.com
         });
     </script>
     {% endif %}
+	  
+<!-- Social locker block -->	
+    <!-- 1. Include jQuery and the plugin files in to your page -->
+    <link type="text/css" rel="stylesheet" href="{{ BASE_PATH }}/css/pandalocker.2.0.0.min.css">
+	  
+
+    <script src="{{ BASE_PATH }}/js/libs/jquery.ui.highlight.min.js"></script>
+    <script src="{{ BASE_PATH }}/js/pandalocker.2.0.0.min.js"></script>
+	<script>
+	jQuery(document).ready(function ($) {
+	   $('.to-lock').sociallocker({
+		theme: 'flat',
+		overlap:{
+		   position: 'top',
+		   intensity: '6'
+		},
+		facebook:{
+		   appId: '1948709282049734',
+		   share:{
+		      title: 'Condividi'
+		   }
+		},
+		twitter:{
+		   tweet:{
+		      url: '{{ post.url }}',
+		      text: 'Hey, dai un occhio a questo post: ',
+		      via: 'lantoniotrento',
+		      title: 'Tweet'
+		   }
+		},
+		linkedin:{
+		   share:{
+		      url: '{{ post.url }}',
+		      title: 'Post'
+		   }
+		},
+		buttons:{
+		   order: ["facebook-share","twitter-tweet","linkedin-share"],
+		   counters: false,
+		   lazy: false
+		}
+	   });
+	});
+	</script>	  	  
   </head>
   <body>
 	  
