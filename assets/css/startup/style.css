@@ -1184,8 +1184,7 @@ li.nav-item .btn-white {
     font-size: 120%;
     transition: all .2s;
       -webkit-transition: all .2s;
-    line-height: 100%!important;  
-    box-sizing: normal!important;
+    line-height: 50px!important;  
 }
 #ntitle h1:hover {
     opacity: .75;
