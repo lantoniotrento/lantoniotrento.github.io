@@ -1,6 +1,6 @@
-/*section, footer {
-  border: 20px solid #222;
-  border-bottom: none; }*/
+section, footer {
+  border: none;
+  border-bottom: none; }
 
 body {
   border-bottom: 20px solid #222; }
