@@ -1317,3 +1317,24 @@ li.nav-item .btn-white {
       font-size: 100%;
    }
 }
+
+
+.cover-grad {
+  background: #2b2d34 url(/assets/images/cover-bg-1.jpg) center;
+  background-size: cover;
+  min-height: 50rem;
+  height: auto;
+  border-radius: 0;
+  width: 100%;
+  color: #fff;
+  padding-top: 1rem; }
+  .cover-1 h1 {
+    font-weight: 200; }
+  .cover-1 p.lead {
+    margin: 2rem auto;
+    color: rgba(255, 255, 255, 0.75); }
+  .cover-1 .cover-container {
+    display: table;
+    height: 100%;
+    min-height: 44rem;
+    margin: 0 auto; }
