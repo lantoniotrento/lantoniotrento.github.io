@@ -1,34 +1,36 @@
 ---
-layout: blog
+layout: page
 title: Blog
 tags : 
 author : Antonio Trento
 css: 
 js:
-keywords: noalfemminicidio, femminicidio, blog, aiuto, violenza, donne, no-profit
-canonical: https://antoniotrento.github.io/blog
+keywords: 
+canonical: https://lantoniotrento.github.io/blog
 ---
 {% include JB/setup %}
 
+
+<section class="gallery-4 text-center">
+  <div class="container">							
+   <div class="divider"></div>
+   <div class="row text-left">
 <!-- Change the "about information" contained in /_includes/themes/bootstrap/index.html  -->
-
-  {% for post in site.posts %}
-
-                <!-- Blog Post Template on Index page -->
-                <h2>
-                    <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-                </h2>		
+  {% for post in site.posts %}						
+	<div class="col-sm-6 col-md-4 col-gallery">
                 {% if post.img %}
-                  <div class="wow fadeIn" data-wow-duration="1s"><img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="{{ post.title }} image" class="img-rounded img-responsive"></div>
+                  <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="{{ post.title }} image" class="img-rounded img-responsive">
                 {% endif %}
-		
-                <p class="lead">
-                    <strong>Tags: {{post.tags | array_to_sentence_string}}. <span class="glyphicon glyphicon-time"></span> Post del {{ post.date | date_to_string }}</strong>
-                </p>
-		
-		{{ post.excerpt }}
-                <a class="btn btn-primary" href="{{ BASE_PATH }}{{ post.url }}">Leggi tutto</a>
-		</br></br></br></br>
+		<h5 class="mt-4 ml-4 mr-4"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h5>
+		<p class="emphasis ml-4 mr-4">{{post.tags | array_to_sentence_string}}</p>
+		<p class="ml-4 mr-4">{{ post.excerpt }} - <a href="{{ BASE_PATH }}{{ post.url }}">Leggi tutto</a></p>
+			</div>
+		</div>			
 
   {% endfor %}
 
+		
+	</div>
+	<div class="divider"></div>
+  </div>
+</section>
