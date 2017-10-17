@@ -3,8 +3,7 @@
     <time datetime='{{ post.date | date: "%Y-%m-%d" }}' class="top"><span class="oi" data-glyph="bookmark"></span> {{ page.date | date: "%-d %B %Y" }}</time>
     <img class="img-fluid" alt="Immagine non disponibile" src="{{ BASE_PATH }}/assets/images/{{ page.img }}">
 	<hr>
-    <hgroup>
-    <h4>Post <span class="oi" data-glyph="clock"></span> {{ page.date | date_to_string }}</h4>	    
+    <hgroup>    
     {% if page.link %}
         <h1><a target=_blank href="{{ page.link | escape }}">{{ page.title }}</a>&nbsp;<span class="oi" data-glyph="external-link" style="font-size:50%;"></span></h1>
     {% elsif page.series %}
@@ -12,7 +11,7 @@
     {% else %}
         <h1>{{ page.title }}</h1>
     {% endif %}
-	<h3>Tags <span class="oi" data-glyph="tags"></span> {{page.tags | array_to_sentence_string}}</h3>
+	<h3><span class="oi" data-glyph="tags"></span> {{page.tags | array_to_sentence_string}}</h3>
     </hgroup>
 
     <div id="post"{% if page.link %} class=link{% endif %}>
