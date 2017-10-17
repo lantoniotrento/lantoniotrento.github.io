@@ -11,7 +11,7 @@
     {% else %}
         <h1>{{ page.title }}</h1>
     {% endif %}
-	<h5>Tags: {{page.tags | array_to_sentence_string}}. <span class="oi" data-glyph="clock"></span> Post del {{ page.date | date_to_string }}</h5>
+	<h5><span class="oi" data-glyph="tags"></span> {{page.tags | array_to_sentence_string}}. <span class="oi" data-glyph="clock"></span> Post del {{ page.date | date_to_string }}</h5>
     </hgroup>
 
     <div id="post"{% if page.link %} class=link{% endif %}>
