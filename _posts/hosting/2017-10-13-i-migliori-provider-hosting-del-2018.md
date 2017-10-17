@@ -46,13 +46,13 @@ Dopo una lunga ricerca ed un'attenta analisi del fatto che alcuni hanno grandi c
 
 ## CMS consigliati
 
-Solitamente consiglio ai miei clienti rispettivamente in base al tipo di busienss e budget solo 2 piattaforme web per fare blogging e creare pagine web per marketing, sono [wordpress](https://wordpress.org) e [clickfunnels](http://linktrack.info/.2q5e3), esse hanno un range di prezzo veramente esagerato, una costa qualche centinaia di euro all'anno, mentre l'altra centinaia al mese!
+Solitamente consiglio ai miei clienti rispettivamente in base al tipo di busienss e budget solo 2 piattaforme web per fare blogging e creare pagine web per marketing, sono [wordpress](https://wordpress.org){:target="_blank"} e [clickfunnels](http://linktrack.info/.2q5e3){:target="_blank"}, esse hanno un range di prezzo veramente esagerato, una costa qualche centinaia di euro all'anno, mentre l'altra centinaia al mese!
 
 Potrà sembrarti strano, ma c'è una differenza di prezzo per un motivo sostanziale ed è la velocità di implementazione, la velocità di sviluppo e produzione di contenuti, la semplicità di integrazione con strumenti di marketing esterni e gli strumenti di tracking ed A/B testing inglusi che fanno questa differenza di prezzo.
 
 Ma in questo blog, in base a chi tu sia, vorrei consigliarne una terza *se hai un minimo di competenze di sviluppo su web*.
 
-Si chiama [Jekyll](http://snip.ly/56dw6) e può essere ospitata gratis su [Github Pages](http://snip.ly/f4ifx); è un generatore di file statici ed è ottimo da utilizzare se hai capacità tecniche per implementare lo strumento con tools esterni come ad esempio un'autoresonder email che può essere ad esempio [mailchimp](https://mailchimp.com).
+Si chiama [Jekyll](http://snip.ly/56dw6){:target="_blank"} e può essere ospitata gratis su [Github Pages](http://snip.ly/f4ifx){:target="_blank"}; è un generatore di file statici ed è ottimo da utilizzare se hai capacità tecniche per implementare lo strumento con tools esterni come ad esempio un'autoresonder email che può essere ad esempio [mailchimp](https://mailchimp.com){:target="_blank"}.
 
 Grazie ad esso potresti riuscire a mettere in piedi un marketing mix efficace a costo bassissimo senza pagare le spese dell'hosting.
 
@@ -84,18 +84,18 @@ Ma è necessaria una premessa, la scelta del tuo provider dipende sia dalla disp
 
 Qui in basso ho creato una lista mirata a proporre servizi sia economici che di alta qualità, per riuscire a **presentare i tuoi servizi in maniera professionale**.
  
-## [Siteground](http://linktrack.info/.2q1ho)
-Dicono sia il [miglior hosting](http://linktrack.info/.2q1ho) per quanto riguarda il mercato Italiano. Dicono così solo perchè è il più semplice da implementare, non c'è bisogno di skills particolari e quindi risulta il servizio più efficace da proprorre ad un grande pubblico.
+## [Siteground](http://linktrack.info/.2q1ho){:target="_blank"}
+Dicono sia il [miglior hosting](http://linktrack.info/.2q1ho){:target="_blank"} per quanto riguarda il mercato Italiano. Dicono così solo perchè è il più semplice da implementare, non c'è bisogno di skills particolari e quindi risulta il servizio più efficace da proprorre ad un grande pubblico.
 
 Il servizio funziona bene per siti piccoli e di medie dimensioni, mi sento di consigliarti di usarlo se non capisci nulla di informatica e vuoi affacciarti al mondo del business su web, ti permetterà di svolgere azioni amministrative complesse in modo semplice e naturale. 
 
 In conseguenza al fatto che sia semplice da utilizzare i costi del servizio non sono proprio utopici ma sono abbordabili.
 
-## [Git Hub](http://snip.ly/f4ifx)
+## [Git Hub](http://snip.ly/f4ifx){:target="_blank"}
 
 È lo strumento che ho scelto per ospitare questo blog peculiarmente perchè è gratis! 
 
-[Github](https://github.com) è uno strumento straordinario che ti permentte di operare in modo efficente nella gestione di progetti software, ma al suo interno offre una sua piattaforma di hosting chiamata **[Github Pages](http://snip.ly/f4ifx)** la quale, è strutturata per ospitare un **generatore di siti web chiamato Jekyll.**
+[Github](https://github.com){:target="_blank"} è uno strumento straordinario che ti permentte di operare in modo efficente nella gestione di progetti software, ma al suo interno offre una sua piattaforma di hosting chiamata **[Github Pages](http://snip.ly/f4ifx){:target="_blank"}** la quale, è strutturata per ospitare un **generatore di siti web chiamato Jekyll.**
 
 Il piano di hosting gratuito è molto permissivo, permette di ottenere 100.000 connessioni al mese  dai tuoi lettori, con prestazioni da urlo ed ha 1GB di spazio di archiviazione (è perfetto per siti web di piccoli business o liberi professionisti).
 
