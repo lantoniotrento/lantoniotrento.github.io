@@ -9,8 +9,6 @@
 	</section> 
    {% endif %} 
 
-    <!-- footer -->
-    <footer>
 	    	    
     <div class="top-bar" style = "background: -moz-linear-gradient(45deg, rgba(85,196,200,.8) 0%, rgba(26,67,117,.8) 100%), url({{ BASE_PATH }}/assets/images/pattern_background4.jpg); background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(85,196,200,.8)), color-stop(100%, rgba(26,67,117,.8))), url({{ BASE_PATH }}/assets/images/pattern_background4.jpg); background: -webkit-linear-gradient(45deg, rgba(85,196,200,.8) 0%, rgba(26,67,117,.8) 100%), url({{ BASE_PATH }}/assets/images/pattern_background4.jpg); background: -o-linear-gradient(45deg, rgba(85,196,200,.8) 0%, rgba(26,67,117,.8) 100%), url({{ BASE_PATH }}/assets/images/pattern_background4.jpg); background: -ms-linear-gradient(45deg, rgba(85,196,200,.8) 0%, rgba(26,67,117,.8) 100%), url({{ BASE_PATH }}/assets/images/pattern_background4.jpg); background: linear-gradient(45deg, rgba(85,196,200,.8) 0%, rgba(26,67,117,.8) 100%), url({{ BASE_PATH }}/assets/images/pattern_background4.jpg); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1A4375', endColorstr='#55c4c8',GradientType=1 ); color: #fff; padding: 150px 0 150px; background-repeat: repeat; background-position: center center; background-attachment: fixed; text-align: center;">
         <h1><b>Hai un progetto in mente?</b></h1>
@@ -21,5 +19,28 @@
         </div>
     </div>    
 
-    </footer>
-    <!-- end footer -->
+<footer class="footer-5">
+			<div class="container-fluid">
+				<div class="divider"></div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 text-center text-md-left mt-2 mb-3 pt-1">
+						<p class="copyright">Copyright © Antonio Trento. All rights reserved.</p>
+					</div>
+					<div class="col-md-6 text-center text-md-right mb-4">
+						<ul class="social">
+							{% if site.author.facebook %}<li><a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook" class="fa fa-facebook"></a></li>{% endif %}
+							{% if site.author.twitter %}<li><a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter" class="fa fa-twitter"></a></li>{% endif %}
+							{% if site.author.google %}<li><a href="{{ site.author.google }}" title="Google+" class="fa fa-google"></a></li>{% endif %}
+							{% if site.author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" title="Linkedin" class="fa fa-linkedin"></a></li>{% endif %}
+							{% if site.author.instagram %}<li><a href="https://instagram.com/{{ site.author.instagram }}" title="Instagram" class="fa fa-instagram"></a></li>{% endif %}
+							<div class="clear"></div>
+						</ul>	
+					
+					
+					</div>
+				</div>
+			</div>
+</footer>    
+
