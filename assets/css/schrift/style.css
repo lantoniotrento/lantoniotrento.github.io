@@ -21,9 +21,9 @@ a {
     transition: all .2s;
     -webkit-transition: all .2s;
 }
-a:hover {
+/*a:hover {
     color: #333 !important;
-}
+}*/
 article a:hover { text-decoration: underline; }
 
 pre, code {
@@ -462,8 +462,12 @@ article #post iframe {
     -moz-transition:0.4s ease		
 
 }
+
+#post a:hover{
+    border-bottom:2px solid #337ab7;
+}
 #post a img {
-    border-bottom:2px solid #337ab7
+    border: 0 none;  
 }
 .align,
 .align.center {
