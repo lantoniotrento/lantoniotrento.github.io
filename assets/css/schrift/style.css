@@ -454,11 +454,16 @@ article #post iframe {
     margin-bottom: 30px;
 }
 #post a {
-    color: rgba(0, 0, 0, .7);
-    text-decoration: underline;
+    color:rgba(0,0,0,0.7);
+    text-decoration:none;
+    border-bottom:2px dashed #e8e8e8;
+    padding-bottom:4px;
+    -webkit-transition:0.4s ease;
+    -moz-transition:0.4s ease		
+
 }
 #post a img {
-    border: 0 none;
+    border-bottom:2px solid #337ab7
 }
 .align,
 .align.center {
