@@ -60,7 +60,7 @@
 /* Basic */
 
 	body, input, select, textarea {
-		color: #fff;
+		color: #949494;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 15pt;
 		font-weight: 300 !important;
@@ -652,7 +652,7 @@
 				}
 
 					#header nav a:hover:before {
-						background-color: rgba(255, 255, 255, 0.175);
+						background-color: rgba(148, 148, 148, 0.175);
 						color: #fff;
 					}
 
@@ -662,8 +662,8 @@
 				}
 
 					#header nav a:active:before {
-						background-color: rgba(255, 255, 255, 0.35);
-						color: #fff;
+						background-color: rgba(148, 148, 148, 0.35);
+						color: #949494;
 					}
 
 				#header nav a span {
@@ -1043,9 +1043,9 @@
 		} }
 ::selection {
   background: black; /* WebKit/Blink Browsers */
-  color: white;
+  color: #949494;
 }
 ::-moz-selection {
   background: black; /* Gecko Browsers */
-  color: white;
+  color: #949494;
 }
