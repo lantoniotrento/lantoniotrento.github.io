@@ -14,7 +14,7 @@ canonical: https://lantoniotrento.github.io/hosting/2017/10/13/i-migliori-provid
 ---
 {% include JB/setup %}
 
-Ciao benvenuto sul blog! Sono Antonio e sono qui per parlarti dei **migliori strumenti** che potrai utilizzare nell'implementare un **business su web.**
+Ciao benvenuto sul blog! Sono Antonio e sono qui per parlarti dei **migliori strumenti** che potrai utilizzare per l'implementazione di un **business su web.**
 
 Questo blog non è come molti blog in rete, peculiarmente perchè io tratto la materia del web marketing da un aspetto differente al confronto della maggior parte delle persone che hanno un blog su questo argomento.
 
