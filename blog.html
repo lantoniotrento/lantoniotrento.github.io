@@ -49,16 +49,17 @@ canonical: https://lantoniotrento.github.io/blog
    <div class="divider"></div>
    <div class="row text-left">
 <!-- Change the "about information" contained in /_includes/themes/bootstrap/index.html  -->
-  {% for post in site.posts %}						
-	<div class="col-sm-6 col-md-4 col-gallery" style="background-color:white">
+  {% for post in site.posts %}
+   <div class="box">		   
+	<div class="col-sm-6 col-md-4 col-gallery">
                 {% if post.img %}
                   <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="{{ post.title }} image" class="img-rounded img-responsive">
                 {% endif %}
 		<h5 class="mt-4 ml-4 mr-4"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h5>
 		<p class="emphasis ml-4 mr-4">{{post.tags | array_to_sentence_string}}</p>
 		<p class="ml-4 mr-4">{{ post.excerpt }} - <a href="{{ BASE_PATH }}{{ post.url }}">Leggi tutto</a></p>
-			</div>
-		</div>			
+	</div>
+    </div>			
 
   {% endfor %}
 
