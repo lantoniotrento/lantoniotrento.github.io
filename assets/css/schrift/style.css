@@ -696,8 +696,11 @@ a.btn2:hover {
   -o-transition: 0.5s;
   -webkit-transition: 0.5s;
   transition: 0.5s;
+  border: none!important;
 }
-
+.social-nav a:hover{
+	border: none!important;
+}
 
 .model-4 li {
   margin: 0 2px;
