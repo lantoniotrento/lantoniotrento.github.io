@@ -700,6 +700,7 @@ a.btn2:hover {
 }
 .social-nav a:hover{
 	border: none!important;
+	padding-bottom: none!important;
 }
 
 .model-4 li {
