@@ -3,7 +3,7 @@ layout: post
 category : hosting
 tagline: "I migliori hosting per wordpress e jekyll nel 2018"
 tags : [hosting, web sites, web business]
-locker: <h2><a href="http://linktrack.info/.2q4on">Digital ocean</a></h2><p>Questo strumento è eccezionale, si è vero, hai bisogno di competenze in amministrazione di rete e linux per utilizzarla al meglio, ma è comunque strutturata in modo molto semplice e ti permette di eseguire azioni amministrative molto complesse in pochi e facili passi.</p><p>È lo strumento che consiglio maggiormente per gestire le tue pagine web perchè è molto stabile, scalabile, velocissimo e nettamente meno costoso di qualsiasi altro provider tu possa trovare su web a parità di prestazioni offerte!</p><p>Con poche centinaia di euro l'anno potrai installare in modo semplice e gestire piattaforme web Wordpress velocissime, che possono accettare milioni di visite al mese! È l'ideale per chi vuole operare in modo professionale creando campagne di markerting che portano traffico considerevole alle pagine web.</p><p>Il tutto con un'interfaccia amministrativa semplice e molto versatile ti permetterà di creare molte azioni al tuo server in modo semplice da implementare la tua macchina virtuale per un'applicazione professionale ed ospitarla in cloud in modo semplice a operare sulla shell della tua macchina per modificare conigurazioni complesse.</p>
+locker: <h2><a href="http://linktrack.info/.2q4on">Digital ocean</a></h2><p>Questo strumento è eccezionale, si è vero, hai bisogno di competenze in amministrazione di rete e linux per utilizzarla al meglio, ma è comunque strutturata in modo molto semplice e ti permette di eseguire azioni amministrative molto complesse in pochi e facili passi.</p><p><a href="http://linktrack.info/.2q4on">Digital Ocean</a> è lo strumento che consiglio maggiormente per gestire le tue pagine web perchè è molto stabile, scalabile, velocissimo e nettamente meno costoso di qualsiasi altro provider tu possa trovare su web a parità di prestazioni offerte!</p><p>Con poche centinaia di euro l'anno potrai installare in modo semplice e gestire piattaforme web Wordpress velocissime, che possono accettare milioni di visite al mese! È l'ideale per chi vuole operare in modo professionale creando campagne di markerting che portano traffico considerevole alle pagine web.</p><p>Il tutto con un'interfaccia amministrativa semplice e molto versatile ti permetterà di creare molte azioni al tuo server in modo semplice da implementare la tua macchina virtuale per un'applicazione professionale ed ospitarla in cloud in modo semplice a operare sulla shell della tua macchina per modificare conigurazioni complesse.</p>
 img : i-migliori-tools-di-web-marketing-per-fare-business-nel-2018.html/i-migliori-tools-di-web-marketing-per-fare-business-nel-2018.jpg
 author : Antonio Trento
 css: 
@@ -85,7 +85,7 @@ Ma è necessaria una premessa, la scelta del tuo provider dipende sia dalla disp
 Qui in basso ho creato una lista mirata a proporre servizi sia economici che di alta qualità, per riuscire a **presentare i tuoi servizi in maniera professionale**.
  
 ## [Siteground](http://linktrack.info/.2q1ho)
-Dicono sia il miglior hosting per quanto riguarda il mercato Italiano. Dicono così solo perchè è il più semplice da implementare, non c'è bisogno di skills particolari e quindi risulta il servizio più efficace da proprorre ad un grande pubblico.
+Dicono sia il [miglior hosting](http://linktrack.info/.2q1ho) per quanto riguarda il mercato Italiano. Dicono così solo perchè è il più semplice da implementare, non c'è bisogno di skills particolari e quindi risulta il servizio più efficace da proprorre ad un grande pubblico.
 
 Il servizio funziona bene per siti piccoli e di medie dimensioni, mi sento di consigliarti di usarlo se non capisci nulla di informatica e vuoi affacciarti al mondo del business su web, ti permetterà di svolgere azioni amministrative complesse in modo semplice e naturale. 
 
@@ -95,7 +95,7 @@ In conseguenza al fatto che sia semplice da utilizzare i costi del servizio non 
 
 È lo strumento che ho scelto per ospitare questo blog peculiarmente perchè è gratis! 
 
-Github è uno strumento straordinario che ti permentte di operare in modo efficente nella gestione di progetti software, ma al suo interno offre una sua piattaforma di hosting chiamata **Github Pages** la quale, è strutturata per ospitare un **generatore di siti web chiamato Jekyll.**
+[Github](https://github.com) è uno strumento straordinario che ti permentte di operare in modo efficente nella gestione di progetti software, ma al suo interno offre una sua piattaforma di hosting chiamata **[Github Pages](http://snip.ly/f4ifx)** la quale, è strutturata per ospitare un **generatore di siti web chiamato Jekyll.**
 
 Il piano di hosting gratuito è molto permissivo, permette di ottenere 100.000 connessioni al mese  dai tuoi lettori, con prestazioni da urlo ed ha 1GB di spazio di archiviazione (è perfetto per siti web di piccoli business o liberi professionisti).
 
