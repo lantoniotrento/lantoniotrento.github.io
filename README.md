@@ -1,5 +1,3 @@
 # Antonio Trento 
 
-Portfolio Antonio Trento
-
-https://antoniotrento.github.io
+Blog sul web maketing e business su web
