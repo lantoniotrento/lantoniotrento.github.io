@@ -57,7 +57,7 @@ canonical: https://lantoniotrento.github.io/blog
                 {% endif %}
 		<h5 class="mt-4 ml-4 mr-4"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h5>
 		<p class="emphasis ml-4 mr-4">{{post.tags | array_to_sentence_string}}</p>
-		{{ post.excerpt }}{:.ml-4 .mr-4} - <a href="{{ BASE_PATH }}{{ post.url }}">Leggi tutto</a>
+		<div class="ml-4 mr-4">{{ post.excerpt }} - <a href="{{ BASE_PATH }}{{ post.url }}">Leggi tutto</a></div>
 	  </div>
 	</div>		
 
