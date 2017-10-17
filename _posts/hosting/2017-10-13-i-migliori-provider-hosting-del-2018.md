@@ -26,7 +26,7 @@ In questo articolo vorrei farti sapere la mia sui **migliori strumenti per ospit
 
 ## Perchè
 
-Un **hosting** è un tassello fondamentale per creare una presena online perchè permette di contenere al suo interno il tuo sito web o blog. È il tuo biglietto da visita su internet, non credi?
+Un **[hosting](http://snip.ly/8nicl)** è un tassello fondamentale per creare una presena online perchè permette di contenere al suo interno il tuo sito web o blog. È il tuo biglietto da visita su internet, non credi?
 
 Avendo un sito web ospitato sul tuo hosting avrai a disposizione un punto di riferimento al quale appoggiarsi per promuovere i propri servizi e le prorpie offerte, creare interesse tramite post sul tuo blog, generare interesse nel tuo pubblico tramite campagne di marketing **avere un punto di riferimento per i tuoi lettori** e molto altro.
 
@@ -46,13 +46,13 @@ Dopo una lunga ricerca ed un'attenta analisi del fatto che alcuni hanno grandi c
 
 ## CMS consigliati
 
-Solitamente consiglio ai miei clienti rispettivamente in base al tipo di busienss e budget solo 2 piattaforme web per fare blogging e creare pagine web per marketing, sono [wordpress](https://wordpress.org) e [clickfunnels](https://LINKCLIKFUNNELS), esse hanno un range di prezzo veramente esagerato, una costa qualche centinaia di euro all'anno, mentre l'altra centinaia al mese!
+Solitamente consiglio ai miei clienti rispettivamente in base al tipo di busienss e budget solo 2 piattaforme web per fare blogging e creare pagine web per marketing, sono [wordpress](https://wordpress.org) e [clickfunnels](http://linktrack.info/.2q5e3), esse hanno un range di prezzo veramente esagerato, una costa qualche centinaia di euro all'anno, mentre l'altra centinaia al mese!
 
 Potrà sembrarti strano, ma c'è una differenza di prezzo per un motivo sostanziale ed è la velocità di implementazione, la velocità di sviluppo e produzione di contenuti, la semplicità di integrazione con strumenti di marketing esterni e gli strumenti di tracking ed A/B testing inglusi che fanno questa differenza di prezzo.
 
 Ma in questo blog, in base a chi tu sia, vorrei consigliarne una terza *se hai un minimo di competenze di sviluppo su web*.
 
-Si chiama [Jekyll](https://jekyllrb.com) e può essere ospitata gratis su [Github Pages](https://pages.github.com/); è un generatore di file statici ed è ottimo da utilizzare se hai capacità tecniche per implementare lo strumento con tools esterni come ad esempio un'autoresonder email che può essere ad esempio [mailchimp](https://mailchimp.com).
+Si chiama [Jekyll](http://snip.ly/56dw6) e può essere ospitata gratis su [Github Pages](http://snip.ly/f4ifx); è un generatore di file statici ed è ottimo da utilizzare se hai capacità tecniche per implementare lo strumento con tools esterni come ad esempio un'autoresonder email che può essere ad esempio [mailchimp](https://mailchimp.com).
 
 Grazie ad esso potresti riuscire a mettere in piedi un marketing mix efficace a costo bassissimo senza pagare le spese dell'hosting.
 
