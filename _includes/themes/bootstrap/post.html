@@ -4,7 +4,7 @@
     <img class="img-fluid" alt="Immagine non disponibile" src="{{ BASE_PATH }}/assets/images/{{ page.img }}">
 	<hr>
     <hgroup>
-    <h3>Post <span class="oi" data-glyph="clock"></span> {{ page.date | date_to_string }}</h3>	    
+    <h4>Post <span class="oi" data-glyph="clock"></span> {{ page.date | date_to_string }}</h4>	    
     {% if page.link %}
         <h1><a target=_blank href="{{ page.link | escape }}">{{ page.title }}</a>&nbsp;<span class="oi" data-glyph="external-link" style="font-size:50%;"></span></h1>
     {% elsif page.series %}
