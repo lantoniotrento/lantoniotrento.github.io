@@ -718,3 +718,7 @@ a.btn2:hover {
   color: #CB2026!important;
 }
 
+.img-fluid {
+  max-width: 100%!important;
+  height: auto!important;
+}
