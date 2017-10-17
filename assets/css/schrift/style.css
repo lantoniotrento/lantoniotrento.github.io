@@ -456,7 +456,7 @@ article #post iframe {
 #post a {
     color:rgba(0,0,0,0.7);
     text-decoration:none;
-    border-bottom: 2px dashed #e8e8e8;
+    border: 2px dashed #e8e8e8;
     padding-bottom:0px;
     -webkit-transition:0.4s ease;
     -moz-transition:0.4s ease		
