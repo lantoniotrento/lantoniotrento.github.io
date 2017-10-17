@@ -60,7 +60,7 @@
 /* Basic */
 
 	body, input, select, textarea {
-		color: #949494;
+		color: #000000;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 15pt;
 		font-weight: 300 !important;
@@ -636,7 +636,7 @@
 					-ms-transition: all 0.2s ease-in-out;
 					transition: all 0.2s ease-in-out;
 					border-radius: 100%;
-					border: solid 1px #fff;
+					border: solid 1px #000;
 					display: block;
 					font-size: 1.75em;
 					height: 2.5em;
@@ -652,8 +652,8 @@
 				}
 
 					#header nav a:hover:before {
-						background-color: rgba(148, 148, 148, 0.175);
-						color: #fff;
+						background-color: rgba(0, 0, 0, 0.175);
+						color: #000000;
 					}
 
 				#header nav a:active {
@@ -662,8 +662,8 @@
 				}
 
 					#header nav a:active:before {
-						background-color: rgba(148, 148, 148, 0.35);
-						color: #949494;
+						background-color: rgba(0, 0, 0, 0.35);
+						color: #000000;
 					}
 
 				#header nav a span {
@@ -1042,10 +1042,10 @@
 			padding: 0 1em;
 		} }
 ::selection {
-  background: black; /* WebKit/Blink Browsers */
-  color: #949494;
+  background: white; /* WebKit/Blink Browsers */
+  color: #000000;
 }
 ::-moz-selection {
-  background: black; /* Gecko Browsers */
-  color: #949494;
+  background: white; /* Gecko Browsers */
+  color: #000000;
 }
