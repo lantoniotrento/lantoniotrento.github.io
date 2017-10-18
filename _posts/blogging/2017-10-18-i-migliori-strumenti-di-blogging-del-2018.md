@@ -22,7 +22,9 @@ Creare un blog con un piano editoriale ben strutturato per i tuoi potenziali cli
 
 Una struttura di blogging vincente passa da un buono studio del mercato di riferimento e dei potenziali clienti di quel mercato; se sarai in grato di carpire le esigenze del pubblico sarai in grado di renderti molto appetibile ed interessante condividendo sul blog soluzioni ai problemi che attanagliano i lettori per il tuo segmento di mercato.
 
-Non so se è chiaro ma per fare un esempio, se il tuo mercato tratta di ristrotturazioni case, nel tuo blog parlare di come imbiancare una stanza facendo un tutorial (consigliando prodotti all'avanguardia e tecniche particolari) potrebbe essere un argomento molto apprezzato dai lettori; anche se fosse uno dei servizi che offri nel tuo business, il fatto di parlarne ti renderà molto più onesto e cristallino rispetto la concorrenza, facendo comunque una figura professionali agli occhi dei lettori, i quali sicuramente apprezzeranno letture utili per perseguire i propri scopi, facendo in modo che gli utenti si ricorderanno in modo piacevole di te e della tua attività.
+Non so se è chiaro ma per fare un esempio, se il tuo mercato tratta di ristrotturazioni case, nel tuo blog parlare di come imbiancare una stanza facendo un tutorial (consigliando prodotti all'avanguardia e tecniche particolari) potrebbe essere un argomento molto apprezzato dai lettori. 
+
+Anche se fosse uno dei servizi che offri nel tuo business, il fatto di parlarne ti renderà molto più onesto e cristallino rispetto la concorrenza, facendo comunque una figura professionali agli occhi dei lettori, i quali sicuramente apprezzeranno letture utili per perseguire i propri scopi, facendo in modo che gli utenti si ricorderanno in modo piacevole di te e della tua attività.
 
 Avere un blog può rivelarsi un'attività redditizia su lungo periodo se hai intenzione di lavorare sull'indicizzazione nei motori di ricerca; è una pratica che per essere eseguita correttamente occorrono anni e dedizione, con grandi ricerche di mercato, analisi della concorrenza ed analisi del piano editoriale e degli argomenti trattati.
 
@@ -53,7 +55,9 @@ Attenzione! Il prezzo, in questo caso, non è un indicatore che rivela la qualit
 
 È una piattaforma di editoria social gratuito; [Medium](https://medium.com/){:target="_blank"} negli ultimi anni si è affermato come strumento di editoria, molte testate e risviste lo utilizzano puntualmente per condividere articoli ed informazioni al loro pubblico.
 
-Questo strumento può essere utlizzato come piattaforma di blogging ed è molto interessante come prodotto per via del fatto che è gratuito, non hai bisogno di competenze particolari per usarlo ed ha un layout molto elegante ed ottimizzato alla leggibilità; inoltre Medium è una piattaforma ben indicizzata su Google, quindi se creerai articoli molto interessanti con le giuste parole chiave, verresti facilmente indicizzato; inoltre l'aspetto social ti permette di instaurare relazioni direttamente sulla piattaforma [Medium](https://medium.com/){:target="_blank"}.
+Questo strumento può essere utlizzato come piattaforma di blogging ed è molto interessante come prodotto per via del fatto che è gratuito, non hai bisogno di competenze particolari per usarlo ed ha un layout molto elegante ed ottimizzato alla leggibilità. 
+
+Inoltre Medium è una piattaforma ben indicizzata su Google, quindi se creerai articoli molto interessanti con le giuste parole chiave, verresti facilmente indicizzato; inoltre l'aspetto social ti permette di instaurare relazioni direttamente sulla piattaforma [Medium](https://medium.com/){:target="_blank"}.
 
 Di contro gli articoli che andrai a pubblicare non faranno parte di una tua  piattaforma propietaria e quindi la proprietà intellettuale non è unicamente tua (questo potrebbe causare attriti nella riproduzione del contenuto su altre fonti) e non hai libertà nello sviluppo della tua piattaforma, limitando lo strumento ad un posto in cui si può solo leggere e condividere l'articolo. 
 
@@ -63,7 +67,7 @@ Per avere un blog vincente devi essere anche in grado di veicolare il lettore ne
 
 Per le mie esigenze è il migliore! [Jekyll](http://snip.ly/56dw6){:target="_blank"} è un generatore di blog con pagine statiche; con questo strumento si ha liberta completa per quanto riguarda la parte di sviluppo ma sono necessarie conoscenze di informatica, programmazione e di rete per implementarlo.
 
-I principali vantaggi nell'utilizzarlo sono la velocità di caricamento delle pagine, il prezzo (gratis) e la versatilità nell'utilizzo e nell'implementazione di tools e strumenti utili al marketing del tuo blog nonchè la velocità di implementazione a livello tecnico a confronto di prodotti simili.
+I principali vantaggi nell'utilizzarlo sono la velocità di caricamento delle pagine, il prezzo (gratis) e la versatilità nell'utilizzo e nell'implementazione di tools e strumenti utili al marketing del tuo blog nonchè la velocità di implementazione a livello tecnico a confronto di prodotti simili e scrivere post tramite Markdown velocizza molto il lavoro.
 
 Potrai ospitarlo su [Git Hub Pages](http://snip.ly/f4ifx){:target="_blank"} gratuitamente con prestazioni spaziali (te ne parlo in [questo articolo]({% post_url 2017-10-13-i-migliori-provider-hosting-del-2018 %}){:target="_blank"}), mica male poter avere a disposizione un sito web top performace gratuitamente!
 
@@ -73,6 +77,25 @@ Gli svantaggi nell'utilizzo di Jekyll sono il fatto che è necessario avere comp
  
 ### 3 Wordpress
 
+Piattaforma che consiglio se non hai grossi budget (costa qualche centinaia di euro anno) e se non hai competenze di programmazione.
+
+[Wordpress](https://wordpress.org){:target="_blank"} è lo strumento più completo per creare un blog o un sito web per via della grandissima community di sviluppatori che ci lavora per migliorarlo.
+
+Grazie alla grande quantità di plugin viene reso semplice l'implementazione di funzionalità nuove in base alle tue esigenze senza dover toccare una riga di codice!
+
+Grazie all'enorme quantità di temi (sia gratis che a pagamento) avrai una vasta scelta nel layout grafico del tuo sito web e sarà molto semplice intallare il nuovo layout; ti consiglio sempre di acquistare un tema a pagamento in modo che venga sempre aggiornato nel tempo.
+
+Con Wordpress potresti essere in grado di sviluppare piattaforme web complesse e gestire milioni di visite ogni mese.
+
+È lo strumento ideale quando si lavora in team per via del fatto che l'interfaccia di utilizzo è intuitiva e semplice.
+
+Questo strumento è l'ideale per chi vuole partire alla grande, con una buona immagine professionale e una piattaforma completa di tutte le funzionalità necessarie per gestire un business su web.
+
+Di contro: 
+* **Wordpress risulta molto pesante da elaborare** e quindi per gestirlo in modo ottimale consiglio di affidarsi ad un [hosting efficente](http://linktrack.info/.2q1ho){:target="_blank"} meglio ancora se hai competenze e riesci a mettere in piedi il tuo cloud hosting che ti consiglio nella [sezione segreta di questo articolo]({% post_url 2017-10-13-i-migliori-provider-hosting-del-2018 %}){:target="_blank"}!
+
+* **È lo strumento di blogging più bersagliato dagli hacker**, quindi ti consiglio di prendere i ripari a livello di sicurezza utilizzando tool anti spam, tool per backup automatici, tenendo sempre aggiornato il core e i plugin che utilizzi e sfruttando sistemi di commento da terze parti (ad esempio [disqus comment system](http://snip.ly/or0db){:target="_blank"})
+ 
 ### 4 Webflow
 
 ### Prodotto gratuito
