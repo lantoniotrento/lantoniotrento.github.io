@@ -684,10 +684,10 @@ a.btn2:hover {
   -o-transition: 0.5s;
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  border: none!important;
+  border-bottom: none!important;
 }
 .social-nav a:hover{
-	border: none!important;
+	border-bottom: none!important;
 	padding-bottom: none!important;
 }
 
