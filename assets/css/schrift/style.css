@@ -453,19 +453,7 @@ article #post iframe {
 #post p {
     margin-bottom: 30px;
 }
-#post a {
-    color:rgba(0,0,0,0.7);
-    text-decoration:none;
-    border: 2px dashed #e8e8e8;
-    padding-bottom:0px;
-    -webkit-transition:0.4s ease;
-    -moz-transition:0.4s ease		
 
-}
-
-#post a:hover{
-    border-bottom:2px solid #337ab7;
-}
 #post a img {
     border: 0 none;  
 }
@@ -967,8 +955,45 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 
 
 
+#post a {
+    color:rgba(0,0,0,0.7);
+    text-decoration:none;
+    border: 2px dashed #e8e8e8;
+    padding-bottom:0px;
+    -webkit-transition:0.4s ease;
+    -moz-transition:0.4s ease		
+
+}
 
 
+
+/* linkfive  #post a:hover{
+    border-bottom:2px solid #337ab7;MYCOLORO
+}
+ */
+
+
+#post a:before {
+  content: '';
+  border-bottom: solid 1px white;
+  position: absolute;
+  bottom: 0; left: 0;
+  width: 100%;
+}
+
+#post a:hover:before {
+  -webkit-transform: scaleY(4);
+     -moz-transform: scaleY(4);
+      -ms-transform: scaleY(4);
+       -o-transform: scaleY(4);
+          transform: scaleY(4);
+  border-bottom: solid thin #5CAAEF;
+}
+
+#post a:before {
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
 
 
 
@@ -977,12 +1002,6 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 
 .thin { font-weight: 300; }
 .thick { font-weight: 900; }
-
-
-[class^="link-"] {
-  display: inline-block;
-  margin: 2em
-}
 
 /* linkone */
 .link-1 a:before, .link-1 a:after {
@@ -1049,47 +1068,6 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 .link-3 a:before {
   -webkit-transition: all 0.3s ease;
           transition: all 0.3s ease;
-}
-
-/* linkfour */
-.link-4 a:before {
-  content: '';
-  border-bottom: solid 1px white;
-  position: absolute;
-  bottom: 0; left: 0;
-  width: 100%;
-}
-
-.link-4 a:hover:before {
-  border-bottom: solid thin #5CAAEF;
-}
-
-.link-4 a:before {
-  -webkit-transition: all 0.2s ease;
-          transition: all 0.2s ease;
-}
-
-/* linkfive */
-.link-5 a:before {
-  content: '';
-  border-bottom: solid 1px white;
-  position: absolute;
-  bottom: 0; left: 0;
-  width: 100%;
-}
-
-.link-5 a:hover:before {
-  -webkit-transform: scaleY(4);
-     -moz-transform: scaleY(4);
-      -ms-transform: scaleY(4);
-       -o-transform: scaleY(4);
-          transform: scaleY(4);
-  border-bottom: solid thin #5CAAEF;
-}
-
-.link-5 a:before {
-  -webkit-transition: all 0.3s ease;
-  transition: all 0.3s ease;
 }
 
 /* linksix */
