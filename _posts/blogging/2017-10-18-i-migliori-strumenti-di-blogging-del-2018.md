@@ -115,3 +115,9 @@ Lo consiglio peculiarmente ha chi sviluppa su web per via del fatto che le metod
 In base alle tue esigenze ed al tuo budget c'è sempre un prodotto migliore di un'altro. 
 
 Se credi anche tu come me nel blogging e nel content marketing non è una scelta da lasciare al caso oppure optare per prodotti economici! È consigliabile per tutti strutturare bene il layout del blog ed i contenuti trattati perchè saranno il tuo biglietto da visita per il popolo del web!
+
+Antonio ti ringrazia per aver completato la lettura dell'articolo! Che ne pensi? Ti è stato utile?
+
+Ti andrebbe di condividerlo ai tuoi contatti? Mi faresti felice 😁
+
+Un abbraccio da Antonio.
