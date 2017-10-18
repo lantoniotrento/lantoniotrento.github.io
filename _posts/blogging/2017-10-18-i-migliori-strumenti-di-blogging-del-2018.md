@@ -57,7 +57,7 @@ Attenzione! Il prezzo, in questo caso, non è un indicatore che rivela la qualit
 
 Questo strumento può essere utlizzato come piattaforma di blogging ed è molto interessante come prodotto per via del fatto che è gratuito, non hai bisogno di competenze particolari per usarlo ed ha un layout molto elegante ed ottimizzato alla leggibilità. 
 
-Inoltre Medium è una piattaforma ben indicizzata su Google, quindi se creerai articoli molto interessanti con le giuste parole chiave, verresti facilmente indicizzato; inoltre l'aspetto social ti permette di instaurare relazioni direttamente sulla piattaforma [Medium](https://medium.com/){:.link-5}.
+Inoltre Medium è una piattaforma ben indicizzata su Google, quindi se creerai articoli molto interessanti con le giuste parole chiave, verresti facilmente indicizzato; inoltre l'aspetto social ti permette di instaurare relazioni direttamente sulla piattaforma [Medium](https://medium.com/){:target="_blank"}.
 
 Di contro gli articoli che andrai a pubblicare non faranno parte di una tua  piattaforma propietaria e quindi la proprietà intellettuale non è unicamente tua (questo potrebbe causare attriti nella riproduzione del contenuto su altre fonti) e non hai libertà nello sviluppo della tua piattaforma, limitando lo strumento ad un posto in cui si può solo leggere e condividere l'articolo. 
 
