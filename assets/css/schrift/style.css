@@ -961,7 +961,6 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
  */
 
 #post a {
-  content: '';
   border-bottom: solid 1px black;
 }
 #post a:before {
