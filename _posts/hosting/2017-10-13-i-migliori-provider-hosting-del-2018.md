@@ -91,11 +91,11 @@ Il servizio funziona bene per siti piccoli e di medie dimensioni, mi sento di co
 
 In conseguenza al fatto che sia semplice da utilizzare i costi del servizio non sono proprio utopici ma sono abbordabili.
 
-## [Git Hub](http://snip.ly/f4ifx){:target="_blank"}
+## [Git Hub e Jekyll](http://snip.ly/f4ifx){:target="_blank"}
 
 È lo strumento che ho scelto per ospitare questo blog peculiarmente perchè è gratis! 
 
-[Github](https://github.com){:target="_blank"} è uno strumento straordinario che ti permentte di operare in modo efficente nella gestione di progetti software, ma al suo interno offre una sua piattaforma di hosting chiamata **[Github Pages](http://snip.ly/f4ifx){:target="_blank"}** la quale, è strutturata per ospitare un **generatore di siti web chiamato Jekyll.**
+[Github](https://github.com){:target="_blank"} è uno strumento straordinario che ti permette di operare in modo efficente nella gestione di progetti software, ma al suo interno offre una sua piattaforma di hosting chiamata **[Github Pages](http://snip.ly/f4ifx){:target="_blank"}** la quale, è strutturata per ospitare un **generatore di siti web chiamato [Jekyll](http://snip.ly/56dw6){:target="_blank"}.**
 
 Il piano di hosting gratuito è molto permissivo, permette di ottenere 100.000 connessioni al mese  dai tuoi lettori, con prestazioni da urlo ed ha 1GB di spazio di archiviazione (è perfetto per siti web di piccoli business o liberi professionisti).
 
