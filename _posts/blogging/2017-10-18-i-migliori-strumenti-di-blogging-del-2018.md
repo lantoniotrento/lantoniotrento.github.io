@@ -44,11 +44,11 @@ Non voglio farti illusioni, mettere in piedi un blog non è semplice e non è im
 
 ## Gli strumenti di blogging per il 2018
 
-Ho pensato di suddividere gli strumenti di blogging per fasce di prezzo per via del fatto che non tutti possano permettersi prodotti premium a pagamento.
+Ho pensato di proporti solo gli strumenti di blogging gratuite o con prezzo abbordabile per via del fatto che non tutti possano permettersi prodotti premium a pagamento.
 
 Quindi ho selezionato solo i migliori strumenti in base alla fasca di prezzo per permetterti di valutare al meglio quale faccia al caso tuo.
 
-Attenzione! Il prezzo, in questo caso, non è un indicatore che rivela la qualità dei prodotti, ma ne indica la maneggevolezza da parte dei più, infatti ci tengo a precisare che il miglior strumento di questa lista è quello completamente gratuito, ma per utlizzarlo al meglio sono necessarie molte conoscenze informatiche, mentre, lo strumento più costoso ti permette di sviluppare i tuoi progetti in modo più semplificato senza aver necessità di competenze informatiche, dando a chi non ha queste conoscenze uno strumento che possa darti un risultato professionale.
+Attenzione! Il prezzo, in questo caso, non è un indicatore che rivela la qualità dei prodotti, ma ne indica la maneggevolezza da parte dei più, infatti ci tengo a precisare che il miglior strumento di questa lista è quello completamente gratuito, ma per utlizzarlo al meglio sono necessarie molte conoscenze informatiche, mentre, lo strumento più costoso ti permette di sviluppare i tuoi progetti in modo più semplificato senza aver necessità di competenze informatiche, dando a chi non ha queste conoscenze **uno strumento che possa darti un risultato professionale**.
 
 
 ### 1 Medium
