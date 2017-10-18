@@ -4,7 +4,7 @@ category : blogging
 tagline: "I migliori strumenti di blogging del 2018"
 tags : [blogging, blog, web sites, web business]
 locker: <h2><a target="_blank" href="http://linktrack.info/.2q4on">Digital ocean</a></h2><p>Questo strumento è eccezionale, si è vero, hai bisogno di competenze in amministrazione di rete e linux per utilizzarla al meglio, ma è comunque strutturata in modo molto semplice e ti permette di eseguire azioni amministrative molto complesse in pochi e facili passi.</p><p><a href="http://linktrack.info/.2q4on">Digital Ocean</a> è lo strumento che consiglio maggiormente per gestire le tue pagine web perchè è molto stabile, scalabile, velocissimo e nettamente meno costoso di qualsiasi altro provider tu possa trovare su web a parità di prestazioni offerte!</p><p>Con poche centinaia di euro l'anno potrai installare in modo semplice e gestire piattaforme web Wordpress velocissime, che possono accettare milioni di visite al mese! È l'ideale per chi vuole operare in modo professionale creando campagne di markerting che portano traffico considerevole alle pagine web.</p><p>Il tutto con un'interfaccia amministrativa semplice e molto versatile ti permetterà di creare molte azioni al tuo server in modo semplice da implementare la tua macchina virtuale per un'applicazione professionale ed ospitarla in cloud in modo semplice a operare sulla shell della tua macchina per modificare conigurazioni complesse.</p>
-img : i-migliori-tools-di-web-marketing-per-fare-business-nel-2018.html/i-migliori-tools-di-web-marketing-per-fare-business-nel-2018.jpg
+img : i-migliori-strumenti-di-blogging-del-2018/i-migliori-strumenti-di-blogging-del-2018.jpg
 author : Antonio Trento
 css: 
 js:  
@@ -22,7 +22,7 @@ Creare un blog con un piano editoriale ben strutturato per i tuoi potenziali cli
 
 Una struttura di blogging vincente passa da un buono studio del mercato di riferimento e dei potenziali clienti di quel mercato; se sarai in grato di carpire le esigenze del pubblico sarai in grado di renderti molto appetibile ed interessante condividendo sul blog soluzioni ai problemi che attanagliano i lettori per il tuo segmento di mercato.
 
-Non so se è chiaro ma per fare un esempio, se il tuo mercato tratta di ristrotturazioni case, nel tuo blog parlare di come imbiancare una stanza facendo un tutorial (consigliando prodotti all'avanguardia e tecniche particolari) potrebbe essere un argomento molto apprezzato dai lettori. 
+Non so se è chiaro ma per fare un esempio, se il tuo mercato tratta di ristrutturazioni case, nel tuo blog parlare di come imbiancare una stanza facendo un tutorial (consigliando prodotti all'avanguardia e tecniche particolari) potrebbe essere un argomento molto apprezzato dai lettori. 
 
 Anche se fosse uno dei servizi che offri nel tuo business, il fatto di parlarne ti renderà molto più onesto e cristallino rispetto la concorrenza, facendo comunque una figura professionali agli occhi dei lettori, i quali sicuramente apprezzeranno letture utili per perseguire i propri scopi, facendo in modo che gli utenti si ricorderanno in modo piacevole di te e della tua attività.
 
@@ -32,7 +32,7 @@ Riuscire a indicizzarsi sui motori di ricerca però è un'obiettivo vincente dat
 
 Quindi ci sarebbero molti buoni motivi per cominciare a pianificare un blog che parli di argomenti affini alla tua attività, ma ci sono anche alcuni svantaggi di cui ti vorrei parlare:
 
-* Il blogging richiede energie: per creare un articolo vincente dovrai effettuare molte ricerche e documentarti al meglio, inoltre devi essere in grado di scrivere in modo corretto e coinvolgente
+* Il blogging richiede energie: per creare un articolo vincente dovrai effettuare molte ricerche e documentarti al meglio, inoltre devi essere in grado di scrivere in modo corretto, coinvolgente, pubblicare spesso nuovi contenuti e mantenere aggiornati i vecchi. 
 
 * Richiede una buona capacità di gestione community: oltre alla creazione dei contenuti se avrai un blog con traffico dovrai essere in grado di gestire i commenti le critiche gli haters, saper gestire i tuoi canali social per coinvolgere il pubblico già acquisito ecc.
 
@@ -89,7 +89,7 @@ Con Wordpress potresti essere in grado di sviluppare piattaforme web complesse e
 
 È lo strumento ideale quando si lavora in team per via del fatto che l'interfaccia di utilizzo è intuitiva e semplice.
 
-Questo strumento è l'ideale per chi vuole partire alla grande, con una buona immagine professionale e una piattaforma completa di tutte le funzionalità necessarie per gestire un business su web.
+Questo strumento è perfetto per chi vuole partire alla grande, con una buona immagine professionale e una piattaforma completa di tutte le funzionalità necessarie per gestire un business su web.
 
 Di contro: 
 * **Wordpress risulta molto pesante da elaborare** e quindi per gestirlo in modo ottimale consiglio di affidarsi ad un [hosting efficente](http://linktrack.info/.2q1ho){:target="_blank"} meglio ancora se hai competenze e riesci a mettere in piedi il tuo cloud hosting che ti consiglio nella [sezione segreta di questo articolo]({% post_url 2017-10-13-i-migliori-provider-hosting-del-2018 %}){:target="_blank"}!
@@ -98,4 +98,20 @@ Di contro:
  
 ### 4 Webflow
 
-### Prodotto gratuito
+[Webflow](https://webflow.com){:target="_blank"} è uno strumento di nuova generazione che mira a minare la fetta di mercato web che sfrutta Wordpress per mantenere i propri siti web.
+
+È gratuito ma la società mira a vendere il servizio di hosting per il [CMS Webflow](https://webflow.com){:target="_blank"}, dato che si può appoggiare solo sui loro hosting.
+
+Effettivamente il rapporto qualità prezzo è eccezionale; Webflow ha a disposizione di default un generatore visuale di contenuti professionale! Non ha bisogno di plugin esterni per avere a disposizione gli strumenti che servono per creare  pagine web, sono già tutti integrati!
+
+Ha a disposizioni moltissimi layout grafici eccezzionali da cui partire a sviluppare il tuo sito web già compresi nel prezzo dello strumento e dell'hosting!
+
+Quindi con qualche centinaia di euro anno potrai avere a disposizione un blog professionale facile da gestire, credo sia un prodotto straordinario.
+
+Lo consiglio peculiarmente ha chi sviluppa su web per via del fatto che le metodologie di sviluppo sono veloci e visuali e dopo puoi esportare quel che hai realizzato in html ed implementarlo dove preferisci oppure passare l'hosting del progetto al tuo cliente via [Webflow](https://webflow.com){:target="_blank"}.
+
+## Conclusione
+
+In base alle tue esigenze ed al tuo budget c'è sempre un prodotto migliore di un'altro. 
+
+Se credi anche tu come me nel blogging e nel content marketing non è una scelta da lasciare al caso oppure optare per prodotti economici! È consigliabile per tutti strutturare bene il layout del blog ed i contenuti trattati perchè saranno il tuo biglietto da visita per il popolo del web!
