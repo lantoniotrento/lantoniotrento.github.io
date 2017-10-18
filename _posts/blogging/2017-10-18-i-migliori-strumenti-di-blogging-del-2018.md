@@ -16,6 +16,8 @@ canonical: https://lantoniotrento.github.io/hosting/2017/10/18/i-migliori-strume
 
 Un blog è uno strumento molto utile in quest'era. Ti permette di condividere informazioni, coinvolgere il tuo pubblico e generare conversazioni intorno ad argomenti in linea con l'attività che svolgi su internet.
 
+<!--more-->
+
 Creare un blog con un piano editoriale ben strutturato per i tuoi potenziali clienti ti permetterà di apparire autorevole nel tuo settore e di posizionarti nella mente dei tuoi lettori e quindi fare in modo che essi si ricordino di te e di quello che fai.
 
 Una struttura di blogging vincente passa da un buono studio del mercato di riferimento e dei potenziali clienti di quel mercato; se sarai in grato di carpire le esigenze del pubblico sarai in grado di renderti molto appetibile ed interessante condividendo sul blog soluzioni ai problemi che attanagliano i lettori per il tuo segmento di mercato.
@@ -49,8 +51,26 @@ Attenzione! Il prezzo, in questo caso, non è un indicatore che rivela la qualit
 
 ### 1 Medium
 
+È una piattaforma di editoria social gratuito; [Medium](https://medium.com/){:target="_blank"} negli ultimi anni si è affermato come strumento di editoria, molte testate e risviste lo utilizzano puntualmente per condividere articoli ed informazioni al loro pubblico.
+
+Questo strumento può essere utlizzato come piattaforma di blogging ed è molto interessante come prodotto per via del fatto che è gratuito, non hai bisogno di competenze particolari per usarlo ed ha un layout molto elegante ed ottimizzato alla leggibilità; inoltre Medium è una piattaforma ben indicizzata su Google, quindi se creerai articoli molto interessanti con le giuste parole chiave, verresti facilmente indicizzato; inoltre l'aspetto social ti permette di instaurare relazioni direttamente sulla piattaforma [Medium](https://medium.com/){:target="_blank"}.
+
+Di contro gli articoli che andrai a pubblicare non faranno parte di una tua  piattaforma propietaria e quindi la proprietà intellettuale non è unicamente tua (questo potrebbe causare attriti nella riproduzione del contenuto su altre fonti) e non hai libertà nello sviluppo della tua piattaforma, limitando lo strumento ad un posto in cui si può solo leggere e condividere l'articolo. 
+
+Per avere un blog vincente devi essere anche in grado di veicolare il lettore nelle pagine che più sono sensibili ed utili per il tuo business e per farlo dovrai per forza di cose implementare strumenti di marketing che invoglino il lettore a rimanere nel tuo sito e leggere altri articoli o iscriversi alla tua newsletter per riuscire a ricontattarlo nel tempo, purtroppo Medium non mette a disposizione strumenti di marketing.
+
 ### 2 Jekyll
 
+Per le mie esigenze è il migliore! [Jekyll](http://snip.ly/56dw6){:target="_blank"} è un generatore di blog con pagine statiche; con questo strumento si ha liberta completa per quanto riguarda la parte di sviluppo ma sono necessarie conoscenze di informatica, programmazione e di rete per implementarlo.
+
+I principali vantaggi nell'utilizzarlo sono la velocità di caricamento delle pagine, il prezzo (gratis) e la versatilità nell'utilizzo e nell'implementazione di tools e strumenti utili al marketing del tuo blog nonchè la velocità di implementazione a livello tecnico a confronto di prodotti simili.
+
+Potrai ospitarlo su [Git Hub Pages](http://snip.ly/f4ifx){:target="_blank"} gratuitamente con prestazioni spaziali (te ne parlo in [questo articolo]({% post_url 2017-10-13-i-migliori-provider-hosting-del-2018 %}){:target="_blank"}), mica male poter avere a disposizione un sito web top performace gratuitamente!
+
+Inoltre Jekyll non è solo uno strumento di blogging ma di marketing potrai anche creare intorno al tuo blog tutte le pagine di promozione o di acquisizione utenti che servono alla tua attività per incrementare il traffico al sito web. 
+
+Gli svantaggi nell'utilizzo di Jekyll sono il fatto che è necessario avere competenze per impelementarlo e progettarlo; infatti anche se per me questo prodotto è il migliore se vuoi sfruttarlo per un piccolo o medio business sconsiglio caldamente di utilizzarlo se non si hanno conoscenze o non si ha il tempo per acquisirle.
+ 
 ### 3 Wordpress
 
 ### 4 Webflow
