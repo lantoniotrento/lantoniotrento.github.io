@@ -960,10 +960,13 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 }
  */
 
-
+#post a {
+  content: '';
+  border-bottom: solid 1px black;
+}
 #post a:before {
   content: '';
-  border-bottom: solid 1px white;
+  border-bottom: solid 1px black;
   position: absolute;
   bottom: 0; left: 0;
   width: 100%;
