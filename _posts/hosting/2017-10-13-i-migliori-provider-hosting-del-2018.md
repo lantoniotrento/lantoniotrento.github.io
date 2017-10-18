@@ -16,9 +16,9 @@ canonical: https://lantoniotrento.github.io/hosting/2017/10/13/i-migliori-provid
 
 Ciao benvenuto sul blog! Sono Antonio e sono qui per parlarti dei **migliori strumenti** che potrai utilizzare per l'implementazione di un **business su web.**
 
-Questo blog non è come molti blog in rete, peculiarmente perchè io tratto la materia del web marketing da un aspetto differente al confronto della maggior parte delle persone che hanno un blog su questo argomento.
-
 <!--more-->
+
+Questo blog non è come molti blog in rete, peculiarmente perchè io tratto la materia del web marketing da un aspetto differente al confronto della maggior parte delle persone che hanno un blog su questo argomento.
 
 *Cercherò di selezionare per te gli strumenti più efficaci ed anche i più economici in modo da poter riuscire a farti scegliere i tuoi preferiti in base al tuo budget e la mole del tuo business.*
 
