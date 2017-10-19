@@ -685,10 +685,12 @@ a.btn2:hover {
   -webkit-transition: 0.5s;
   transition: 0.5s;
   border-bottom: none!important;
+  text-decoration:none !important;	
 }
 .social-nav a:hover{
 	border-bottom: none!important;
 	padding-bottom: none!important;
+	text-decoration:none !important;
 }
 
 .model-4 li {
