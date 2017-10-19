@@ -266,8 +266,8 @@ li.nav-item .btn-white {
   width: 100%;
   color: #fff;
   padding-top: 1rem; }
-  .cover-4 h1 {
-    font-weight: 200; }
+  /*.cover-4 h1 {
+    font-weight: 200; }*/
   .cover-4 p.lead {
     margin: 2rem auto;
     color: rgba(255, 255, 255, 0.75);
@@ -714,9 +714,9 @@ li.nav-item .btn-white {
     .pricing-table-1 .col-pricing-table h2.plan-price, .pricing-table-2 .col-pricing-table h2.plan-price {
       color: #46484a;
       margin: 0;
-      font-weight: 200; }
+      /*font-weight: 200;*/ }
       .pricing-table-1 .col-pricing-table h2.plan-price small, .pricing-table-2 .col-pricing-table h2.plan-price small {
-        font-weight: 200;
+        /*font-weight: 200;*/
         font-size: 1.5rem; }
     .pricing-table-1 .col-pricing-table ul.plan-feature-list, .pricing-table-2 .col-pricing-table ul.plan-feature-list {
       list-style: none;
