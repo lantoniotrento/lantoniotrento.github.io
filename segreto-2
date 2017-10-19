@@ -1,0 +1,138 @@
+---
+layout: page
+title: Terzo segreto
+tagline: Il terzo regalo segreto del blog di Antonio Trento.
+tags : 
+img :
+author : Antonio Trento
+css: 
+js:
+keywords:
+canonical: https://lantoniotrento.github.io/segreto-2
+---
+{% include JB/setup %}
+
+
+<section class="cover-2 text-left">			
+			<div class="cover-container">
+				<div class="cover-inner container">
+						<div class="row justify-center">
+							<div class="col-lg-5 mt-5 mb-5 text-center text-lg-left">
+								<h1 class="jumbotron-heading">Terzo segreto del blog di Antonio Trento</h1>
+								<p class="lead">Benvenuto nell'area segreta! Scopri il terzo regalo segreto nel blog!</p>
+								<p>
+								<a href="#inizio" class="btn btn-outline-success btn-lg mb-2 mr-2 ml-2 pill-btn">Scoprilo</a>
+							</p>
+						</div>
+						<div class="col-lg-5 offset-lg-2 mt-5 mb-5 text-center">
+							<img class="img-fluid mt-5 mb-5" src="{{ BASE_PATH }}/assets/images/segreto/segreto-1.png">
+						</div>
+					</div>
+				</div>
+			</div>
+</section>
+
+<section id="inizio" class="content-3 text-center">
+			<div class="container">
+				<h2>1° Segreto</h2>
+				<p class="lead mb-5 constrain-width">Il primo regalo segreto.</p>
+				<div class="row justify-center">
+					<div class="col-md-3 text-center text-md-right">
+						<div class="col col-feature">
+							<em class="fa fa-2x fa-search"></em>
+							<h4>Dove trovare il primo segreto?</h4>
+							<p>Il primo segreto è stato reso disponibile su <a href="https://manychat.com/l1/lantoniotrento" target="_blank">AntoBot</a> se non hai già effettuato l'iscrizione ti consiglio di farlo subito sia per ricevere il primo regalo segreto sia per ricevere molti tips direttamente sulla tua chat.</p>
+						</div>					
+					</div>
+					<div class="col-md-6 text-center">
+						<img class="mb-4 img-fluid" src="{{ BASE_PATH }}/assets/images/segreto/segreto-2.png">
+					</div>
+					<div class="col-md-3 text-center text-md-left">
+						<div class="col col-feature">
+							<em class="fa fa-2x fa-star-o"></em>
+							<h4>Non fartelo scappare</h4>
+							<p>Questo regalo segreto è il consiglio dell'utilizzo di una tecnologia alternativa per la comunicazione delle tue offerte. Non fartelo scappare!</p>
+						</div>
+					</div>	
+				</div>
+			</div>
+</section>
+
+
+<section class="content-4">
+			<div class="container">
+				<h2 class="justify-center">2° Segreto</h2>
+				<p class="lead mb-5 constrain-width justify-center">Il secondo regalo è nascosto qui.</p>				
+				<div class="row justify-center mt-5">
+					<div class="col-md-6 pl-5 pr-5 text-center">
+						<img class="mb-4 img-fluid" src="{{ BASE_PATH }}/assets/images/segreto/segreto-3.png">
+					</div>
+					<div class="col-md-6 text-left">
+						<h2>Scopri cos'è.</h2>
+						<p class="lead mt-4 mb-5">Sono felice e orgoglioso di regalarti il mio ebook che ti permetterà di comprendere le dinamiche del blogging e le azioni che devi compiere per portarlo al successo</p>
+						
+						<div class="row">
+							<div class="col-md-6 col-feature mb-4">
+								<h4 class="mb-3">Trova l'ebook</h4>
+								<p>Ho nascosto il link al mio ebook nel mio blog in un posto sicuro.</p>
+								<p>Vuoi scoprire dov'è? Bene allora ti do un indizio. Il link al download è nascosto sopra l'head di questo sito.</p>								
+							</div>
+							<div class="col-md-6 col-feature mb-4">
+								<h4 class="mb-3">Ispeziona il sito</h4>
+								<p>Per scaricarlo dovrai ispezionare con il tuo browser questa pagina, in cima alla pagina troverai il link all'ebook!</p>
+								<p><a href="https://www.youtube.com/watch?v=DsSF-OOiXSU" target="_blank">Scopri qui</a> come ispezionare la pagina web e ricorda che l'head è all'inizio di ogni pagina. Buona lettura!</p>								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+</section>
+
+
+<section class="gallery-2 text-center">
+			<div class="container-fluid">
+				<h2>3° Segreto</h2>
+				<p class="lead constrain-width">Il terzo segreto è <strong>nascosto nel gruppo facebook privato</strong> di questo blog!</p>
+				<br />
+				<p class="lead constrain-width"><strong>Hai solo un modo per poter accedere al gruppo!</strong> Conoscere la parola d'ordine di accesso; l'unico modo per iscriverti è digitando la parola d'ordine all'atto della richiesta di accesso al gruppo.</p>
+				<br />
+				<p class="lead constrain-width">La parola d'ordine è <strong>FUNNEL</strong></p>
+				<br />
+				<p><a href="https://fb.com/groups/markettari" class="btn btn-outline-success btn-lg mb-2 mr-2 ml-2 pill-btn">Accedi al gruppo</a></p>
+				<div class="divider"></div>
+				<div class="row mt-5 no-gutters">
+					<div class="col-lg-3 item" style="background-color:#fff">
+					</div>
+					<div class="col-lg-6 item" style="background-image: url({{ BASE_PATH }}/assets/images/segreto/fb-grouppo-1.jpg); height: 400px;">
+					</div>
+					<div class="col-lg-3 item" style="background-color:#fff">
+					</div>
+				</div>
+			</div>
+</section>
+<!--
+<section class="testimonial-1 text-center">
+			<div class="container">
+				<h3 class="mb-3">Dicono di me</h3>
+				<div class="divider"></div>
+				<div class="row">
+					<div class="col-md-4 col-testimonial">
+						<img class="rounded-circle" src="https://lantoniotrento.github.io/assets/images/team-1.jpg">
+						<p class="quote-text">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse cursus."</p>
+						<p><span class="quote-author">Jonathan Smith</span></p>
+					</div>
+					<div class="col-md-4 col-testimonial">
+						<img class="rounded-circle" src="https://lantoniotrento.github.io/assets/images/team-2.jpg">
+						<p class="quote-text">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse cursus."</p>
+						<p><span class="quote-author">Jane Donovan</span></p>
+					</div>
+					<div class="col-md-4 col-testimonial">
+						<img class="rounded-circle" src="https://lantoniotrento.github.io/assets/images/team-3.jpg">
+						<p class="quote-text">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse cursus."</p>
+						<p><span class="quote-author">Sam Davidson</span></p>
+					</div>
+				</div>
+			</div>
+</section>
+
+-->
