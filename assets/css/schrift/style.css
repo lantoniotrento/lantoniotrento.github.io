@@ -663,9 +663,13 @@ a.btn2:hover {
   list-style: none;
   display: inline-block;
   margin: 10px auto;
+  border-bottom: none!important;
+  text-decoration:none !important;	
 }
 .social-nav li {
   display: inline-block;
+  border-bottom: none!important;
+  text-decoration:none !important;	
 }
 .social-nav a {
   display: inline-block;
@@ -964,6 +968,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 
 #post a {
   border-bottom: solid 1px black;
+  text-decoration:none !important;
 }
 #post a:before {
   content: '';
