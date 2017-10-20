@@ -30,7 +30,7 @@ canonical: https://lantoniotrento.github.io/hosting/2017/10/13/i-migliori-provid
 calltoaction: <span>html per testo call to action a fine articolo del blog</span>
 socialtagline: testo contenuto prima dei bottoni social share 
 exitintent: <a href="#">html per attivare popup exitintent (meglio usare un immagine altrimenti bisogna modificare css)</a>
-hellobar: yes
+hellobar: yes (hello bar on/off)
 welcomemat:   <div>html del welcom mat</div>
 wm-image-1: https://lantoniotrento.github.io/assets/images/cover-bg-1.jpg //indirizzi assoluti immagini di sfondo
 wm-image-2: https://lantoniotrento.github.io/assets/images/cover-bg-1.jpg
