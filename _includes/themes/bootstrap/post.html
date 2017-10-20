@@ -18,9 +18,15 @@
 	{% include social-share.html %}    
 	    
         {{ content }}
+	 {% if page.socialtagline %}
+	  <blockquote>
+		  <p>"{{ page.socialtagline }}"</p>
+	  </blockquote>		    
+	 {% else %}
 	  <blockquote>
 		  <p>"Ti ringrazio molto per aver letto questo post! Ti andrebbe di farmi un favore? Regalami la felicità! Lasciami una condivisione sul tuo social preferito!"</p>
-	  </blockquote>		  
+	  </blockquote>	
+	 {% endif %}
 	{% include social-share.html %}    
 	
     </div>
@@ -31,9 +37,15 @@
 
       
 <div class="invitation">
+	{% if page.calltoaction %}
+	  <div>
+	      <span class="oi" data-glyph="chat" style="padding-right: 12px;"></span> {{ page.calltoaction }}
+	  </div>	
+	{% else %}
 	  <div>
 	      <span class="oi" data-glyph="chat" style="padding-right: 12px;"></span> Scopri tutti i metodi e strumenti che utilizzo per ingaggiare nuovo pubblico per le mie pagine web.  <a href="http://eepurl.com/ckInGX">Iscriviti alla lista</a>.
-	  </div>
+	  </div>	
+	{% endif %}
 </div>
 
 <section class="article">
