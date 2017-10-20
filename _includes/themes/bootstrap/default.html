@@ -112,15 +112,39 @@ jQuery(document).ready(function ($) {
 		    cookieExp: 0
       });
     </script>		  
-{% endif %}	  
-</head>
-	
+{% endif %}
+
 <!-- Hellobar -->
 {% if page.hellobar %}	
 <script src="https://my.hellobar.com/1cf1308fde34f28a43199ed385303c0e8cc615d8.js" type="text/javascript" charset="utf-8" async="async"></script>	
-{% endif %}	
-  <body>	  	   
+{% endif %}
+    {% if page.welcomemat %}
+	    <link href="{{ BASE_PATH }}/assets/css/welcomemat.css" rel="stylesheet">
+    {% endif %}	
+	  
+</head>		
+<body>	  	   
 
+{% if page.welcomemat %}	
+<!-- This shit is require mated - @MercenaryCarter -->
+<div class="introduction">
+  <div class="shade">
+  <div class="container">
+  <div class="row">
+  <div class="col-xs-12 text-center header">
+  <h1><b>Welcome to Money Over Ethics</b></h1>
+  <h2><i>(Slogan here)</i></h2><br/>
+  <a href="http://www.moneyoverethics.com/"><img src="http://www.moneyoverethics.com/images/Newsletter-big.jpg"></a><br/><br/>
+  <button href="http://www.moneyoverethics.com/" class="button btn btn-info btn-lg">LEARN MORE</button>
+  <button href="#closeMofo" class="btn btn-default closeMofo">NO THANKS</button>
+  </div>
+  </div>
+  </div>
+  </div>
+</div>
+<!-- End of require mated - @MercenaryCarter -->
+{% endif %}	  
+	  
       <!--Home page style--> 
       {% include themes/bootstrap/nav-bar.html %}  
       {{ content }}
@@ -137,7 +161,9 @@ jQuery(document).ready(function ($) {
     
     <!--Custom script loaded by children page-->
     {% if page.js %}<script src="{{ BASE_PATH }}/assets/js/{{ page.js }}"></script>{% endif %}
-	
+    {% if page.welcomemat %}
+	<script src="{{ BASE_PATH }}/assets/js/welcomemat.js"></script>
+    {% endif %}	 
 
 
   </body>
