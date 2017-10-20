@@ -72,15 +72,15 @@ Questa pratica potrebbe sembrare inutile e faticosa ma alla lunga paga gli sforz
 
 Ogni azienda che lavora nel digitale e sia rispettabile sfrutta questo strumento per **trattenere l'audience conquistata nel tempo tra le proprie pagine web**; riuscire a trattenere i propri lettori nel tempo è un obiettivo molto importante da porsi quando si crea un business su web.
 
-Peculiarmente per il fatto che la rete è molto vasta e che i lettori che approderanno tra le tue pagine web molto raramente torneranno a visitarle di loro spontanea volonta (si dimenticheranno irrimediabilmente dei tuoi contenuti anche se utili, a meno che tu non sia già attualmente posizionato nelle loro menti) a questo scopo si tende di favorire l'iscrizione alla propria lista email, per riuscire a fare in modo di riportare un lettore che è già passato dal tuo sito web di nuovo tra le tue pagine per fruire nuovi contenuti.
+Peculiarmente per il fatto che la rete è molto vasta e che i lettori che approderanno tra le tue pagine web molto raramente torneranno a visitarle di loro spontanea volonta (si dimenticheranno irrimediabilmente dei tuoi contenuti anche se utili, a meno che tu non sia già attualmente posizionato nelle loro menti) a questo scopo si tende di favorire l'iscrizione alla propria lista email, per **riuscire a fare in modo di riportare un lettore che è già passato dal tuo sito web di nuovo tra le tue pagine per fruire nuovi contenuti**.
 
 Oltre a quest'esigenza subentra una dinamica di autorità e nutrimento dei lettori nonchè di segmentazione. 
 
 L'autorità nel tempo ti permetterà di posizionarti nella mente dei tuoi utenti, questo farà si che le informazioni che condividi saranno oro colato ai loro occhi ed avrai grandi possibilità di iterazione con i lettori.
 
-Mentre la segmentazione è generata grazie ad una piattaforma di marketing automation; potrai oltre che generare una lista di email riuscire ad identificare gli interessi, passioni abitudini di ogni singolo utente iscritto.
+Mentre la [segmentazione](https://it.wikipedia.org/wiki/Segmentazione_(marketing)){:tager="_blank"} è generata grazie ad una piattaforma di marketing automation; potrai oltre che generare una lista di email, nel tempo, riuscire ad identificare gli interessi, passioni abitudini di ogni singolo utente iscritto tramite azioni mirate ad acquisire le informazioni com ad esempio un sondaggio inviato alla lista email.
 
-Riuscire a conoscere queste informazioni farà la differenza nel tuo busienss, perchè saprai su quali leve mentali lavorare per persuadere il tuo bacino di utenza, e riuscire a mandare comunicazioni di marketing specifiche e mirate solo alle persone della tua lista che hanno determinati interessi.
+**Riuscire a conoscere le informazioni personali ed interessi dei lettori farà la differenza nel tuo busienss**, perchè saprai su quali leve mentali lavorare per persuadere il tuo bacino di utenza, e riuscire a mandare comunicazioni di marketing specifiche e mirate solo alle persone della tua lista che hanno determinati interessi.
 
 ## Social media
 
