@@ -32,6 +32,10 @@ socialtagline: testo contenuto prima dei bottoni social share
 exitintent: <a href="#">html per attivare popup exitintent (meglio usare un immagine altrimenti bisogna modificare css)</a>
 hellobar: yes
 welcomemat:   <div>html del welcom mat</div>
+wm-image-1: https://lantoniotrento.github.io/assets/images/cover-bg-1.jpg //indirizzi assoluti immagini di sfondo
+wm-image-2: https://lantoniotrento.github.io/assets/images/cover-bg-1.jpg
+wm-image-3: https://lantoniotrento.github.io/assets/images/cover-bg-1.jpg
+
 
 ---
 {% include JB/setup %}
