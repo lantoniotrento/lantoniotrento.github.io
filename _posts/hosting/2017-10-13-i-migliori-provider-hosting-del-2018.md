@@ -15,6 +15,9 @@ socialtagline: Ti ringrazio molto per aver letto questo post! Ti andrebbe di far
 exitintent: <a href="http://eepurl.com/ckInGX" title="Claim your discount!"><img src="/assets/images/exitintent.png" alt="Claim your discount!" /></a>
 hellobar: yes
 welcomemat:   <div class="col-xs-12 text-center header"><br/><br/><h1><b>Welcome to Money Over Ethics</b></h1><h2><i>(Slogan here)</i></h2><br/><br/><br/><button href="http://www.moneyoverethics.com/" class="button btn btn-info btn-lg">LEARN MORE</button><button href="#closeMofo" class="btn btn-default closeMofo">NO THANKS</button>
+wm-image-1: https://lantoniotrento.github.io/assets/images/cover-bg-1.jpg
+wm-image-2: https://lantoniotrento.github.io/assets/images/cover-bg-1.jpg
+wm-image-3: https://lantoniotrento.github.io/assets/images/cover-bg-1.jpg
 
 ---
 {% include JB/setup %}
