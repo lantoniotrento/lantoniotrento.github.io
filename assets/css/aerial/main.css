@@ -1053,6 +1053,6 @@
 
 @media screen and (min-width : 1824px) {
 	#bg {
-	  height:50%;
+ 	  background: #ffbf00 url("/assets/images/bg2.jpg") bottom left!important;
 	}
 }
