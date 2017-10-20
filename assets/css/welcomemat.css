@@ -1,0 +1,36 @@
+body {
+  margin: 0px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+.introduction {
+  font-family: 'Raleway';
+  color: #fff;
+  text-align: center;
+}
+.introduction h1 {
+  font-size: 3.5em;
+}
+.introduction h2 {
+  font-size: 2.8em;
+}
+.introduction .shade {
+  background-color: rgba(0,0,0,0.5);
+}
+.introduction .shade .container .row {
+  position: relative;
+//position: absolute; //you might need to make this absolute to play nicely
+  height: 100%;
+}
+.introduction .shade .container .row .header {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.introduction .shade .container .row button {
+  font-size: 0.9em;
+  padding: 8px 25px;
+  background-color: #33c3f0;
+  border-color: #33c3f0;
+}
