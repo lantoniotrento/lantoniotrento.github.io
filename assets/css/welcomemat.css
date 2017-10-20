@@ -9,7 +9,7 @@ body {
   font-size: 2.8em;
 }
 .introduction .shade {
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(255,255,255);
 }
 .introduction .shade .container .row {
   position: relative;
