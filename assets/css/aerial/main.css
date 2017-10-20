@@ -187,7 +187,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #ffbf00 url("/assets/images/bg1.jpg") bottom left;
+		background: #ffbf00 url("/assets/images/bg2.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -1053,6 +1053,6 @@
 
 @media screen and (min-width : 1824px) {
 	#bg {
- 	  background: #ffbf00 url("/assets/images/bg2.jpg") bottom left!important;
+
 	}
 }
