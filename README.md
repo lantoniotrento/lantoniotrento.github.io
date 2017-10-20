@@ -38,7 +38,15 @@ welcomemat:   <div>html del welcom mat</div>
 
 <!--more-->
 
-{% include social-locker.html %}
+# Titolo
+
+contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto 
+
+{% include social-locker.html %} //posizionamento social locker nella pagina
+
+ contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto
+
+{% social-share.html %} //posizionamento social share nella pagina
 
 ```
 
