@@ -1049,3 +1049,10 @@
   background: white; /* Gecko Browsers */
   color: #000000;
 }
+
+
+@media screen and (min-width : 1824px) {
+	#bg {
+	  max-height:500px;
+	}
+}
