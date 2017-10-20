@@ -14,7 +14,7 @@ calltoaction: Scopri tutti i metodi e strumenti che utilizzo per ingaggiare nuov
 socialtagline: Ti ringrazio molto per aver letto questo post! Ti andrebbe di farmi un favore? Regalami la felicità! Lasciami una condivisione sul tuo social preferito!
 exitintent: <a href="http://eepurl.com/ckInGX" title="Claim your discount!"><img src="/assets/images/exitintent.png" alt="Claim your discount!" /></a>
 hellobar: yes
-welcomemat:   <div class="col-xs-12 text-center header"><br/><br/><h1><b>Welcome to Money Over Ethics</b></h1><h2><i>(Slogan here)</i></h2><br/><br/><br/><a style="pading-right:2px" href="https://antoniotrento.github.io/contatti" class="btn2 draw-border">Scopri</a><a style="pading-left:2px" href="#closeMofo" class="btn2 draw-border">No Grazie</a>
+welcomemat:   <div class="col-xs-12 text-center header"><br/><br/><h1><b>Scopri i segreti dei marketirs</b></h1><h2><i>Tutto quello che devi sapere prima di provare a lanciare il tuo business su web</i></h2><br/><br/><br/><a style="pading-right:2px" href="https://antoniotrento.github.io/contatti" class="btn2 draw-border">Scopri</a><a style="pading-left:2px" href="#closeMofo" class="btn2 draw-border">No Grazie</a>
 wm-image-1: https://lantoniotrento.github.io/assets/images/cover-bg-1.jpg
 wm-image-2: https://lantoniotrento.github.io/assets/images/cover-bg-1.jpg
 wm-image-3: https://lantoniotrento.github.io/assets/images/cover-bg-1.jpg
