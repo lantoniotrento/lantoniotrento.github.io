@@ -17,11 +17,11 @@ Per ogni post del blog sono configurabili e personalizzabili inserendo l'apposit
 
 ---
 layout: post
-category : hosting
+category : nome categoria (cartella contenuta in _posts)
 tagline: "I migliori hosting per wordpress e jekyll nel 2018"
 tags : [hosting, web sites, web business]
 locker: <p>Codice html da visualizzare nel locker.</p>
-img : i-migliori-tools-di-web-marketing-per-fare-business-nel-2018.html/i-migliori-tools-di-web-marketing-per-fare-business-nel-2018.jpg
+img : indirizzo dell'immagine contenuta in ../assets/images
 author : Antonio Trento
 css: 
 js:  
