@@ -14,6 +14,7 @@ calltoaction: Scopri tutti i metodi e strumenti che utilizzo per ingaggiare nuov
 socialtagline: Ti ringrazio molto per aver letto questo post! Ti andrebbe di farmi un favore? Regalami la felicità! Lasciami una condivisione sul tuo social preferito!
 exitintent: <a href="http://eepurl.com/ckInGX" title="Claim your discount!"><img src="/assets/images/exitintent.png" alt="Claim your discount!" /></a>
 hellobar: yes
+welcomemat:   <div class="col-xs-12 text-center header"><h1><b>Welcome to Money Over Ethics</b></h1><h2><i>(Slogan here)</i></h2><br/><a href="http://www.moneyoverethics.com/"><img src="http://www.moneyoverethics.com/images/Newsletter-big.jpg"></a><br/><br/><button href="http://www.moneyoverethics.com/" class="button btn btn-info btn-lg">LEARN MORE</button><button href="#closeMofo" class="btn btn-default closeMofo">NO THANKS</button>
 
 ---
 {% include JB/setup %}
