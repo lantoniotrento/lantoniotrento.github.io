@@ -52,5 +52,7 @@ contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto 
 
 {% social-share.html %} //posizionamento social share nella pagina
 
+{% sign-up.html %} //posizionamento di un banner di iscrizione lista
+
 ```
 
