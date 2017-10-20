@@ -10,6 +10,8 @@ css:
 js:  
 keywords: blogging, blog, seo, content marketing
 canonical: https://lantoniotrento.github.io/blogging/2017/10/18/i-migliori-strumenti-di-blogging-del-2018
+calltoaction: Scopri tutti i metodi e strumenti che utilizzo per ingaggiare nuovo pubblico per le mie pagine web.  <a href="http://eepurl.com/ckInGX">Iscriviti qui e ricevi i 3 regali segreti del blog</a>.
+socialtagline: Ti ringrazio molto per aver letto questo post! Ti andrebbe di farmi un favore? Regalami la felicità! Lasciami una condivisione sul tuo social preferito!
 
 ---
 {% include JB/setup %}
