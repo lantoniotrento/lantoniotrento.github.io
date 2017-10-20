@@ -57,7 +57,7 @@ Quindi lasciati dare un consiglio:
 
 Prima di iniziare a proporre i tuoi servizi e prodotti esegui un'importante studio di [profilazione](https://it.wikipedia.org/wiki/Profilazione_dell%27utente){:target="_blank"} per riuscire a creare delle pagine di promozione che vestano completamente i panni delle persone a cui andrai a proporle.
 
-### Blog Post
+### Blog Post
 La terza tipologia di pagina che avevo accento sopra sono i post del blog, ho parlato dei migliori strumenti per crearlo in [un mio precedente post]({% post_url 2017-10-18-i-migliori-strumenti-di-blogging-del-2018 %}). 
 
 Essi servono per condividere con i tuoi lettori spunti, informazioni, guide, trattazione argomenti trasversali al tuo business che possano interessare il lettore, per renderti utile ed appetibile, ma i post hanno anche l'obiettivo di convertire lettori in iscritti alla tua lista email, sfruttando aree del tuo sito dove inserire banner mirati che portano i lettori alle squeeze page di iscrizione. 
