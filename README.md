@@ -44,15 +44,15 @@ wm-image-3: https://lantoniotrento.github.io/assets/images/cover-bg-1.jpg
 
 # Titolo
 
-contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto 
+contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto
 
 {% include social-locker.html %} //posizionamento social locker nella pagina
 
- contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto
+ contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto contenuto 
 
-{% social-share.html %} //posizionamento social share nella pagina
+{% include social-share.html %} //posizionamento social share nella pagina
 
-{% sign-up.html %} //posizionamento di un banner di iscrizione lista
+{% include sign-up.html %} //posizionamento di un banner di iscrizione lista
 
 ```
 
