@@ -9,7 +9,7 @@ author : Antonio Trento
 css: 
 js:  
 keywords: blogging, blog, seo, content marketing
-canonical: https://lantoniotrento.github.io/hosting/2017/10/18/i-migliori-strumenti-di-blogging-del-2018
+canonical: https://lantoniotrento.github.io/blogging/2017/10/18/i-migliori-strumenti-di-blogging-del-2018
 
 ---
 {% include JB/setup %}
