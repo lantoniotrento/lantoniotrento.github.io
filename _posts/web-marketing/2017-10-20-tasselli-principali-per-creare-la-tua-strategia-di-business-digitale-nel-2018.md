@@ -18,7 +18,7 @@ Su web sono presenti molti strumenti per imporre la tua presenza digitale e quin
 
 <!--more-->
 
-In questo post volevo descriverti i prinicipali metodi e strumenti di appoggio per strutturare la tua presenza online.
+In questo post volevo descriverti i **prinicipali metodi e strumenti di appoggio per strutturare la tua presenza online**.
 
 Che ne dici  vuoi scoprire i principali?
 
@@ -43,10 +43,10 @@ Ci sono diversi tipi di pagine web ed ogni tipologia ha obiettivi e struttura di
 
 
 ### Langing Page
-Quando parlo di [landing page](https://it.wikipedia.org/wiki/Landing_page){:target="_blank"} ti parlo di uno strumento cardine per comunicare, ai lettori che ne hanno accesso, il mio obiettivo di business e se sono ben create, con un marketing mix alle spalle, con una grafica accattivante e contenuti studiati minuziosamente per stimolare l'impulso all'acquisto del lettore si trasformeranno in tuoi strumenti di vendita di servizi o prodotti in base al tuo tipo business.
+Quando parlo di [landing page](https://it.wikipedia.org/wiki/Landing_page){:target="_blank"} ti parlo di uno strumento cardine che serve per comunicare ai lettori che ne hanno accesso il tuo obiettivo di business, e se sono ben create, con un marketing mix alle spalle, con una grafica accattivante e contenuti studiati minuziosamente, serve per stimolare l'impulso all'acquisto del lettore di conseguenza di trasformeranno in tuoi **strumenti di vendita di servizi o prodotti** in base al tuo tipo business.
 
-## Squeeze page
-Invece una squeeze page è una pagina studiata nell'acquisire il contatto di un nuovo potenziale cliente, con l'biettivo di portarlo all'interno del tuo marketing mix e così nel tempo nutrirlo di informazioni utili per persuaderlo a ricordarsi di te quando avrà bisogno dei servizi che offri. 
+### Squeeze page
+Invece una squeeze page è una pagina studiata nell'acquisire il contatto di un nuovo potenziale cliente, con l'biettivo di portarlo all'interno del tuo marketing mix e così nel tempo nutrirlo di informazioni utili per persuaderlo a **ricordarsi di te nel momento in cui avrà bisogno dei servizi che offri**. 
 
 Su web  solitamente una squeeze page serve a catturare contatti email che saranno utilizzati per lanciare campagne di comunicazione mirate a persuadere nel lungo periodo il cliente. 
 
@@ -60,7 +60,7 @@ Prima di iniziare a proporre i tuoi servizi e prodotti esegui un'importante stud
 ### Blog Post
 La terza tipologia di pagina che avevo accento sopra sono i post del blog, ho parlato dei migliori strumenti per crearlo in [un mio precedente post]({% post_url 2017-10-18-i-migliori-strumenti-di-blogging-del-2018 %}). 
 
-Essi servono per condividere con i tuoi lettori spunti, informazioni, guide, trattazione argomenti trasversali al tuo business che possano interessare il lettore, per renderti utile ed appetibile, ma i post hanno anche l'obiettivo di convertire lettori in iscritti alla tua lista email, sfruttando aree del tuo sito dove inserire banner mirati che portano i lettori alle squeeze page di iscrizione. 
+Essi servono per condividere con i tuoi lettori spunti, informazioni, guide, trattazione argomenti trasversali al tuo business che possano interessare il lettore, per renderti utile ed appetibile, ma i post hanno anche **l'obiettivo di convertire lettori in iscritti alla tua lista email o proprorre un prodotto**, sfruttando aree del tuo sito dove inserire banner mirati che portano i lettori alle squeeze page di iscrizione. 
 
 Questa pratica potrebbe sembrare inutile e faticosa ma alla lunga paga gli sforzi per duplici motivi:
 
@@ -72,7 +72,7 @@ Questa pratica potrebbe sembrare inutile e faticosa ma alla lunga paga gli sforz
 
 Ogni azienda che lavora nel digitale e sia rispettabile sfrutta questo strumento per **trattenere l'audience conquistata nel tempo tra le proprie pagine web**; riuscire a trattenere i propri lettori nel tempo è un obiettivo molto importante da porsi quando si crea un business su web.
 
-Peculiarmente per il fatto che la rete è molto vasta e che i lettori che approderanno tra le tue pagine web molto raramente torneranno a visitarle di loro spontanea volonta (si dimenticheranno irrimediabilmente dei tuoi contenuti anche se utili, a meno che tu non sia già attualmente posizionato nelle loro menti) a questo scopo si tende di favorire l'iscrizione alla propria lista email, per riuscire appunto a riportare un dato lettore che è già da te di nuovo tra le tue pagine per fruire nuovi contenuti.
+Peculiarmente per il fatto che la rete è molto vasta e che i lettori che approderanno tra le tue pagine web molto raramente torneranno a visitarle di loro spontanea volonta (si dimenticheranno irrimediabilmente dei tuoi contenuti anche se utili, a meno che tu non sia già attualmente posizionato nelle loro menti) a questo scopo si tende di favorire l'iscrizione alla propria lista email, per riuscire a fare in modo di riportare un lettore che è già passato dal tuo sito web di nuovo tra le tue pagine per fruire nuovi contenuti.
 
 Oltre a quest'esigenza subentra una dinamica di autorità e nutrimento dei lettori nonchè di segmentazione. 
 
@@ -84,7 +84,7 @@ Riuscire a conoscere queste informazioni farà la differenza nel tuo busienss, p
 
 ## Social media
 
-Durante l'ultimo decennio è subentrata una nuova forma di comunicazione con il pubblico atta ad intrattenerlo, generare relazioni e divertirlo.
+Durante l'ultimo decennio è subentrata una nuova forma di **comunicazione con il pubblico atta ad intrattenerlo, generare relazioni e divertirlo**.
 
 Gli strumenti utilizzati che servono per attuare questa tipologia di comunicazione sono i social media.
 
@@ -96,19 +96,19 @@ Per questo consiglio di valutare una presenza sui social efficace e ben gestita;
 
 Oltre a questo aspetto se vorrai sfruttare i social in tutto il loro potere ti consiglio, dopo aver creato tutta la tua sgruttura web per ospitare il business, di investire qualche soldo in Pay Per Click. 
 
-### Pay per click o PPC
+### Pay per click o PPC sui social media
 
 Il vantaggio nell'utilizzare il PPC è la grande capacità di profilazione utenti che i social offrono:
 
 potrai selezionare a chi mostrare le tue pubblicità in base a moltissimi paramentri come età, sesso, locazione geografica interessi.
 
-Questo tipo di marketing è molto efficace se conosci bene i tuoi potenziali clienti perchè potrai mostrare le tue offerte solo ed esclusivamente a persone potenzialmente interessate, minimizzando la spesa e massimizzando il potenziale profitto!
+Questo tipo di marketing è molto efficace se conosci bene i tuoi potenziali clienti perchè **potrai mostrare le tue offerte mirate solo ed esclusivamente a persone potenzialmente interessate**, minimizzando la spesa e massimizzando il potenziale profitto!
 
 Sono a conoscenza di business che si alimentano esclusivamente tramite social network e li sfruttano come canale principale per veicolare informazioni ed offerte di busienss. 
 
 Ovviamente gli strumenti più efficaci variano in base tipologia di business ed i metodi di comunicazione che sfrutti quindi non tutto funziona per tutti, va trovato un corretto assetto tra i vari strumenti che servono per i business web.
 
-Quindi non è detto che ti basti una pagina facebook per fare i soldi e anche se fosse credo che non sfrutteresti al massimo il tuo pubblico limitandoti  all'utilizzo dei social!
+Quindi non è detto che ti basti una pagina facebook per fare i soldi e anche se fosse credo che non sfrutteresti al massimo il tuo pubblico limitandoti all'utilizzo dei social!
 
 ## Community
 
@@ -116,6 +116,6 @@ Se hai strutturato il tuo business ed hai già un po di lettori ed iscritti al t
 
 Creandola e favorendo la condivisione di dubbi, domande, incertezze e consigli da parte degli utenti porterà alla generazione automatica di nuovo traffico verso le tue pagine.
 
-Questo perchè dovresti cercare di riuscire a generare un meccanismo per il quale i tuoi attuali lettori 'lavorino' per te condividendo informazioni interessanti nella community per altri utenti i quali converseranno sull'argomento e coinvolgeranno i propri amici nella conversazione
+Questo perchè dovresti cercare di **riuscire a generare un meccanismo per il quale i tuoi attuali lettori 'lavorino' per te ed  il tuo marketing** condividendo informazioni interessanti nella community per altri utenti i quali converseranno sull'argomento e coinvolgeranno i propri amici nella conversazione
 
 Uno strumento molto potente per questo tipo di pratica sono i gruppi facebook, peculiarmente perchè facebook è la piattaforma social più affermata in italia e nel mondo quindi ha un bacino di utenti enormi e possibilità di crescita per la tua attività eccezzionali.
