@@ -2,12 +2,6 @@ body {
   margin: 0px;
 }
 
-@import url("https://fonts.googleapis.com/css?family=Raleway");
-.introduction {
-  font-family: 'Raleway';
-  color: #fff;
-  text-align: center;
-}
 .introduction h1 {
   font-size: 3.5em;
 }
@@ -34,3 +28,4 @@ body {
   background-color: #33c3f0;
   border-color: #33c3f0;
 }
+.introduction {z-index:10}
