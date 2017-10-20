@@ -131,12 +131,7 @@ jQuery(document).ready(function ($) {
   <div class="shade">
   <div class="container">
   <div class="row">
-  <div class="col-xs-12 text-center header">
-  <h1><b>Welcome to Money Over Ethics</b></h1>
-  <h2><i>(Slogan here)</i></h2><br/>
-  <a href="http://www.moneyoverethics.com/"><img src="http://www.moneyoverethics.com/images/Newsletter-big.jpg"></a><br/><br/>
-  <button href="http://www.moneyoverethics.com/" class="button btn btn-info btn-lg">LEARN MORE</button>
-  <button href="#closeMofo" class="btn btn-default closeMofo">NO THANKS</button>
+	{{ page.welcomemat }}
   </div>
   </div>
   </div>
@@ -156,13 +151,50 @@ jQuery(document).ready(function ($) {
   <script id="dsq-count-scr" src="//{{ site.JB.comments.disqus.short_name }}.disqus.com/count.js" async></script>
   {% endif %}
 
-<!-- ********************* SOCIAL LOCKER SCRIPTING ******************************-->
+<!-- ********************* welcome mat SCRIPTING ******************************-->
 		  
     
     <!--Custom script loaded by children page-->
     {% if page.js %}<script src="{{ BASE_PATH }}/assets/js/{{ page.js }}"></script>{% endif %}
     {% if page.welcomemat %}
-	<script src="{{ BASE_PATH }}/assets/js/welcomemat.js"></script>
+	<!-- Stuff that makes the javascript run - @MercenaryCarter -->
+	  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
+
+	<script type="text/javascript">
+	// Utilises https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js
+
+	// Change this to include desired pictures
+	var pictureArray = ["http://dl.dropbox.com/u/515046/www/outside.jpg",
+	  "http://dl.dropbox.com/u/515046/www/garfield-interior.jpg",
+	  "http://dl.dropbox.com/u/515046/www/cheers.jpg"
+	];
+
+	$(document).ready(function() {
+
+	  resizeEvent();
+	  $(".introduction").backstretch(pictureArray, {
+	  duration: 3000,
+	  fade: 750
+	  });
+
+	  $(window).bind("resize", function() {
+	  resizeEvent();
+	  });
+	});
+
+	function resizeEvent() {
+	  $(".introduction .shade .container .row").css("height", $(window).height());
+
+	  $(".introduction .shade").css("height", $(window).height());
+	}
+
+	$('.closeMofo').on('click', function(e){
+	  $(".introduction").slideUp(500);
+	  e.preventDefault();
+	  });
+	</script>
+	<!-- Stuff that makes the javascript run - @MercenaryCarter -->
     {% endif %}	 
 
 
