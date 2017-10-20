@@ -12,7 +12,7 @@ Per ogni post del blog sono configurabili e personalizzabili inserendo l'apposit
 * popup exitintent
 * calltoaction
 * socialtagline
-
+{% highlight ruby %}
 ---
 layout: post
 category : hosting
@@ -37,3 +37,4 @@ welcomemat:   <div>html del welcom mat</div>
 <!--more-->
 
 {% include social-locker.html %}
+{% endhighlight %}
