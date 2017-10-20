@@ -12,7 +12,7 @@ keywords: hosting, websites, business, web
 canonical: https://lantoniotrento.github.io/hosting/2017/10/13/i-migliori-provider-hosting-del-2018
 calltoaction: Scopri tutti i metodi e strumenti che utilizzo per ingaggiare nuovo pubblico per le mie pagine web.  <a href="http://eepurl.com/ckInGX">Iscriviti alla lista</a>.
 socialtagline: Ti ringrazio molto per aver letto questo post! Ti andrebbe di farmi un favore? Regalami la felicità! Lasciami una condivisione sul tuo social preferito!
-exitintent: <a href="http://eepurl.com/ckInGX" title="Claim your discount!"><img src="{{ BASE_PATH }}/assets/images/template2.png" alt="Claim your discount!" /></a>
+exitintent: <a href="http://eepurl.com/ckInGX" title="Claim your discount!"><img src="{{ BASE_PATH }}/assets/images/exitintent.png" alt="Claim your discount!" /></a>
 hellobar: yes
 
 ---
