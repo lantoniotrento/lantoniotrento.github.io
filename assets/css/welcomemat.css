@@ -27,7 +27,6 @@ body {
   padding: 8px 25px;
   background-color: #33c3f0;
   border-color: #33c3f0;
-}
-.shade {
   z-index:10;
 }
+
