@@ -99,7 +99,20 @@ jQuery(document).ready(function ($) {
 	}
    });
 });
-</script>	  
+</script>
+	  
+{% if page.exitintent %}	 
+<!-- Exit intent popup -->
+    <script type="text/javascript" src="{{ BASE_PATH }}/assets/js/bioep.min.js"></script>
+    
+    <script type="text/javascript">
+      bioEp.init({
+        html: '<div id="content">{{ page.exitintent }}</div>',
+        css: '#content {font-family: "Fira Sans", "Droid Sans", "Open Sans", Verdana, arial, sans-serif; font-size: 14px;}',
+		    cookieExp: 0
+      });
+    </script>		  
+{% endif %}	  
 </head>
   <body>	  	   
 
