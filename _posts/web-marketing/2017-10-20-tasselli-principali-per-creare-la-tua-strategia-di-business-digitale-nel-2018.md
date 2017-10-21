@@ -128,6 +128,6 @@ Se sei intenzionato nello sviluppare il tuo sito web per fare business su intern
 
 Mi dispiace per chi creda che creare un sito web o una pagina facebook basti per avere successo in rete, ma non è così, è necessario lavorare sodo per **proporre nuovi contenuti** interessanti e proporli spesso sui tuoi canali e **trovare un meccanismo per portare i lettori sui tuoi canali web** altrimenti non vedrà nessuno i tuoi contenuti e non sarà possibile perseguire i tuoi obiettivi.
 
-Sopratutto una cosa importante da comprendere è che per ottenere un seguito realmente interessato **è importante condividere contenuti utili ed atti ad aiutare/intrattentere l'utente** e non a vendere i tuoi prodotti, poi **creare la   tua lista emai e coltivarla nel tempo** per riuscire a mantenere un contatto con i lettori che hanno visita precedentemente il sito ed hanno effettuato l'iscrizione. 
+Sopratutto una cosa importante da comprendere è che per ottenere un seguito realmente interessato **è importante condividere contenuti utili ed atti ad aiutare/intrattentere l'utente** e non a vendere i tuoi prodotti, poi **creare la tua lista emai e coltivarla nel tempo** per riuscire a mantenere un contatto con i lettori che hanno visitato precedentemente i tuoi  canali web ed hanno effettuato l'iscrizione. 
 
-Questo è il giusto procedimento per *generare relazioni* che è l'unico modo per avere successo in un mare di persone che spammano i loro link sui social e gruppi facebook con la speranza che qualcuno capiti per caso sulla tua offerta.
+Questo è il giusto procedimento per *generare relazioni* che è l'unico modo per avere successo in un mare di persone che spammano i loro link sui social e gruppi facebook con la speranza che qualcuno capiti per caso sull'offerta creata.
