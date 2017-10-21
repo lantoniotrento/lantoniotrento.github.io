@@ -121,3 +121,13 @@ Creandola e favorendo la condivisione di dubbi, domande, incertezze e consigli d
 Questo perchè dovresti cercare di **riuscire a generare un meccanismo per il quale i tuoi attuali lettori 'lavorino' per te ed  il tuo marketing** condividendo informazioni interessanti nella community per altri utenti i quali converseranno sull'argomento e coinvolgeranno i propri amici nella conversazione
 
 Uno strumento molto potente per questo tipo di pratica sono i gruppi facebook, peculiarmente perchè facebook è la piattaforma social più affermata in italia e nel mondo quindi ha un bacino di utenti enormi e possibilità di crescita per la tua attività eccezzionali.
+
+## Conclusioni
+
+Se sei intenzionato nello sviluppare il tuo sito web per fare business su internet allora ti consiglio di valutare uno strategico impiego delle risorse descritte sopra.
+
+Mi dispiace per chi creda che creare un sito web o una pagina facebook basti per avere successo in rete, ma non è così, è necessario lavorare sodo per **proporre nuovi contenuti** interessanti e proporli spesso sui tuoi canali e **trovare un meccanismo per portare i lettori sui tuoi canali web** altrimenti non vedrà nessuno i tuoi contenuti e non sarà possibile perseguire i tuoi obiettivi.
+
+Sopratutto una cosa importante da comprendere è che per ottenere un seguito realmente interessato **è importante condividere contenuti utili ed atti ad aiutare/intrattentere l'utente** e non a vendere i tuoi prodotti, poi **creare la   tua lista emai e coltivarla nel tempo** per riuscire a mantenere un contatto con i lettori che hanno visita precedentemente il sito ed hanno effettuato l'iscrizione. 
+
+Questo è il giusto procedimento per *generare relazioni* che è l'unico modo per avere successo in un mare di persone che spammano i loro link sui social e gruppi facebook con la speranza che qualcuno capiti per caso sulla tua offerta.
