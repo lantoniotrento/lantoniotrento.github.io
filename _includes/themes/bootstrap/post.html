@@ -13,7 +13,7 @@
     {% else %}
         <h1>{{ page.title }}</h1>
     {% endif %}
-	<h3><span class="oi" data-glyph="tags"></span> {{page.tags | array_to_sentence_string}}</h3>
+	<h3><span class="oi" data-glyph="tags"></span> {{page.tags | array_to_sentence_string | replace:'and',''}}</h3>
     </hgroup>
 
     <div id="post"{% if page.link %} class=link{% endif %}>
