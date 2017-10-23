@@ -39,9 +39,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'https://lantoniotrento.github.io/assets/images/bg01.jpg': 'center',
-							'https://lantoniotrento.github.io/assets/images/bg02.jpg': 'center',
-							'https://lantoniotrento.github.io/assets/images/bg03.jpg': 'center'
+							'https://lantoniotrento.github.io/assets/images/01bg.jpg': 'center',
+							'https://lantoniotrento.github.io/assets/images/02bg.jpg': 'center',
+							'https://lantoniotrento.github.io/assets/images/03bg.jpg': 'center'
 						},
 
 					// Delay.
