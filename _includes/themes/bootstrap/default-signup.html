@@ -53,54 +53,6 @@ lantoniotrento@gmail.com
     </script>
     {% endif %}
 	  
-	<!-- ManyChat -->
-	<script src="//widget.manychat.com/1010094929028825.js" async="async">
-	</script>	  
-	  
-<!-- Social locker block -->	
-    <!-- 1. Include jQuery and the plugin files in to your page -->
-    <link type="text/css" rel="stylesheet" href="{{ BASE_PATH }}/css/pandalocker.2.0.0.min.css">
-	  
-    <script src="{{ BASE_PATH }}/js/libs/jquery.min.js"></script>
-    <script src="{{ BASE_PATH }}/js/libs/jquery.ui.highlight.min.js"></script>
-    <script src="{{ BASE_PATH }}/js/pandalocker.2.0.0.min.js"></script>
-	<script>
-	jQuery(document).ready(function ($) {
-	   $('.to-lock').sociallocker({
-		theme: 'flat',
-		overlap:{
-		   position: 'top',
-		   intensity: '6'
-		},
-		facebook:{
-		   appId: '1948709282049734',
-		   share:{
-		      title: 'Condividi'
-		   }
-		},
-		twitter:{
-		   tweet:{
-		      url: '{{ post.url }}',
-		      text: 'Hey, dai un occhio a questo post: ',
-		      via: 'lantoniotrento',
-		      title: 'Tweet'
-		   }
-		},
-		linkedin:{
-		   share:{
-		      url: '{{ post.url }}',
-		      title: 'Post'
-		   }
-		},
-		buttons:{
-		   order: ["facebook-share","twitter-tweet","linkedin-share"],
-		   counters: false,
-		   lazy: false
-		}
-	   });
-	});
-	</script>	
-	  
 	  <script>
   window.fbAsyncInit = function() {
     FB.init({
@@ -133,7 +85,7 @@ lantoniotrento@gmail.com
 	{% if page.js %}<script src="{{ BASE_PATH }}/assets/js/{{ page.js }}"></script>{% endif %}
 		<!-- Scripts -->
 			<!--[if lte IE 8]><script src="{{ BASE_PATH }}/assets/js/eventually/ie/respond.min.js"></script><![endif]-->
-			<script src="{{ BASE_PATH }}/assets/js/eventually/main.js"></script>
+
 
 
 
