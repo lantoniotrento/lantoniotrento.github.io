@@ -26,7 +26,7 @@ In questo articolo sarei lieto di accompagnarti alla scoperta degli strumenti pe
 
 Che ne dici? ti interessa scoprirli?
 
-Bene! Ho selezionato alcuni tools che utilizzo o ho utilizzato che potrebbero fare al caso tuo, ho cercato di selezionare i migliori in base alla disponibilità economica ed alla compentenza tecnica.
+*Bene! Ho selezionato alcuni tools che utilizzo o ho utilizzato che potrebbero fare al caso tuo, ho cercato di selezionare i migliori in base alla disponibilità economica ed alla compentenza tecnica.*
 
 ## Wordpress
 
@@ -41,19 +41,19 @@ questi due fattori lo hanno incoronato tra i più utilizzati, il fatto che sia t
 
 Grazie ad una vasta community di sviluppatori potrai trovare facilmente assistenza tecnica per implementare le tue idee e troverai il software in continuo aggiornamento questo è positivo perchè il tuo sito manterrà un buon standard di sicurezza ma dall'altra parte ti costringerà a dover effettuare periodicamente backup per salvare lo stato del sito ed aggiornameni al core wordpress.
 
-Grazie all'enorme mole di plugin disponibile potra ampliare le funzionalità di wordpress in molti modi, ne ho consigliati alcuni [qui]({% page_url i-migliori-strumenti-per-fare-business-su-web-nel-2018 %}); uno di questi è installare nel tuo sito un template builder (generatore visuale di pagine web) come thrive architet, divi builder o visual composer, consiglio di basare la scelta in base al tema wordpress che hai deciso di acquistare, rispettivamente thrivethemes (consigliato), elegant themes o un tema evanto come ad esempio enfold.
+Grazie all'enorme mole di plugin disponibile potrai **ampliare le funzionalità** di wordpress in molti modi, ne ho consigliati alcuni [qui]({% page_url i-migliori-strumenti-per-fare-business-su-web-nel-2018 %}); uno di questi è installare nel tuo sito un template builder (generatore visuale di pagine web) come thrive architet, divi builder o visual composer, consiglio di basare la scelta in base al tema wordpress che hai deciso di acquistare, rispettivamente thrivethemes (consigliato), elegant themes o un tema evanto come ad esempio [enfold](http://linktrack.info/.2q1jf){:target="_blank"}.
 
-Dopo aver installato il plugin wordpress per integrare il tuo strumento di marketing automation nelle tue pagine potrai anche inserire dei moduli per catturare le email dei tuoi potenziali clienti.
+Dopo aver installato il plugin wordpress per **integrare il tuo strumento di marketing automation** nelle tue pagine potrai anche inserire dei moduli per catturare le email dei tuoi potenziali clienti.
 
-Grazie a questi due strumenti potrai creare landing page e squeeze page per tutti i gusti.
+Grazie a questi due strumenti potrai creare landing page e squeeze page per tutti i gusti e lanciare campagne email associate.
 
-Se non hai alcuna conoscenza dei linguaggi HTML e CSS e non hai molto budget rivolgere lo sguardo verso Wordpress può rivelarsi un'ottima scelta per creare le tue pagine per promuovere l'attività o singoli prodotti.
+> Se non hai alcuna conoscenza dei linguaggi HTML e CSS e non hai molto budget rivolgere lo sguardo verso Wordpress può rivelarsi un'ottima scelta per creare le tue pagine per promuovere l'attività o singoli prodotti.
 
-Per quanto riguarda la spesa dovrai provvedere ad acquistare un hosting per il tuo sito web, puoi trovare [i miei preferiti qui]({% post_url 2017-10-13-i-migliori-provider-hosting-del-2018 %}), e se prevederai una strategia di email marketing dovrai mettere in conto che ci saranno costi da sostenere in base a quanti iscritti possiedi, ma per iniziare per 2000 iscritti potresti usare [mailchimp](https://mailchimp.com) (il terzo regalo segreto del blog ti rivela uno strumento di marketing automation gratuito che potrai usare senza limitazioni)
+Per quanto riguarda la spesa dovrai provvedere ad acquistare un hosting per il tuo sito web, puoi trovare [i miei preferiti qui]({% post_url 2017-10-13-i-migliori-provider-hosting-del-2018 %}), e se prevederai una strategia di email marketing dovrai mettere in conto che ci saranno costi da sostenere in base a quanti iscritti possiedi, **ma per iniziare per 2000 iscritti potresti usare [mailchimp](https://mailchimp.com)** (il terzo regalo segreto del blog ti rivela uno strumento di marketing automation gratuito che potrai usare senza limitazioni)
  
 ## Jekyll
 
-Se non hai soldi da investire conosci HTML, CSS e  Javascript per riuscire ad utilizzarlo o hai intenzione di imparare ad utilizzarlo, jekyll può rivelarsi la scelta per poter riuscire a creare le tue landig page e un blog completamente gratis, sfruttando [GitHub pages](http://snip.ly/f4ifx) potrai ospitarlo gratuitamente, potendo gestire praticamente qualsiasi cosa.
+Se non hai soldi da investire conosci HTML, CSS e  Javascript per riuscire ad utilizzarlo o hai intenzione di imparare ad utilizzarlo, jekyll può rivelarsi la scelta per poter riuscire a creare le tue **landig page e un blog completamente gratis**, sfruttando [GitHub pages](http://snip.ly/f4ifx) potrai ospitarlo gratuitamente, su dei server velocissimi, potendo gestire praticamente qualsiasi cosa.
 
 I vantaggi principali di utilizzare jekyll sono, costi, versatilità, sicurezza e velocità del sistema; è lo strumento che ho utilizzato per sviluppare questo blog e ed è uno dei miei preferiti per via di molti fattori legati ad aspetti tecnici e per la comodità e libertà di utilizzo dello strumento.
 
