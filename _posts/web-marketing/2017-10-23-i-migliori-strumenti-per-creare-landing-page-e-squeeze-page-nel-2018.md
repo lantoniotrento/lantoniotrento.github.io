@@ -3,7 +3,7 @@ layout: post
 category : blogging
 tagline: "Tutti i migliori e più completi dal più costoso al meno costoso"
 tags : [marketing, web marketing, landing pages]
-locker: <h2><a target="_blank" href="http://linktrack.info/.2q4on">Mautic</a></h2><p>È una piattaforma di marketing automation che se sei in grado di installare sui tuoi server potrai usufruirne in modo gratuito!</p><p>È lo strumento più completo che abbia mai visto ti permette di gestire un database di utenti segmentato e creare attorno ad esso campagne di email marekting e web complete e ben indirizzate al tipo di pubblico che possa apprezzarle!</p><p>È integrato nel pacchetto un generatore di pagine web, quindi con questo strumento potrai creare tutte le landing page che desideri, e se sei bravo, potresti crearti un set di template con i temi HTML che preferisci.</p><p>Il vantaggio principale di impliegare mautic è che potrai usufruire di tutte le  funzionalità di click funnels in modo gratuito ed in più il tool funge anche da server email quindi si occuperà della delivery agli utenti insieme ad un servizio di delivery (es <a href="https://aws.amazon.com/it/ses/pricing" target="_blank">Amazon SES</a>).</p><p>Questa struttura abbatterà i tuoi costi di marketing solo al costo di dominio, hosting e della delivery che è di circa 0.01$ a email (usando <a href="https://aws.amazon.com/it/ses/pricing" target="_blank">Amazon SES</a> le prime 65.000 mese saranno gratis!)</p>
+locker: <h2><a target="_blank" href="https://mautic.org">Mautic</a></h2><p>È una piattaforma di marketing automation che se sei in grado di installare sui tuoi server potrai usufruirne in modo gratuito!</p><p>È lo strumento più completo che abbia mai visto ti permette di gestire un database di utenti segmentato e creare attorno ad esso campagne di email marekting e web complete e ben indirizzate al tipo di pubblico che possa apprezzarle!</p><p>È integrato nel pacchetto un generatore di pagine web, quindi con questo strumento potrai creare tutte le landing page che desideri, e se sei bravo, potresti crearti un set di template con i temi HTML che preferisci.</p><p>Il vantaggio principale di impliegare mautic è che potrai usufruire di tutte le  funzionalità di click funnels in modo gratuito ed in più il tool funge anche da server email quindi si occuperà della delivery agli utenti insieme ad un servizio di delivery (es <a href="https://aws.amazon.com/it/ses/pricing" target="_blank">Amazon SES</a>).</p><p>Questa struttura abbatterà i tuoi costi di marketing solo al costo di dominio, hosting e della delivery che è di circa 0.01$ a email (usando <a href="https://aws.amazon.com/it/ses/pricing" target="_blank">Amazon SES</a> le prime 65.000 mese saranno gratis!)</p>
 img : i-migliori-strumenti-per-creare-landing-page-e-squeeze-page-nel-2018/i-migliori-strumenti-per-creare-landing-page-e-squeeze-page-nel-2018.jpg
 author : Antonio Trento
 css: 
@@ -65,13 +65,13 @@ Una volta preso confidenza potrai sviluppare moltissime landing page con qualsia
 
 Questo strumento è il più costoso di questo post ma è anche la più completa suite per fare business e marketing su web, con metodologie di implementazione semplificate, per riuscire a massimizzare la tua produzione di pagine web e campangne di marketing associate!
 
-Grazie a click funnels avrai a disposizione builder di pagine web, tools di tracciamento utenti, tools di segmentazione utenti, tools di marketing automation e tantissimi template pre fabbricati che potrai implementare nei tuoi progetti in modo facile e veloce!
+Grazie a [click funnels](http://snip.ly/ana03){:target="_blank"} avrai a disposizione builder di pagine web, tools di tracciamento utenti, tools di segmentazione utenti, tools di marketing automation e tantissimi template pre fabbricati che potrai implementare nei tuoi progetti in modo facile e veloce!
 
 Ogni funzionalità inclusa è stata progettata in modo intuitivo ed è veramente facile utilizzare tutti gli strumenti di creazione!
 
 In poco tempo puo creare una pagina e una sequeza di email, e ricevere le statistiche associate alla campagna tutto in un unico luogo!
 
-È la scelta più saggia se hai budget aziendale da investire perchè comprende in un unico pacchetto tutti gli strumenti essenziali per acquisire utenti e creare un funnel efficace! L'unica cosa che dovrai preoccuparti di acquistare sarà il giusto servizio di email marketing da associare a click funnels.
+È la scelta più saggia se hai budget aziendale da investire perchè comprende in un unico pacchetto tutti gli strumenti essenziali per acquisire utenti e creare un funnel efficace! L'unica cosa che dovrai preoccuparti di acquistare sarà il giusto servizio di email marketing da associare a [click funnels](http://snip.ly/ana03){:target="_blank"}.
 
 ## Webflow
 
