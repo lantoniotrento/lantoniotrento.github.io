@@ -39,9 +39,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'{{ BASE_PATH }}/assets/images/bg01.jpg': 'center',
-							'{{ BASE_PATH }}/assets/images/bg02.jpg': 'center',
-							'{{ BASE_PATH }}/assets/images/bg03.jpg': 'center'
+							'https://lantoniotrento.github.io/assets/images/bg01.jpg': 'center',
+							'https://lantoniotrento.github.io/assets/images/bg02.jpg': 'center',
+							'https://lantoniotrento.github.io/assets/images/bg03.jpg': 'center'
 						},
 
 					// Delay.
