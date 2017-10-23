@@ -10,7 +10,7 @@ css:
 js:  
 keywords: marketing, web marketing, seo, content marketing, social media, landing page, squeeze page, email marketing
 canonical: https://lantoniotrento.github.io/web-marketing/2017/10/20/tasselli-principali-per-creare-la-tua-strategia-di-business-digitale-nel-2018
-calltoaction: Scopri tutti i metodi e strumenti che utilizzo per ingaggiare nuovo pubblico per le mie pagine web.  <a href="{{ BASE_PATH }}/signup">Iscriviti qui e ricevi i 3 regali segreti del blog</a>.
+calltoaction: Scopri tutti i metodi e strumenti che utilizzo per ingaggiare nuovo pubblico per le mie pagine web.  <a href="https://lantoniotrento.github.io/signup">Iscriviti qui e ricevi i 3 regali segreti del blog</a>.
 socialtagline: Ti ringrazio molto per aver letto questo post! Ti andrebbe di farmi un favore? Regalami la felicità! Lasciami una condivisione sul tuo social preferito!
 
 ---
