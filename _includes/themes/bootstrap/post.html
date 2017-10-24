@@ -2,11 +2,10 @@
 	<br />
 	<br />	
     <article itemscope="" itemtype="http://schema.org/BlogPosting">    
-    <time itemprop="datePublished" datetime='{{ post.date | date: "%Y-%m-%d" }}' class="top"><span class="oi" data-glyph="bookmark"></span> {{ page.date | date: "%-d %B %Y" }}</time>
+    <time itemprop="datePublished" datetime='{{ page.date | date: '%Y-%m-%d' }}' class="top published"><span class="oi" data-glyph="bookmark"></span> {{ page.date | date: "%-d %B %Y" }}</time>
     <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
     <meta itemprop="description" content="{{ content | strip_html | truncatewords: 40 }}" />
-    <meta itemprop="author" content="{{ site.author.name }}"> 	
-    <abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'>	    
+    <meta itemprop="author" content="{{ site.author.name }}"> 		    
     <div class="text-center"><img itemprop='image' class="img-fluid" alt="Immagine non disponibile" src="{{ BASE_PATH }}/assets/images/{{ page.img }}"></div>
 	<hr>
     <hgroup>    
