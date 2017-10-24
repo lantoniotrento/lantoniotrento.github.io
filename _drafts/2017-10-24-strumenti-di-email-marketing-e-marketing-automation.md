@@ -47,7 +47,7 @@ Affidati solo a provider di fiducia per i servizi di email marketing perchè se 
 
 ### Mailchimp
 
-Mailchimp è lo strumento per antonomasia dell'email marketing. È molto popolare ed utilizzato da moltissimi marketers al mondo e fa molto bene il suo lavoro!
+[Mailchimp](https://mailchimp.com){:target="_blank"} è lo strumento per antonomasia dell'email marketing. È molto popolare ed utilizzato da moltissimi marketers al mondo e fa molto bene il suo lavoro!
 
 I principali vantaggi nell'impiegarlo sono il fatto che per i primi 2000 contatti è gratuito e la facilità di utilizzo dello strumento.
 
@@ -59,11 +59,11 @@ Il mio consiglio è sfrutta l'account gratuito fino all'osso, avrai fatto un po 
 
 ### Active campain 
 
-Su web se navighi per i vari blog a tema lo osannano come lo strumento definitivo per fare email marketing.
+Su web se navighi per i vari blog a tema osannano [Active Campain](http://linktrack.info/.2qenq){:target="_blank"} come lo strumento definitivo per fare email marketing.
 
 È uno strumento eccezionale e completo, possiede funzioni di automation, tracking e segmentazione lista, strumenti essenziali quando vorrai fare business su web seriamente.
 
-Il problema è però lo stesso: il prezzo del servizio al momento in cui hai una lista email corposa, pensa che per 25000 contatti dovresti sborsare 500$ mese e lasciatelo dire, non è detto che tu riesca a creare un profitto avendo una lista da 25000 utenti perchè dipende da molti fattori il fatto che tu possa effettuare una vendita.
+Il problema è però lo stesso: il prezzo del servizio al momento in cui hai una lista email corposa; pensa che per 25000 contatti dovresti sborsare 500$ mese e lasciatelo dire, non è detto che tu riesca a creare un profitto avendo una lista da 25000 utenti perchè dipende da moltissimi fattori il fatto che tu possa effettuare una vendita.
 
 ## Segreto
 
@@ -82,3 +82,11 @@ A te una condivisione non costa nulla e a me potrebbe regalare la felicità!
 {% include social-locker.html %}
 
 ----
+
+## Conclusioni
+
+Tutti gli strumenti per email marketing descritti in questo post sono strumenti completi per gestire le tue campagne di email marketing.
+
+L'unico occhio di riguardo che dovresti avere nel selezionarla è il prezzo; spero tu possa fare una scelta oculata tra i tool descritti considerando in modo particolari le dimensioni iniziali della tua lista.
+
+Un abbraccio dal tuo amico Antonio.
