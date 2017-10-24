@@ -1,13 +1,15 @@
 <section class="article {%  if page.centered == true %}centered{% endif %}">
 	<br />
 	<br />	
-    <article>
-    <time datetime='{{ post.date | date: "%Y-%m-%d" }}' class="top"><span class="oi" data-glyph="bookmark"></span> {{ page.date | date: "%-d %B %Y" }}</time>
+    <article itemscope="" itemtype="http://schema.org/BlogPosting">
+    <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
+    <meta itemprop="description" content="{{ content | strip_html | truncatewords: 40 }}" />	    
+    <time class="published" itemprop="datePublished" datetime='{{ post.date | date: "%Y-%m-%d" }}' class="top"><span class="oi" data-glyph="bookmark"></span> {{ page.date | date: "%-d %B %Y" }}</time>
     <div class="text-center"><img class="img-fluid" alt="Immagine non disponibile" src="{{ BASE_PATH }}/assets/images/{{ page.img }}"></div>
 	<hr>
     <hgroup>    
     {% if page.link %}
-        <h1><a target=_blank href="{{ page.link | escape }}">{{ page.title }}</a>&nbsp;<span class="oi" data-glyph="external-link" style="font-size:50%;"></span></h1>
+        <h1 itemprop="name"><a target=_blank href="{{ page.link | escape }}">{{ page.title }}</a>&nbsp;<span class="oi" data-glyph="external-link" style="font-size:50%;"></span></h1>
     {% elsif page.series %}
         <h1><a href=".{{ page.series.url }}">{{ page.series.name }}</a> #{{ page.series.index }} : {{ page.series.episode }}</h1>
     {% else %}
@@ -16,7 +18,7 @@
 	<h3><span class="oi" data-glyph="tags"></span> {{page.tags | array_to_sentence_string | replace:'and',''}}</h3>
     </hgroup>
 
-    <div id="post"{% if page.link %} class=link{% endif %}>
+    <div itemprop="articleBody" id="post"{% if page.link %} class=link{% endif %}>
 	{% include social-share.html %}    
 	    
         {{ content }}
