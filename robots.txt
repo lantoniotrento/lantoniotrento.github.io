@@ -7,4 +7,4 @@ Disallow: /_layouts/
 Disallow: /_plugins/
 Disallow: /keybase.txt
 
-Sitemap: https://antoniotrento.github.io/sitemap.txt
+Sitemap: https://lantoniotrento.github.io/sitemap.txt
