@@ -59,3 +59,47 @@ contenuto contenuto contenuto contenuto
 
 ```
 
+Per le pagine sono stati prvisti tre layout diversi:
+
+* Layout index carica stili CSS della pagina https://lantoniotrento.github.io
+```
+---
+layout: index
+title: Antonio Trento
+tagline: User experience, web marketing, web design
+css: 
+js:
+keywords: Graphic design, web marketing, web design, user experience
+canonical: https://antoniotrento.github.io
+---
+{% include JB/setup %}
+```
+
+* Layout page carica stili CSS della pagina https://lantoniotrento.github.io/blog
+```
+---
+layout: page
+title: Pagina di test
+tagline: commento test
+css: 
+js:
+keywords: Graphic design, web marketing, web design, user experience
+canonical: 
+---
+{% include JB/setup %}
+```
+
+* Layout signup carica stili CSS della pagina https://lantoniotrento.github.io/signup
+```
+---
+layout: signup
+title: Signup
+tagline: 
+css: 
+js: eventually/main.js
+keywords: business, web marketing, money
+canonical:
+---
+{% include JB/setup %}
+```
+
