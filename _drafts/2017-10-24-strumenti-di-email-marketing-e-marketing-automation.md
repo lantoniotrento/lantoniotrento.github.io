@@ -87,6 +87,6 @@ A te una condivisione non costa nulla e a me potrebbe regalare la felicità!
 
 Tutti gli strumenti per email marketing descritti in questo post sono strumenti completi per gestire le tue campagne di email marketing.
 
-L'unico occhio di riguardo che dovresti avere nel selezionarla è il prezzo; spero tu possa fare una scelta oculata tra i tool descritti considerando in modo particolari le dimensioni iniziali della tua lista.
+L'unico occhio di riguardo che dovresti avere nel selezionarla è il prezzo; spero tu possa fare una scelta oculata tra i tool descritti considerando in modo particolari le dimensioni iniziali della tua lista (in altre parole lo strumento segreto è il migliore per me).
 
 Un abbraccio dal tuo amico Antonio.
