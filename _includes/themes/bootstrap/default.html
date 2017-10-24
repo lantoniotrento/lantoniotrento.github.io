@@ -140,7 +140,19 @@ jQuery(document).ready(function ($) {
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>	  
-	
+
+
+	  
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "author": "{{ site.author }}",
+  "image": "{{ page.img }}",
+  "description": "{{ page.tagline }}"
+}
+</script>	  
+	  
+	  
 </head>		
 <body>	  	   
 
