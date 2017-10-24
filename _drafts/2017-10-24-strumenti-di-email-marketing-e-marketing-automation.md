@@ -3,7 +3,7 @@ layout: post
 category : blogging
 tagline: "Tutte le migliori piattaforme di marketing automation del web"
 tags : [email marketing, web marketing, marketing automation]
-locker: <h3><a target="_blank" href="https://mautic.org">Mautic</a></h3><p>È la piattaforma di marketing automation che fa per te!</p><p>Perchè?</p><p>Perchè comprende tutte le funzionalità delle precedenti ed è open source quindi puoi usarla gratis!</p><p>Utilizzando questo strumento direi che spenderai il 10% di quel che spenderesti con altri tools per via del fatto che con Mautic l'unica spesa che dovrai sostenere sarà legata alla consegna dei messaggi email e l'hosting della piattaforma sui tuoi server.</p><p>Come servizio di consegna email consiglio di utilizzare Amazon SES che costerà 0,0001 eur a messaggio email (50eur per 500000 email) riuscirà a soddifare le tue esigenze con costi veramente esigui!</p>
+locker: <h3><a target="_blank" href="https://mautic.org">Mautic</a></h3><p>È la piattaforma di marketing automation che fa per te!</p><p>Perchè?</p><p>Perchè comprende tutte le funzionalità delle precedenti ed è open source quindi puoi usarla gratis!</p><p>Utilizzando questo strumento direi che spenderai il 10% di quel che spenderesti con altri tools per via del fatto che con Mautic l'unica spesa che dovrai sostenere sarà legata alla consegna dei messaggi email e l'hosting della piattaforma sui tuoi server.</p><p>Come servizio di consegna email consiglio di utilizzare Amazon SES che costerà 0,0001 eur a messaggio email (50eur per 500000 email) riuscirà a soddifare le tue esigenze con costi veramente esigui!</p><p>L'unico punto a sfavore di Mautic è la necessità di competenze tecniche per installarlo sul proprio server; per ovviare al prolema ti basterà contattare un esperto in strumenti di hosting che, solo una volta, installerà il sistema sui tuoi server!</p>
 img : strumenti-di-email-marketing-e-marketing-automation/strumenti-di-email-marketing-e-marketing-automation.jpg
 author : Antonio Trento
 css: 
@@ -70,3 +70,15 @@ Il problema è però lo stesso: il prezzo del servizio al momento in cui hai una
 Per ovviare al problema dei costi mi sono ingeniato nel tempo ed ho effettuato  molte ricerche per trovare uno strumento competitivo cogli altri strumento per via delle funzionalità ma molto meno costoso.
 
 Il che ti permetterà di partire a fare email marketing senza grosse perdite monetarie e senza rinuciare a funzionalità critiche per promuovere al meglio il tuo business.
+
+Per rivelare questo strumento ti chiedo di fare una condivisione di questo articolo.
+
+Che ne dici? Non immagini quanta fatica mi sia costata effettuare ricerche e reperire informazioni dettagliate su questi argomenti!
+
+A te una condivisione non costa nulla e a me potrebbe regalare la felicità!
+
+----
+
+{% include social-locker.html %}
+
+----
