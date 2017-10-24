@@ -146,8 +146,8 @@ jQuery(document).ready(function ($) {
 <script type="application/ld+json">
 {
   "@context": "http://schema.org/",
-  "author": "{{ site.author }}",
-  "image": "{{ page.img }}",
+  "author": "{{ site.author.name }}",
+  "image": "{{ BASE_PATH }}/{{ page.img }}",
   "description": "{{ page.tagline }}"
 }
 </script>	  
