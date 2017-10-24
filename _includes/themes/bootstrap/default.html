@@ -26,6 +26,8 @@ lantoniotrento@gmail.com
 	    <link href="{{ BASE_PATH }}/assets/fonts/fira/fira.css" rel="stylesheet">
 	    <link href="{{ BASE_PATH }}/assets/fonts/openiconic/css/open-iconic.css" rel="stylesheet">
 	    <link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/aerial/font-awesome.min.css" />	
+
+	  {% include JB/analytics %}
 	  
     <meta property="fb:app_id" content="509727322725898" /> 
     <meta property="og:type"   content="website" /> 	
@@ -177,7 +179,7 @@ jQuery(document).ready(function ($) {
       {% include themes/bootstrap/footer.html %}
 
 	  
-  {% include JB/analytics %}
+
   {% if site.JB.comments.disqus.short_name == true %}
   <script id="dsq-count-scr" src="//{{ site.JB.comments.disqus.short_name }}.disqus.com/count.js" async></script>
   {% endif %}
