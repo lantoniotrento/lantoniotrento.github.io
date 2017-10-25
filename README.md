@@ -2,6 +2,20 @@
 
 Blog sul web maketing e business su web
 
+Sul file _config.yaml si può configurare il sistema che comprende
+
+* Google AD Sense
+* Google Analytics
+* Google Optimize
+* Area contatti e social
+
+Sono presenti 3 tipologie di layout per le  pagine web
+
+* post (carica [shrift]())
+* index (carica [template areal]())
+* page (carica [bootstrap 4]())
+* signup (carica template [eventually]())
+
 ## Blog post template
 
 Per ogni post del blog sono configurabili e personalizzabili inserendo l'apposito campo nel template del post: 
@@ -12,6 +26,10 @@ Per ogni post del blog sono configurabili e personalizzabili inserendo l'apposit
 * popup exitintent
 * calltoaction
 * socialtagline
+* css esterno (cartella upload /assets/css)
+* js esterno (cartella upload /assets/js)
+../_posts/categoria/YYYY-MM-DD-nome-eccezionale-post.md
+
 
 ```
 
@@ -23,8 +41,8 @@ tags : [hosting, web sites, web business]
 locker: <p>Codice html da visualizzare nel locker.</p>
 img : indirizzo dell'immagine contenuta in ../assets/images
 author : Antonio Trento
-css: 
-js:  
+css: indirizzo dell'immagine contenuta in ../assets/css)
+js:  indirizzo dell'immagine contenuta in ../assets/js)
 keywords: hosting, websites, business, web
 canonical: https://lantoniotrento.github.io/hosting/2017/10/13/i-migliori-provider-hosting-del-2018
 calltoaction: <span>html per testo call to action a fine articolo del blog</span>
