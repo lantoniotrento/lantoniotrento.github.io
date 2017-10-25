@@ -122,7 +122,7 @@ canonical:
 {% include JB/setup %}
 ```
 
-#### Tracciamento link
+#### Tracciamento link
 
 ```
 <a href="http://www.example.com" onclick="trackOutboundLink('http://www.example.com'); return false;">Non perderti example.com</a>
