@@ -80,7 +80,7 @@ contenuto contenuto contenuto contenuto
 
 Per le pagine sono stati prvisti tre layout diversi:
 
-* Layout index carica stili CSS della pagina https://lantoniotrento.github.io
+* ### Layout index carica stili CSS della pagina https://lantoniotrento.github.io
 ```
 ---
 layout: index
@@ -94,7 +94,7 @@ canonical: https://antoniotrento.github.io
 {% include JB/setup %}
 ```
 
-* Layout page carica stili CSS della pagina https://lantoniotrento.github.io/blog
+* ### Layout page carica stili CSS della pagina https://lantoniotrento.github.io/blog
 ```
 ---
 layout: page
@@ -108,7 +108,7 @@ canonical:
 {% include JB/setup %}
 ```
 
-* Layout signup carica stili CSS della pagina https://lantoniotrento.github.io/signup
+* ### Layout signup carica stili CSS della pagina https://lantoniotrento.github.io/signup
 ```
 ---
 layout: signup
@@ -122,8 +122,10 @@ canonical:
 {% include JB/setup %}
 ```
 
-Tracciamento link
+#### Tracciamento link
 
+```
 <a href="http://www.example.com" onclick="trackOutboundLink('http://www.example.com'); return false;">Non perderti example.com</a>
+```
 
 Il  sito web è munito di post scheduler grazie alle funzionalità di [](https://serverless.com){:target="_blank"} e [Amazon AWS](https://aws.amazon.com/it/){:target="_blank"} utilizzando le  funzionalità di [post scheduler](https://serverless.com/blog/static-site-post-scheduler/){:target="_blank"} per  sfruttarlo anche tu segui le guide vidio di serverless
