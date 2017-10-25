@@ -17,8 +17,6 @@ hellobar: yes
 ---
 {% include JB/setup %}
 
-# Strumenti di email marketing e marketing automation
-
 Uno dei [tasselli fondamentali per creare un business su web]({% post_url 2017-10-20-tasselli-principali-per-creare-la-tua-strategia-di-business-digitale-nel-2018 %}){:target="_blank"} consiste nella creazione di un [funnel](https://it.wikipedia.org/wiki/Imbuto_di_conversione){:target="_blank"} di marketing efficace.<!--more-->
 
 Su web, generalmente, per realizzare un funnel di vendita o un funnel persuasivo si sfrutta [l'email marketing](https://it.wikipedia.org/wiki/Email_marketing){:target="_blank"} per via del fatto che è uno strumento poco costoso rispetto a media tradizionali e più efficace, per certi versi, dato che gli strumenti professionali solitamente permettono la segmentazione dell'audience ed il tracciamento delle azioni sul sito web.
