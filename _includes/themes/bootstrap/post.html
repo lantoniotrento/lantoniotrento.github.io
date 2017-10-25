@@ -1,7 +1,7 @@
 <section class="article {%  if page.centered == true %}centered{% endif %}">
 	<br />
 	<br />	
-    <article itemscope="" itemprop='publisher' itemtype="http://schema.org/BlogPosting">    
+    <article itemscope="" itemprop='publisher' itemtype="http://schema.org/WebPage">    
     <time itemprop="datePublished" datetime='{{ page.date | date: '%Y-%m-%d' }}' class="top published"><span class="oi" data-glyph="bookmark"></span> {{ page.date | date: "%-d %B %Y" }}</time>
     <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
     <meta itemprop="description" content="{{ content | strip_html | truncatewords: 40 }}" />
