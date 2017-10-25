@@ -49,7 +49,7 @@ Dopo una lunga ricerca ed un'attenta analisi del fatto che alcuni hanno grandi c
 
 ## CMS consigliati
 
-Solitamente consiglio ai miei clienti rispettivamente in base al tipo di busienss e budget solo 2 piattaforme web per fare blogging e creare pagine web per marketing, sono [wordpress](https://wordpress.org){:target="_blank"} e [clickfunnels](http://linktrack.info/.2q5e3){:target="_blank"}, esse hanno un range di prezzo veramente esagerato, una costa qualche centinaia di euro all'anno, mentre l'altra centinaia al mese!
+Solitamente consiglio ai miei clienti rispettivamente in base al tipo di busienss e budget solo 2 piattaforme web per fare blogging e creare pagine web per marketing, sono [wordpress](https://wordpress.org){:target="_blank" .link} e [clickfunnels](http://linktrack.info/.2q5e3){:target="_blank"}, esse hanno un range di prezzo veramente esagerato, una costa qualche centinaia di euro all'anno, mentre l'altra centinaia al mese!
 
 Potrà sembrarti strano, ma c'è una differenza di prezzo per un motivo sostanziale ed è la velocità di implementazione, la velocità di sviluppo e produzione di contenuti, la semplicità di integrazione con strumenti di marketing esterni e gli strumenti di tracking ed A/B testing inglusi che fanno questa differenza di prezzo.
 
