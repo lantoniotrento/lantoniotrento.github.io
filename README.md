@@ -9,6 +9,7 @@ Sul file _config.yaml si può configurare il sistema che comprende
 * Google tag manager
 * Google Optimize
 * Area contatti e social
+* https://zotabox.com/ (per integrarlo devi modificare il link nel codice zotabox js delle pagine ../_includes/bootstrap/default.html - default-index-html - default-page.html - default-signup.html)
 
 Sono presenti 3 tipologie di layout per le  pagine web
 
