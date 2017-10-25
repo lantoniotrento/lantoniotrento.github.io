@@ -11,10 +11,10 @@ Sul file _config.yaml si può configurare il sistema che comprende
 
 Sono presenti 3 tipologie di layout per le  pagine web
 
-* post (carica [shrift]())
-* index (carica [template areal]())
-* page (carica [bootstrap 4]())
-* signup (carica template [eventually]())
+* post (carica [shrift](http://snip.ly/sp2i7))
+* index (carica [template areal](http://snip.ly/dtv6t))
+* page (carica [bootstrap 4](http://snip.ly/f5kn9))
+* signup (carica template [eventually](http://snip.ly/2a0sm))
 
 ## Blog post template
 
