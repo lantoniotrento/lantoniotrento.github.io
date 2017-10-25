@@ -121,6 +121,7 @@ JB :
     google :
         tracking_id : 'UA-45810100-6' # Id google analitics 
         optimize_id : 'GTM-M4KFZRF' # I'id di google optimize per A/B Testing
+        tagmanager_id: 'GTM-WWGWDM4' # id di google tag manager
     getclicky :
       site_id :
     mixpanel :
