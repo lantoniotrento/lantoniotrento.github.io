@@ -6,6 +6,7 @@ Sul file _config.yaml si può configurare il sistema che comprende
 
 * Google AD Sense
 * Google Analytics
+* Google tag manager
 * Google Optimize
 * Area contatti e social
 
