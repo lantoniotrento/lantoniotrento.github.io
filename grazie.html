@@ -1,43 +1,39 @@
 ---
-layout: index
+layout: signup
 title: Grazie
-tagline: ti ringrazio ti risponderò al più presto, tempo di legger e rispondere
+tagline: Grazie per esserti iscritto e per scoprire tutti  i segreti dei grandi web marketers 
 css: 
-js:
-keywords: Graphic design, web marketing, web design, user experience
-canonical: https://antoniotrento.github.io
+js: eventually/main.js
+keywords: business, web marketing, money
+canonical:
 ---
+<!-- in js: eventually/main.js è presente l'array di immagini di sfondo -->
 {% include JB/setup %}
 
-<div class="container-fluid">
+		<!-- Header -->
+			<header id="header">
+				<h2>A breve riceverai un email di conferma</h2>				
+				<h1>Grazie! E benvenuto.</h1>
+				<p>Se non trovi l'email prova a controllare in spam o promozioni e trascinala in principale.</p>
+			</header>
 
-
-  <!-- box-intro -->
-  <section class="box-intro">
-    <div class="table-cell">
-                <h1 class="box-headline">
-                    <span>
-                        <b>Grazie!</b>                                          
-                    </span>
-		</h1>
-                <h3><span class="highlight-container"><span class="highlight">Ti contattetò appena ricevuto il messaggio!</span></span></h3> 
-	    	<h3>Torna a <a href="https://google.it">Google</a> oppure, <b>ti prego di darmi una mano qui sotto</b>.</h3>
-		<p>Posso chiederti un favore? Ho bisogno di un aiutino che a te non costa nulla e a me potrebbe fare la differenza, <b>ti va di aiutarmi con una condivisione?</b></p>
-                <span class="text-center">
-			
-		<ul class="social-ul">
-			<li class="box-social"><a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}&title=Se%20hai%20un%20progetto%20su%20web%20perchè%20non%20scegliere%20Antonio%20Trento&source=LinkedIn" rel="nofollow" target="_blank" class="icon-17 linkedin" title="Post on LinkedIn"><i class="ion-social-linkedin"></i></a></li>                                                
-			<li class="box-social"><a href="https://facebook.com/sharer/sharer.php?u={{ site.url }}" rel="nofollow" target="_blank" class="icon-10 facebook" title="Share on Facebook"><i class="ion-social-facebook"></i></a></li>               
-			<li class="box-social"><a href="https://twitter.com/intent/tweet?text=Se%20hai%20un%20progetto%20su%20web%20perchè%20non%20scegliere%20Antonio%20Trento&url={{ site.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" class="icon-26 twitter" title="Tweet it"><i class="ion-social-twitter"></i></a></li>
-			<li class="box-social"><a href="https://plus.google.com/share?url={{ site.url }}" rel="nofollow" target="_blank" class="icon-14 googleplus" title="Plus it on GooglePlus"><i class="ion-social-googleplus"></i></a></li>                        
-            	</ul>
-	    	
-	    	</span>
-    </div>	
-  </section>
-  <!-- end box-intro -->
-	
+		<!-- Signup Form -->
 
 
 
-</div>
+
+
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					{% if site.author.facebook %}<li><a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook" class="fa fa-2x fa-facebook"></a></li>{% endif %}
+					{% if site.author.twitter %}<li><a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter" class="fa fa-2x fa-twitter"></a></li>{% endif %}
+					{% if site.author.google %}<li><a href="{{ site.author.google }}" title="Google+" class="fa fa-2x fa-google"></a></li>{% endif %}
+					{% if site.author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" title="Linkedin" class="fa fa-2x fa-linkedin"></a></li>{% endif %}
+					{% if site.author.instagram %}<li><a href="https://instagram.com/{{ site.author.instagram }}" title="Instagram" class="fa fa-2x fa-instagram"></a></li>{% endif %}
+							
+				</ul>
+				<ul class="copyright">
+					<li>&copy; <a href="{{ BASE_PATH }}" target="_blank">Antonio Trento</a>.</li><li>Tema: <a href="http://html5up.net" target="_blank">HTML5 UP</a></li><li>Immagini: <a href="http://freepik.com" target="_blank">freepik</a></li>
+				</ul>
+			</footer>
