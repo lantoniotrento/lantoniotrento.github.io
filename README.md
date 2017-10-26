@@ -130,4 +130,6 @@ canonical:
 ```
 ### Post scheduler
 
-Il  sito web è munito di post scheduler grazie alle funzionalità di [](https://serverless.com){:target="_blank"} e [Amazon AWS](https://aws.amazon.com/it/){:target="_blank"} utilizzando le  funzionalità di [post scheduler](https://serverless.com/blog/static-site-post-scheduler/){:target="_blank"} per  sfruttarlo anche tu segui le guide vidio di serverless
+Il  sito web è munito di post scheduler grazie alle funzionalità di [](https://serverless.com) e [Amazon AWS](https://aws.amazon.com/it/) utilizzando le  funzionalità di [post scheduler](https://serverless.com/blog/static-site-post-scheduler/) per  sfruttarlo anche tu segui le guide vidio di serverless
+
+> Per creare un nuovo post in schedule, va crato un novo brach del progetto, creare un nuovo post nella cartella /_posts/categoria/ salvare il post ed i dati correlati ed effetturare il merge del branch sul brach master. Poi da  master andando su pull request commentare la richiesta di merge con schedule(MM/DD/YYYY H:MM pm), serverless effettuerà lo schedule all'ora desiderata
