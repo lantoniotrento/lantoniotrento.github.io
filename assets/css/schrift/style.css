@@ -1088,5 +1088,5 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
     display: block;
 }
 [type="checkbox"]:not(:checked), [type="checkbox"]:checked {
-    display: none;
+    display: none!important;
 }
