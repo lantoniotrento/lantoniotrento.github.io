@@ -1004,6 +1004,27 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 
 
 
+
+
+@keyframes checked-anim {
+    50% {
+        width: 3000px;
+        height: 3000px;
+    }
+    100% {
+        width: 100%;
+        height: 100%;
+        border-radius: 0;
+    }
+}
+@keyframes not-checked-anim {
+    0% {
+        width: 3000px;
+        height: 3000px;
+    }
+}
+
+
 #trigger, #burger, #burger:before, #burger:after {
     position: absolute;
     top: 25px;
