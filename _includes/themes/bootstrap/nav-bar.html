@@ -1,10 +1,39 @@
 
-<input type="checkbox" id="menu-toggle"/>
-  <label id="trigger" for="menu-toggle"></label>
-  <label id="burger" for="menu-toggle"></label>
-  <ul id="menu">
-    <li><a href="#">Home</a></li>
-    <li><a href="#">About</a></li>
-    <li><a href="#">Portfolio</a></li>
-    <li><a href="#">Contact</a></li>
-  </ul>
+
+<nav id="ntitle">
+<div>
+  <a href="{{ BASE_PATH }}"><img style="padding-top: 3px;padding-left:15px" src="{{ BASE_PATH }}/assets/images/antonio-trento-small-logo.png" alt="Antonio Trento Web Marketing Specialist" width="80"></a>
+  <div class="desc"><a href=https://antoniotrento.github.io><span class=oi data-glyph=fork></span> My Works</a></div>
+  
+  <a onclick="document.getElementById('ntitle').classList.toggle('expanded')" class="button menumarker" style="width:35px;padding:0"><span class="oi" data-glyph="menu"></span></a>
+  <a class="button rss" title="RSS" href="{{ BASE_PATH }}/rss.xml"><span class="oi" data-glyph="rss"></span></a>
+  
+  <div class="nlinks">
+    <div>
+
+	   <a href="{{ BASE_PATH }}/blog">
+		<span class="oi" data-glyph="book"></span>
+		<span>Blog<span>
+	   </a>
+			
+	   <a href="{{ BASE_PATH }}/i-migliori-tools-di-web-marketing-per-fare-business-nel-2018">
+		<span class="oi" data-glyph="beaker"></span>
+		<span>Inizia da qui<span>
+	   </a>			
+	        
+	   <a href="{{ BASE_PATH }}/archive">
+		<span class="oi" data-glyph="list"></span>
+		<span>Archivio<span>
+	   </a>
+
+	    <a href="{{ BASE_PATH }}/about">
+		<span class="oi" data-glyph="info"></span>
+		<span>Su di me<span>
+	    </a>
+	  
+	    {% include social-block.html %}
+	
+    </div>
+  </div>
+</div>
+</nav>
