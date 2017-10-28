@@ -63,9 +63,9 @@ lantoniotrento@gmail.com
     <!-- 1. Include jQuery and the plugin files in to your page -->
     <link type="text/css" rel="stylesheet" href="{{ BASE_PATH }}/css/pandalocker.2.0.0.min.css">
 	  
-    <script src="{{ BASE_PATH }}/js/libs/jquery.min.js"></script>
-    <script src="{{ BASE_PATH }}/js/libs/jquery.ui.highlight.min.js"></script>
-    <script src="{{ BASE_PATH }}/js/pandalocker.2.0.0.min.js"></script>
+    <script async src="{{ BASE_PATH }}/js/libs/jquery.min.js"></script>
+    <script async src="{{ BASE_PATH }}/js/libs/jquery.ui.highlight.min.js"></script>
+    <script async src="{{ BASE_PATH }}/js/pandalocker.2.0.0.min.js"></script>
 <script>
 jQuery(document).ready(function ($) {
    $('.to-lock').sociallocker({
@@ -105,7 +105,7 @@ jQuery(document).ready(function ($) {
 	  
 {% if page.exitintent %}	 
 <!-- Exit intent popup -->
-    <script type="text/javascript" src="{{ BASE_PATH }}/assets/js/bioep.min.js"></script>
+    <script async type="text/javascript" src="{{ BASE_PATH }}/assets/js/bioep.min.js"></script>
     
     <script type="text/javascript">
       bioEp.init({
@@ -118,7 +118,7 @@ jQuery(document).ready(function ($) {
 
 <!-- Hellobar -->
 {% if page.hellobar %}	
-<script src="https://my.hellobar.com/1cf1308fde34f28a43199ed385303c0e8cc615d8.js" type="text/javascript" charset="utf-8" async="async"></script>	
+<script async src="https://my.hellobar.com/1cf1308fde34f28a43199ed385303c0e8cc615d8.js" type="text/javascript" charset="utf-8" async="async"></script>	
 {% endif %}
     {% if page.welcomemat %}
 	    <link href="{{ BASE_PATH }}/assets/css/welcomemat.css" rel="stylesheet">
@@ -187,7 +187,7 @@ jQuery(document).ready(function ($) {
 	  
 
   {% if site.JB.comments.disqus.short_name == true %}
-  <script id="dsq-count-scr" src="//{{ site.JB.comments.disqus.short_name }}.disqus.com/count.js" async></script>
+  <script async id="dsq-count-scr" src="//{{ site.JB.comments.disqus.short_name }}.disqus.com/count.js" async></script>
   {% endif %}
 	
 	<!-- https://zotabox.com plugin messenger -->
@@ -197,7 +197,7 @@ jQuery(document).ready(function ($) {
 <!-- ********************* welcome mat SCRIPTING ******************************-->
     
     <!--Custom script loaded by children page-->
-    {% if page.js %}<script src="{{ BASE_PATH }}/assets/js/{{ page.js }}"></script>{% endif %}
+    {% if page.js %}<script async src="{{ BASE_PATH }}/assets/js/{{ page.js }}"></script>{% endif %}
     {% if page.welcomemat %}
 	<!-- Stuff that makes the javascript run - @MercenaryCarter -->
 	  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
