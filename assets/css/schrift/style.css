@@ -1135,33 +1135,33 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 }
 
 .wave.wave--blue {
-    background-image: url(../images/blue-wave.svg)
+    background-image: url(../assets/images/blue-wave.svg)
 }
 
 .wave.wave--green {
-    background-image: url(../images/green-wave.svg)
+    background-image: url(../assets/images/green-wave.svg)
 }
 
 .wave.wave--pink {
-    background-image: url(../images/pink-wave.svg)
+    background-image: url(../assets/images/pink-wave.svg)
 }
 
 .wave.wave--orange {
-    background-image: url(../images/orange-wave.svg)
+    background-image: url(../assets/images/orange-wave.svg)
 }
 
 .wave.wave--purple {
-    background-image: url(../images/purple-wave.svg)
+    background-image: url(../assets/images/purple-wave.svg)
 }
 
 .wave.wave--yellow {
-    background-image: url(../images/yellow-wave.svg)
+    background-image: url(../assets/images/yellow-wave.svg)
 }
 
 .wave.wave--white {
-    background-image: url(../images/white-wave.svg)
+    background-image: url(../assets/images/white-wave.svg)
 }
 
 .wave.wave--grey {
-    background-image: url(../images/grey-wave.svg)
+    background-image: url(../assets/images/grey-wave.svg)
 }
