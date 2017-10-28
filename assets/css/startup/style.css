@@ -1400,3 +1400,462 @@ li.nav-item .btn-white {
   color: #CB2026!important;
 }
 
+
+
+
+
+/* Wave background from https://www.prodpad.com/blog/internal-transparency-in-the-workplace/ */
+
+.wave-container {
+    float: left;
+    width: 100%;
+    height: 96px;
+    position: relative
+}
+
+.hero .wave-container {
+    height: 120px;
+    margin-top: -120px;
+    z-index: 1
+}
+
+@media only screen and (min-width: 600px) {
+    .wave-container {
+        height: 160px
+    }
+    .hero .wave-container {
+        height: 160px;
+        margin-top: -160px;
+        z-index: 1
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .wave-container {
+        height: 240px
+    }
+    .hero .wave-container {
+        margin-top: -240px;
+        height: 240px;
+        z-index: 1;
+        position: absolute;
+        bottom: 0
+    }
+}
+
+.wave-container .wave:first-child {
+    background-position: -32% 0px
+}
+
+.wave-container .wave:last-child {
+    background-position: 0 0px;
+    z-index: 3
+}
+
+.wave-container.animated .wave:first-child {
+    animation: animatedBackgroundOne 180s linear infinite
+}
+
+.wave-container.animated .wave:last-child {
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+    animation: animatedBackgroundOne 300s linear infinite
+}
+
+@-webkit-keyframes animatedBackgroundOne {
+    from {
+        background-position: 0 0
+    }
+    to {
+        background-position: 1158px 0px
+    }
+}
+
+@keyframes animatedBackgroundOne {
+    from {
+        background-position: 0 0px
+    }
+    to {
+        background-position: 1158px 0px
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    @-webkit-keyframes animatedBackgroundOne {
+        from {
+            background-position: 0 0
+        }
+        to {
+            background-position: 1928px 0px
+        }
+    }
+    @keyframes animatedBackgroundOne {
+        from {
+            background-position: 0 0px
+        }
+        to {
+            background-position: 1928px 0px
+        }
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    @-webkit-keyframes animatedBackgroundOne {
+        from {
+            background-position: 0 0
+        }
+        to {
+            background-position: 3855px 0px
+        }
+    }
+    @keyframes animatedBackgroundOne {
+        from {
+            background-position: 0 0px
+        }
+        to {
+            background-position: 3855px 0px
+        }
+    }
+}
+
+.wave {
+    float: left;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    background-repeat: repeat-x;
+    height: 100%;
+    background-size: auto 100%
+}
+
+.wave.wave--blue {
+    background-image: url(/assets/images/blue-wave.svg)
+}
+
+.wave.wave--green {
+    background-image: url(/assets/images/green-wave.svg)
+}
+
+.wave.wave--pink {
+    background-image: url(/assets/images/pink-wave.svg)
+}
+
+.wave.wave--orange {
+    background-image: url(/assets/images/orange-wave.svg)
+}
+
+.wave.wave--purple {
+    background-image: url(/assets/images/purple-wave.svg)
+}
+
+.wave.wave--yellow {
+    background-image: url(/assets/images/yellow-wave.svg)
+}
+
+.wave.wave--white {
+    background-image: url(/assets/images/white-wave.svg)
+}
+
+.wave.wave--grey {
+    background-image: url(/assets/images/grey-wave.svg)
+}
+
+
+
+
+.hero {
+    float: left;
+    width: 100%;
+    text-align: center;
+    position: relative
+}
+
+.hero h1 {
+    word-break: break-word
+}
+
+.hero.has-title-only .padded-content {
+    padding-bottom: 128px
+}
+
+@media only screen and (min-width: 600px) {
+    .hero.has-title-only .padded-content {
+        padding-bottom: 164px
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .hero.has-title-only .padded-content {
+        padding-bottom: 288px
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .hero {
+        min-height: 280px
+    }
+    .hero img.margin-top {
+        margin-top: 24px !important
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .hero {
+        min-height: 360px
+    }
+}
+
+.page-template-enterprise .hero .wrapper-container {
+    z-index: 2;
+    position: relative
+}
+
+.page-template-enterprise .hero .wrapper-50:first-child {
+    display: none
+}
+
+.page-template-enterprise .hero .wrapper-50:last-child {
+    max-width: 580px;
+    margin: auto;
+    float: right;
+    padding-top: 24px
+}
+
+@media only screen and (min-width: 768px) {
+    .page-template-enterprise .hero {
+        margin-bottom: 66px
+    }
+    .page-template-enterprise .hero .wrapper-50:first-child {
+        position: relative;
+        display: block;
+        width: 33%
+    }
+    .page-template-enterprise .hero .wrapper-50:first-child img {
+        position: absolute;
+        bottom: -66px;
+        height: 660px;
+        left: -460px;
+        max-width: initial !important
+    }
+    .page-template-enterprise .hero .wrapper-50:last-child {
+        width: 66%
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .page-template-enterprise .hero .wrapper-50:first-child {
+        width: 50%
+    }
+    .page-template-enterprise .hero .wrapper-50:first-child img {
+        left: -260px
+    }
+    .page-template-enterprise .hero .wrapper-50:last-child {
+        width: 50%;
+        margin-left: 0
+    }
+}
+
+@media only screen and (min-width: 1208px) {
+    .page-template-enterprise .hero .wrapper-50:first-child img {
+        left: -100px
+    }
+    .page-template-enterprise .hero .wrapper-50:last-child {
+        width: calc(50% - 64px);
+        margin-left: 64px;
+        float: left
+    }
+}
+
+@media only screen and (min-width: 1500px) {
+    .page-template-enterprise .hero .wrapper-50:first-child img {
+        left: 0
+    }
+}
+
+@media only screen and (min-width: 1600px) {
+    .page-template-enterprise .hero .wrapper-50:first-child img {
+        height: 740px;
+        bottom: -96px
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .hero .padded-content {
+        margin-bottom: 0;
+        -webkit-align-items: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        flex-direction: column;
+        justify-content: center
+    }
+}
+
+.hero .padded-content img {
+    margin-bottom: 16px
+}
+
+.hero .hero__image {
+    max-width: 80%;
+    margin-top: 16px;
+    z-index: 2;
+    margin: auto;
+    position: relative
+}
+
+.hero .hero__image img {
+    float: left
+}
+
+@media only screen and (min-width: 768px) {
+    .hero .hero__image {
+        max-width: 660px
+    }
+    body.page-template-features .hero .hero__image {
+        max-width: 700px
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .hero .hero__image {
+        max-width: 861px
+    }
+    body.page-template-features .hero .hero__image {
+        max-width: 975px
+    }
+}
+
+.hero h1,
+.hero h2,
+.hero #pp-cfpw h1,
+#pp-cfpw .hero h1,
+.hero h3,
+.hero .avatar-block .avatar-title,
+.avatar-block .hero .avatar-title,
+.hero #pp-cfpw h2,
+#pp-cfpw .hero h2,
+.hero #pp-cfpw h1,
+#pp-cfpw .hero h1 {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto
+}
+
+@media only screen and (min-width: 1024px) {
+    .home .hero {
+        overflow: hidden;
+        height: calc(100vh - 92px);
+        min-height: 680px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-align-items: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        justify-content: center
+    }
+    .home .hero h1 {
+        max-width: 100%
+    }
+    .home .hero .padded-content {
+        padding-top: 16px !important
+    }
+    .home .hero>.container {
+        height: 100%;
+        position: relative;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-align-items: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        justify-content: space-between;
+        flex-direction: column
+    }
+    .home .hero .hero__image {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        max-width: 660px
+    }
+    .page-template-enterprise .hero {
+        min-height: 600px
+    }
+}
+
+@media only screen and (min-width: 1024px) and (min-height: 900px) {
+    .home .hero>.container {
+        padding-top: 3vh
+    }
+}
+
+@media only screen and (min-width: 1024px) and (min-height: 900px) {
+    .home .hero .hero__image {
+        max-width: 80%
+    }
+    .home .hero .hero__image img {
+        max-height: 50vh
+    }
+}
+
+@media only screen and (min-width: 1600px) {
+    .page-template-enterprise .hero {
+        min-height: 760px
+    }
+}
+
+.hero .hero__inline-icon img {
+    margin: 0;
+    width: 24px
+}
+
+@media only screen and (min-width: 768px) {
+    .hero .hero__inline-icon img {
+        width: 32px
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    body.page-template-pricing .hero {
+        min-height: 100px
+    }
+}
+
+body.page-template-story .hero {
+    position: relative;
+    background-color: #333333
+}
+
+body.page-template-story .hero .hero__transparent-image {
+    opacity: 0.5;
+    background-size: cover;
+    background-position: center;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: 0;
+    content: ""
+}
+
+body.page-template-story .hero .container {
+    z-index: 2
+}
+
+body.page-template-story .hero h1 {
+    color: white
+}
