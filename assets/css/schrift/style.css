@@ -1710,31 +1710,31 @@ body.page-template-story .hero h1 {
 
 
 @media (min-width: 1200px)
-bootstrap.min.css:851
+
 .container-fluid {
     padding-right: 15px;
     padding-left: 15px;
 }
 
 @media (min-width: 992px)
-bootstrap.min.css:844
+
 .container-fluid {
     padding-right: 15px;
     padding-left: 15px;
 }
 @media (min-width: 768px)
-bootstrap.min.css:837
+
 .container-fluid {
     padding-right: 15px;
     padding-left: 15px;
 }
 @media (min-width: 576px)
-bootstrap.min.css:830
+
 .container-fluid {
     padding-right: 15px;
     padding-left: 15px;
 }
-bootstrap.min.css:821
+
 .container-fluid {
     position: relative;
     margin-left: auto;
