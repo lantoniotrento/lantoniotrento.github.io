@@ -1709,37 +1709,3 @@ body.page-template-story .hero h1 {
     font-size: 18px;
 }
 
-
-@media (min-width: 1200px)
-
-.container-fluid {
-    padding-right: 15px;
-    padding-left: 15px;
-}
-
-@media (min-width: 992px)
-
-.container-fluid {
-    padding-right: 15px;
-    padding-left: 15px;
-}
-@media (min-width: 768px)
-
-.container-fluid {
-    padding-right: 15px;
-    padding-left: 15px;
-}
-@media (min-width: 576px)
-
-.container-fluid {
-    padding-right: 15px;
-    padding-left: 15px;
-}
-
-.container-fluid {
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    padding-right: 15px;
-    padding-left: 15px;
-}
