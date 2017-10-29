@@ -1527,7 +1527,8 @@ body.page-template-story .hero h1 {
     top: 0;
     height: 100%;
     width: 50px;
-    background-color: #fff;   		
+    background-color: #fff;  
+    text-align:left!important;
 }
 
 .box-primary-nav-trigger .box-menu-text {
