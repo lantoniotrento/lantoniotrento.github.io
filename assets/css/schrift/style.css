@@ -1517,6 +1517,7 @@ body.page-template-story .hero h1 {
 .box-logo {
     display: block;
     padding: 20px;
+    text-align:left;			
 
 }
 
