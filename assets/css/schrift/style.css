@@ -1624,7 +1624,7 @@ body.page-template-story .hero h1 {
 }
 
 .box-primary-nav {
-	
+    margin-top: 0px;	
     position: fixed;
     left: 0;
     top: 0;
