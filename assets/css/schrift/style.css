@@ -1468,7 +1468,7 @@ body.page-template-story .hero h1 {
 ==================================================*/
 
 .box-header {
-    position: absolute!important;
+    position: absolute;
     top: 0;
     left: 0;
     background: rgba(255, 255, 255, 0.95);
@@ -1517,7 +1517,7 @@ body.page-template-story .hero h1 {
 .box-logo {
     display: block;
     padding: 20px;
-    text-align:left!important;		
+
 }
 
 .box-primary-nav-trigger {
