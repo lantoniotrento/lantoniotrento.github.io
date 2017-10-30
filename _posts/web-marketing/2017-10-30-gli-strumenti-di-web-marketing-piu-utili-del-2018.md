@@ -182,7 +182,7 @@ Puoi usarlo gratuitamente fino a 2000 iscritti e **ti permette di inviare notifi
 
 È un modo molto interessante  di intrattenere l'audience perchè questo strumento può essere sfruttato in molti modi interessanti, ad esempio condividendo solo tramite notifiche informazioni premium al pubblico iscritto li farà sentire dei privilegiati e crerà un senso di appartenenza alla tua community.
 
-## social proof
+## social proof
 La [riprova sociale](https://it.wikipedia.org/wiki/Robert_Cialdini){:.link target="_blank"} è un **trigger psicologico che molte imprese utlizzano con successo** per persuadere i compratori e liberare l'impulso all'acquisto che ogni persona può manifestare periodicamente quando guarda cose che le interessano.
 
 Consiste nel dimostrare il fatto che molta gente utilizza acquista o ama il tuo servizio/prodotto.
@@ -197,7 +197,7 @@ Il tutto configurato in base alle integrazioni del tuo sito web come ad esempio 
 
 Lo svantaggio principale dell'impiego di questo tool è che ha un costo iniziale abbastanza alto e quindi dovrebbe essere impiegato solo quando si ha già una mole di traffico consistente alle pagine del tuo sito web, altrimenti sprecheresti soldi per niete dato che avresti troppo poco traffico e interazioni per far si che  proof faccia il suo dovere.
 
-## Up Viral - Viral loops
+## Up Viral - Viral loops
 Esistono strumenti di marketing che possono permetterti di incrementare velocemente la tua audience ne sono un esempio [UP Viral](https://upviral.com/){:.link target="_blank"} ed anche [Viral loops](https://viral-loops.com/){:.link target="_blank"} che ti permetteranno di sfruttare strategie di refferal marketing per condividere i tuoi contenuti e farli condividere dai tuoi lettori tramite un sistema di concorsi.
 
 Praticamente, ogni utente che si iscrive ad una idea implementata con viral loops riceve un link di referral, con esso se lo codivide con le sue conoscenze e qualcuno si iscrive a sua volta tramite i suoi canali web potrà vedere il suo punteggio referral salire, ed i primi  qualificati, cioè chi sarà riuscito a far iscrivere più utenti, portà riceve un premio messo in palio.
