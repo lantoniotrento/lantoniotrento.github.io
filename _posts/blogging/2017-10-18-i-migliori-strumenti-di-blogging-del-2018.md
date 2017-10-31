@@ -3,7 +3,7 @@ layout: post
 category : blogging
 tagline: "I migliori strumenti di blogging del 2018"
 tags : [blogging, blog, web sites, web business]
-locker: <h2><a target="_blank" href="http://linktrack.info/.2q4on">Digital ocean</a></h2><p>Questo strumento è eccezionale, si è vero, hai bisogno di competenze in amministrazione di rete e linux per utilizzarla al meglio, ma è comunque strutturata in modo molto semplice e ti permette di eseguire azioni amministrative molto complesse in pochi e facili passi.</p><p><a href="http://linktrack.info/.2q4on">Digital Ocean</a> è lo strumento che consiglio maggiormente per gestire le tue pagine web perchè è molto stabile, scalabile, velocissimo e nettamente meno costoso di qualsiasi altro provider tu possa trovare su web a parità di prestazioni offerte!</p><p>Con poche centinaia di euro l'anno potrai installare in modo semplice e gestire piattaforme web Wordpress velocissime, che possono accettare milioni di visite al mese! È l'ideale per chi vuole operare in modo professionale creando campagne di markerting che portano traffico considerevole alle pagine web.</p><p>Il tutto con un'interfaccia amministrativa semplice e molto versatile ti permetterà di creare molte azioni al tuo server in modo semplice da implementare la tua macchina virtuale per un'applicazione professionale ed ospitarla in cloud in modo semplice a operare sulla shell della tua macchina per modificare conigurazioni complesse.</p>
+locker: <h2><a target="_blank" href="http://linktrack.info/.2q4on">Digital ocean</a></h2><p>Questo strumento è eccezionale, si è vero, hai bisogno di competenze in amministrazione di rete e linux per utilizzarla al meglio, ma è comunque strutturata in modo molto semplice e ti permette di eseguire azioni amministrative molto complesse in pochi e facili passi.</p><p><a href="http://linktrack.info/.2q4on" class="link">Digital Ocean</a> è lo strumento che consiglio maggiormente per gestire le tue pagine web perchè è molto stabile, scalabile, velocissimo e nettamente meno costoso di qualsiasi altro provider tu possa trovare su web a parità di prestazioni offerte!</p><p>Con poche centinaia di euro l'anno potrai installare in modo semplice e gestire piattaforme web Wordpress velocissime, che possono accettare milioni di visite al mese! È l'ideale per chi vuole operare in modo professionale creando campagne di markerting che portano traffico considerevole alle pagine web.</p><p>Il tutto con un'interfaccia amministrativa semplice e molto versatile ti permetterà di creare molte azioni al tuo server in modo semplice da implementare la tua macchina virtuale per un'applicazione professionale ed ospitarla in cloud in modo semplice a operare sulla shell della tua macchina per modificare conigurazioni complesse.</p>
 img : i-migliori-strumenti-di-blogging-del-2018/i-migliori-strumenti-di-blogging-del-2018.jpg
 author : Antonio Trento
 css: 
@@ -55,11 +55,11 @@ Attenzione! Il prezzo, in questo caso, non è un indicatore che rivela la qualit
 
 ### 1 Medium
 
-È una piattaforma di editoria social gratuito; [Medium](https://medium.com/){:target="_blank"} negli ultimi anni si è affermato come strumento di editoria, molte testate e risviste lo utilizzano puntualmente per condividere articoli ed informazioni al loro pubblico.
+È una piattaforma di editoria social gratuito; [Medium](https://medium.com/){:target="_blank" .link} negli ultimi anni si è affermato come strumento di editoria, molte testate e risviste lo utilizzano puntualmente per condividere articoli ed informazioni al loro pubblico.
 
 Questo strumento può essere utlizzato come piattaforma di blogging ed è molto interessante come prodotto per via del fatto che è gratuito, non hai bisogno di competenze particolari per usarlo ed ha un layout molto elegante ed ottimizzato alla leggibilità. 
 
-Inoltre Medium è una piattaforma ben indicizzata su Google, quindi se creerai articoli molto interessanti con le giuste parole chiave, verresti facilmente indicizzato; inoltre l'aspetto social ti permette di instaurare relazioni direttamente sulla piattaforma [Medium](https://medium.com/){:target="_blank"}.
+Inoltre Medium è una piattaforma ben indicizzata su Google, quindi se creerai articoli molto interessanti con le giuste parole chiave, verresti facilmente indicizzato; inoltre l'aspetto social ti permette di instaurare relazioni direttamente sulla piattaforma [Medium](https://medium.com/){:target="_blank" .link}.
 
 Di contro gli articoli che andrai a pubblicare non faranno parte di una tua  piattaforma propietaria e quindi la proprietà intellettuale non è unicamente tua (questo potrebbe causare attriti nella riproduzione del contenuto su altre fonti) e non hai libertà nello sviluppo della tua piattaforma, limitando lo strumento ad un posto in cui si può solo leggere e condividere l'articolo. 
 
@@ -67,11 +67,11 @@ Per avere un blog vincente devi essere anche in grado di veicolare il lettore ne
 
 ### 2 Jekyll
 
-Per le mie esigenze è il migliore! [Jekyll](http://snip.ly/56dw6){:target="_blank"} è un generatore di blog con pagine statiche; con questo strumento si ha liberta completa per quanto riguarda la parte di sviluppo ma sono necessarie conoscenze di informatica, programmazione e di rete per implementarlo.
+Per le mie esigenze è il migliore! [Jekyll](http://snip.ly/56dw6){:target="_blank" .link} è un generatore di blog con pagine statiche; con questo strumento si ha liberta completa per quanto riguarda la parte di sviluppo ma sono necessarie conoscenze di informatica, programmazione e di rete per implementarlo.
 
 I principali vantaggi nell'utilizzarlo sono la velocità di caricamento delle pagine, il prezzo (gratis) e la versatilità nell'utilizzo e nell'implementazione di tools e strumenti utili al marketing del tuo blog nonchè la velocità di implementazione a livello tecnico a confronto di prodotti simili e scrivere post tramite Markdown velocizza molto il lavoro.
 
-Potrai ospitarlo su [Git Hub Pages](http://snip.ly/f4ifx){:target="_blank"} gratuitamente con prestazioni spaziali (te ne parlo in [questo articolo]({% post_url 2017-10-13-i-migliori-provider-hosting-del-2018 %}){:target="_blank"}), mica male poter avere a disposizione un sito web top performace gratuitamente!
+Potrai ospitarlo su [Git Hub Pages](http://snip.ly/f4ifx){:target="_blank" .link} gratuitamente con prestazioni spaziali (te ne parlo in [questo articolo]({% post_url 2017-10-13-i-migliori-provider-hosting-del-2018 %}){:target="_blank" .link}), mica male poter avere a disposizione un sito web top performace gratuitamente!
 
 Inoltre Jekyll non è solo uno strumento di blogging ma di marketing potrai anche creare intorno al tuo blog tutte le pagine di promozione o di acquisizione utenti che servono alla tua attività per incrementare il traffico al sito web. 
 
@@ -81,7 +81,7 @@ Gli svantaggi nell'utilizzo di Jekyll sono il fatto che è necessario avere comp
 
 Piattaforma che consiglio se non hai grossi budget (costa qualche centinaia di euro anno) e se non hai competenze di programmazione.
 
-[Wordpress](https://wordpress.org){:target="_blank"} è lo strumento più completo per creare un blog o un sito web per via della grandissima community di sviluppatori che ci lavora per migliorarlo.
+[Wordpress](https://wordpress.org){:target="_blank" .link} è lo strumento più completo per creare un blog o un sito web per via della grandissima community di sviluppatori che ci lavora per migliorarlo.
 
 Grazie alla grande quantità di plugin viene reso semplice l'implementazione di funzionalità nuove in base alle tue esigenze senza dover toccare una riga di codice!
 
@@ -94,15 +94,15 @@ Con Wordpress potresti essere in grado di sviluppare piattaforme web complesse e
 Questo strumento è perfetto per chi vuole partire alla grande, con una buona immagine professionale e una piattaforma completa di tutte le funzionalità necessarie per gestire un business su web.
 
 Di contro: 
-* **Wordpress risulta molto pesante da elaborare** e quindi per gestirlo in modo ottimale consiglio di affidarsi ad un [hosting efficente](http://linktrack.info/.2q1ho){:target="_blank"} meglio ancora se hai competenze e riesci a mettere in piedi il tuo cloud hosting che ti consiglio nella [sezione segreta di questo articolo]({% post_url 2017-10-13-i-migliori-provider-hosting-del-2018 %}){:target="_blank"}!
+* **Wordpress risulta molto pesante da elaborare** e quindi per gestirlo in modo ottimale consiglio di affidarsi ad un [hosting efficente](http://linktrack.info/.2q1ho){:target="_blank" .link} meglio ancora se hai competenze e riesci a mettere in piedi il tuo cloud hosting che ti consiglio nella [sezione segreta di questo articolo]({% post_url 2017-10-13-i-migliori-provider-hosting-del-2018 %}){:target="_blank" .link}!
 
-* **È lo strumento di blogging più bersagliato dagli hacker**, quindi ti consiglio di prendere i ripari a livello di sicurezza utilizzando tool anti spam, tool per backup automatici, tenendo sempre aggiornato il core e i plugin che utilizzi e sfruttando sistemi di commento da terze parti (ad esempio [disqus comment system](http://snip.ly/or0db){:target="_blank"})
+* **È lo strumento di blogging più bersagliato dagli hacker**, quindi ti consiglio di prendere i ripari a livello di sicurezza utilizzando tool anti spam, tool per backup automatici, tenendo sempre aggiornato il core e i plugin che utilizzi e sfruttando sistemi di commento da terze parti (ad esempio [disqus comment system](http://snip.ly/or0db){:target="_blank" .link})
  
 ### 4 Webflow
 
-[Webflow](https://webflow.com){:target="_blank"} è uno strumento di nuova generazione che mira a minare la fetta di mercato web che sfrutta Wordpress per mantenere i propri siti web.
+[Webflow](https://webflow.com){:target="_blank" .link} è uno strumento di nuova generazione che mira a minare la fetta di mercato web che sfrutta Wordpress per mantenere i propri siti web.
 
-È gratuito ma la società mira a vendere il servizio di hosting per il [CMS Webflow](https://webflow.com){:target="_blank"}, dato che si può appoggiare solo sui loro hosting.
+È gratuito ma la società mira a vendere il servizio di hosting per il [CMS Webflow](https://webflow.com){:target="_blank" .link}, dato che si può appoggiare solo sui loro hosting.
 
 Effettivamente il rapporto qualità prezzo è eccezionale; Webflow ha a disposizione di default un generatore visuale di contenuti professionale! Non ha bisogno di plugin esterni per avere a disposizione gli strumenti che servono per creare  pagine web, sono già tutti integrati!
 
@@ -110,7 +110,7 @@ Ha a disposizioni moltissimi layout grafici eccezzionali da cui partire a svilup
 
 Quindi con qualche centinaia di euro anno potrai avere a disposizione un blog professionale facile da gestire, credo sia un prodotto straordinario.
 
-Lo consiglio peculiarmente ha chi sviluppa su web per via del fatto che le metodologie di sviluppo sono veloci e visuali e dopo puoi esportare quel che hai realizzato in html ed implementarlo dove preferisci oppure passare l'hosting del progetto al tuo cliente via [Webflow](https://webflow.com){:target="_blank"}.
+Lo consiglio peculiarmente ha chi sviluppa su web per via del fatto che le metodologie di sviluppo sono veloci e visuali e dopo puoi esportare quel che hai realizzato in html ed implementarlo dove preferisci oppure passare l'hosting del progetto al tuo cliente via [Webflow](https://webflow.com){:target="_blank" .link}.
 
 ## Conclusione
 
