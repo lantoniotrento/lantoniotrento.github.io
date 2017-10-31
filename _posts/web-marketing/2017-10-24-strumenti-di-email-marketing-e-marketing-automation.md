@@ -3,7 +3,7 @@ layout: post
 category : blogging
 tagline: "Tutte le migliori piattaforme di marketing automation del web"
 tags : [email marketing, web marketing, marketing automation]
-locker: <h3><a target="_blank" href="https://mautic.org">Mautic</a></h3><p>È la piattaforma di marketing automation che fa per te!</p><p>Perchè?</p><p>Perchè comprende tutte le funzionalità delle precedenti ed è open source quindi puoi usarla gratis!</p><p>Utilizzando questo strumento direi che spenderai il 10% di quel che spenderesti con altri tools per via del fatto che con Mautic l'unica spesa che dovrai sostenere sarà legata alla consegna dei messaggi email e l'hosting della piattaforma sui tuoi server.</p><p>Come servizio di consegna email consiglio di utilizzare Amazon SES che costerà 0,0001 eur a messaggio email (50eur per 500000 email) riuscirà a soddifare le tue esigenze con costi veramente esigui!</p><p>L'unico punto a sfavore di Mautic è la necessità di competenze tecniche per installarlo sul proprio server; per ovviare al prolema ti basterà contattare un esperto in strumenti di hosting che, solo una volta, installerà il sistema sui tuoi server!</p>
+locker: <h3><a target="_blank" href="https://mautic.org" class="link">Mautic</a></h3><p>È la piattaforma di marketing automation che fa per te!</p><p>Perchè?</p><p>Perchè comprende tutte le funzionalità delle precedenti ed è open source quindi puoi usarla gratis!</p><p>Utilizzando questo strumento direi che spenderai il 10% di quel che spenderesti con altri tools per via del fatto che con Mautic l'unica spesa che dovrai sostenere sarà legata alla consegna dei messaggi email e l'hosting della piattaforma sui tuoi server.</p><p>Come servizio di consegna email consiglio di utilizzare Amazon SES che costerà 0,0001 eur a messaggio email (50eur per 500000 email) riuscirà a soddifare le tue esigenze con costi veramente esigui!</p><p>L'unico punto a sfavore di Mautic è la necessità di competenze tecniche per installarlo sul proprio server; per ovviare al prolema ti basterà contattare un esperto in strumenti di hosting che, solo una volta, installerà il sistema sui tuoi server!</p>
 img : strumenti-di-email-marketing-e-marketing-automation/strumenti-di-email-marketing-e-marketing-automation.jpg
 author : Antonio Trento
 css: 
@@ -17,9 +17,9 @@ hellobar: yes
 ---
 {% include JB/setup %}
 
-Uno dei [tasselli fondamentali per creare un business su web]({% post_url 2017-10-20-tasselli-principali-per-creare-la-tua-strategia-di-business-digitale-nel-2018 %}){:target="_blank"} consiste nella creazione di un [funnel](https://it.wikipedia.org/wiki/Imbuto_di_conversione){:target="_blank"} di marketing efficace.<!--more-->
+Uno dei [tasselli fondamentali per creare un business su web]({% post_url 2017-10-20-tasselli-principali-per-creare-la-tua-strategia-di-business-digitale-nel-2018 %}){:target="_blank" .link} consiste nella creazione di un [funnel](https://it.wikipedia.org/wiki/Imbuto_di_conversione){:target="_blank" .link} di marketing efficace.<!--more-->
 
-Su web, generalmente, per realizzare un funnel di vendita o un funnel persuasivo si sfrutta [l'email marketing](https://it.wikipedia.org/wiki/Email_marketing){:target="_blank"} per via del fatto che è uno strumento poco costoso rispetto a media tradizionali e più efficace, per certi versi, dato che gli strumenti professionali solitamente permettono la segmentazione dell'audience ed il tracciamento delle azioni sul sito web.
+Su web, generalmente, per realizzare un funnel di vendita o un funnel persuasivo si sfrutta [l'email marketing](https://it.wikipedia.org/wiki/Email_marketing){:target="_blank" .link} per via del fatto che è uno strumento poco costoso rispetto a media tradizionali e più efficace, per certi versi, dato che gli strumenti professionali solitamente permettono la segmentazione dell'audience ed il tracciamento delle azioni sul sito web.
 
 Grazie ad informazioni aggiuntive sul tuo pubblico potrai dedurre i suoi interessi e inserirlo in funnel adatti a proporre strumenti prodotti o servizi che possano soddisfare le sue esigenze o bisogni.
 
@@ -45,7 +45,7 @@ Affidati solo a provider di fiducia per i servizi di email marketing perchè se 
 
 ### Mailchimp
 
-[Mailchimp](https://mailchimp.com){:target="_blank"} è lo strumento per antonomasia dell'email marketing. È molto popolare ed utilizzato da moltissimi marketers al mondo e fa molto bene il suo lavoro!
+[Mailchimp](https://mailchimp.com){:target="_blank" .link} è lo strumento per antonomasia dell'email marketing. È molto popolare ed utilizzato da moltissimi marketers al mondo e fa molto bene il suo lavoro!
 
 I principali vantaggi nell'impiegarlo sono il fatto che per i primi 2000 contatti è gratuito e la facilità di utilizzo dello strumento.
 
@@ -57,7 +57,7 @@ Il mio consiglio è sfrutta l'account gratuito fino all'osso, avrai fatto un po 
 
 ### Active campain 
 
-Su web se navighi per i vari blog a tema osannano [Active Campain](http://linktrack.info/.2qenq){:target="_blank"} come lo strumento definitivo per fare email marketing.
+Su web se navighi per i vari blog a tema osannano [Active Campain](http://linktrack.info/.2qenq){:target="_blank" .link} come lo strumento definitivo per fare email marketing.
 
 È uno strumento eccezionale e completo, possiede funzioni di automation, tracking e segmentazione lista, strumenti essenziali quando vorrai fare business su web seriamente.
 
