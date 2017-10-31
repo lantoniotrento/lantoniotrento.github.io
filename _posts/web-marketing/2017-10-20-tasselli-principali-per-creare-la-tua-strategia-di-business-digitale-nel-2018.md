@@ -3,7 +3,7 @@ layout: post
 category : blogging
 tagline: "I migliori strumenti di blogging del 2018"
 tags : [marketing, web marketing, guide]
-locker: <h2><a target="_blank" href="http://linktrack.info/.2q4on">Digital ocean</a></h2><p>Questo strumento è eccezionale, si è vero, hai bisogno di competenze in amministrazione di rete e linux per utilizzarla al meglio, ma è comunque strutturata in modo molto semplice e ti permette di eseguire azioni amministrative molto complesse in pochi e facili passi.</p><p><a href="http://linktrack.info/.2q4on">Digital Ocean</a> è lo strumento che consiglio maggiormente per gestire le tue pagine web perchè è molto stabile, scalabile, velocissimo e nettamente meno costoso di qualsiasi altro provider tu possa trovare su web a parità di prestazioni offerte!</p><p>Con poche centinaia di euro l'anno potrai installare in modo semplice e gestire piattaforme web Wordpress velocissime, che possono accettare milioni di visite al mese! È l'ideale per chi vuole operare in modo professionale creando campagne di markerting che portano traffico considerevole alle pagine web.</p><p>Il tutto con un'interfaccia amministrativa semplice e molto versatile ti permetterà di creare molte azioni al tuo server in modo semplice da implementare la tua macchina virtuale per un'applicazione professionale ed ospitarla in cloud in modo semplice a operare sulla shell della tua macchina per modificare conigurazioni complesse.</p>
+locker: <h2><a target="_blank" href="http://linktrack.info/.2q4on">Digital ocean</a></h2><p>Questo strumento è eccezionale, si è vero, hai bisogno di competenze in amministrazione di rete e linux per utilizzarla al meglio, ma è comunque strutturata in modo molto semplice e ti permette di eseguire azioni amministrative molto complesse in pochi e facili passi.</p><p><a href="http://linktrack.info/.2q4on" class="link">Digital Ocean</a> è lo strumento che consiglio maggiormente per gestire le tue pagine web perchè è molto stabile, scalabile, velocissimo e nettamente meno costoso di qualsiasi altro provider tu possa trovare su web a parità di prestazioni offerte!</p><p>Con poche centinaia di euro l'anno potrai installare in modo semplice e gestire piattaforme web Wordpress velocissime, che possono accettare milioni di visite al mese! È l'ideale per chi vuole operare in modo professionale creando campagne di markerting che portano traffico considerevole alle pagine web.</p><p>Il tutto con un'interfaccia amministrativa semplice e molto versatile ti permetterà di creare molte azioni al tuo server in modo semplice da implementare la tua macchina virtuale per un'applicazione professionale ed ospitarla in cloud in modo semplice a operare sulla shell della tua macchina per modificare conigurazioni complesse.</p>
 img : tasselli-principali-per-creare-la-tua-strategia-di-business-digitale-nel-2018/tasselli-principali-per-creare-la-tua-strategia-di-business-digitale-nel-2018.jpg
 author : Antonio Trento
 css: 
@@ -45,7 +45,7 @@ Ci sono diversi tipi di pagine web ed ogni tipologia ha obiettivi e struttura di
 
 
 ### Langing Page
-Quando parlo di [landing page](https://it.wikipedia.org/wiki/Landing_page){:target="_blank"} ti parlo di uno strumento cardine che serve per comunicare ai lettori che ne hanno accesso il tuo obiettivo di business, e se sono ben create, con un marketing mix alle spalle, con una grafica accattivante e contenuti studiati minuziosamente, serve per stimolare l'impulso all'acquisto del lettore di conseguenza di trasformeranno in tuoi **strumenti di vendita di servizi o prodotti** in base al tuo tipo business.
+Quando parlo di [landing page](https://it.wikipedia.org/wiki/Landing_page){:target="_blank" .link} ti parlo di uno strumento cardine che serve per comunicare ai lettori che ne hanno accesso il tuo obiettivo di business, e se sono ben create, con un marketing mix alle spalle, con una grafica accattivante e contenuti studiati minuziosamente, serve per stimolare l'impulso all'acquisto del lettore di conseguenza di trasformeranno in tuoi **strumenti di vendita di servizi o prodotti** in base al tuo tipo business.
 
 ### Squeeze page
 Invece una squeeze page è una pagina studiata nell'acquisire il contatto di un nuovo potenziale cliente, con l'biettivo di portarlo all'interno del tuo marketing mix e così nel tempo nutrirlo di informazioni utili per persuaderlo a **ricordarsi di te nel momento in cui avrà bisogno dei servizi che offri**. 
@@ -57,10 +57,10 @@ La grande particolarità che può avere una squeeze page come una landing è che
 
 Quindi lasciati dare un consiglio:
 
-Prima di iniziare a proporre i tuoi servizi e prodotti esegui un'importante studio di [profilazione](https://it.wikipedia.org/wiki/Profilazione_dell%27utente){:target="_blank"} per riuscire a creare delle pagine di promozione che vestano completamente i panni delle persone a cui andrai a proporle.
+Prima di iniziare a proporre i tuoi servizi e prodotti esegui un'importante studio di [profilazione](https://it.wikipedia.org/wiki/Profilazione_dell%27utente){:target="_blank" .link} per riuscire a creare delle pagine di promozione che vestano completamente i panni delle persone a cui andrai a proporle.
 
 ### Blog Post
-La terza tipologia di pagina che avevo accento sopra sono i post del blog, ho parlato dei migliori strumenti per crearlo in [un mio precedente post]({% post_url 2017-10-18-i-migliori-strumenti-di-blogging-del-2018 %}). 
+La terza tipologia di pagina che avevo accento sopra sono i post del blog, ho parlato dei migliori strumenti per crearlo in [un mio precedente post]({% post_url 2017-10-18-i-migliori-strumenti-di-blogging-del-2018 %}){:.link}. 
 
 Essi servono per condividere con i tuoi lettori spunti, informazioni, guide, trattazione argomenti trasversali al tuo business che possano interessare il lettore, per renderti utile ed appetibile, ma i post hanno anche **l'obiettivo di convertire lettori in iscritti alla tua lista email o proprorre un prodotto**, sfruttando aree del tuo sito dove inserire banner mirati che portano i lettori alle squeeze page di iscrizione. 
 
@@ -80,7 +80,7 @@ Oltre a quest'esigenza subentra una dinamica di autorità e nutrimento dei letto
 
 L'autorità nel tempo ti permetterà di posizionarti nella mente dei tuoi utenti, questo farà si che le informazioni che condividi saranno oro colato ai loro occhi ed avrai grandi possibilità di iterazione con i lettori.
 
-Mentre la [segmentazione](https://it.wikipedia.org/wiki/Segmentazione_(marketing)){:tager="_blank"} è generata grazie ad una piattaforma di marketing automation; potrai oltre che generare una lista di email, nel tempo, riuscire ad identificare gli interessi, passioni abitudini di ogni singolo utente iscritto tramite azioni mirate ad acquisire le informazioni com ad esempio un sondaggio inviato alla lista email.
+Mentre la [segmentazione](https://it.wikipedia.org/wiki/Segmentazione_(marketing)){:tager="_blank" .link} è generata grazie ad una piattaforma di marketing automation; potrai oltre che generare una lista di email, nel tempo, riuscire ad identificare gli interessi, passioni abitudini di ogni singolo utente iscritto tramite azioni mirate ad acquisire le informazioni com ad esempio un sondaggio inviato alla lista email.
 
 **Riuscire a conoscere le informazioni personali ed interessi dei lettori farà la differenza nel tuo busienss**, perchè saprai su quali leve mentali lavorare per persuadere il tuo bacino di utenza, e riuscire a mandare comunicazioni di marketing specifiche e mirate solo alle persone della tua lista che hanno determinati interessi.
 
