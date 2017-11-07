@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Blog
-tags : 
+tags :
 author : Antonio Trento
-css: 
+css:
 js:
-keywords: 
+keywords:
 img: antonio-trento-logo-social.jpg
 canonical: https://lantoniotrento.github.io/blog
 locker: <p class="lead">Ti piacerebbe scoprire tutti i migliori strumenti e strategie per renderti visibile su web? Conoscere tutti i  migliori strumenti di cui non potrai fare a meno per imporre la tua presenza?</p><h2 class="mb-5">Iscriviti alla communiti segreta ed ottieni i tre <a href="https://manychat.com/l1/lantoniotrento" target="_blank">regali che ho nascosto nel blog!</a></h2>
@@ -19,22 +19,22 @@ locker: <p class="lead">Ti piacerebbe scoprire tutti i migliori strumenti e stra
    <h3 itemprop="name">Gli ulitmi post del blog.</h3>	  
    <div class="divider"></div>
    <div class="row text-left">
-<!-- Change the "about information" contained in /_includes/themes/bootstrap/index.html  -->	 
-  {% for post in site.posts %}		   
+<!-- Change the "about information" contained in /_includes/themes/bootstrap/index.html  -->
+  {% for post in site.posts %}
 	<div class="col-sm-6 col-md-4 col-gallery" itemprop="blogPost" itemscope="" itemtype="http://schema.org/BlogPosting">
 	  <div class="box">
                 {% if post.img %}
                   <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="{{ post.title }} image" class="img-fluid rounded-corners"></a>
                 {% endif %}
 		<h5 class="mt-4 ml-4 mr-4" itemprop="name"><a itemprop="url" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h5>
-		<meta itemprop="keywords" content="{{ post.tags | join: ',' }}" />  
+		<meta itemprop="keywords" content="{{ post.tags | join: ',' }}" />
 		<p itemprop="description" class="emphasis ml-4 mr-4">{{post.tags | array_to_sentence_string | replace:'and',''}}</p>
 		<div class="ml-4 mr-4">{{ post.excerpt }}<p><a itemprop="url" class="btn btn-outline-secondary" href="{{ BASE_PATH }}{{ post.url }}" role="button">Leggi tutto</a></p></div>
 	  </div>
-	</div>		
+	</div>
 
   {% endfor %}
-     		
+
    </div>
    <div class="divider"></div>
   </div>
