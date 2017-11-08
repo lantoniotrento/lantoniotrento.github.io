@@ -3,7 +3,6 @@ layout: post
 category : web-marketing
 tagline: "Tools per migliorare il tuo social media marketing"
 tags : [marketing, web marketing, guide]
-locker: <h2><a target="_blank" href="http://linktrack.info/.2q4on">Digital ocean</a></h2><p><a href="http://linktrack.info/.2q4on" class="link">Digital Ocean</a></p>
 img : i-migliori-strumenti-per-far-crescere-i-social-network/i-migliori-strumenti-per-far-crescere-i-social-network.jpg
 author : Antonio Trento
 css:
