@@ -14,16 +14,16 @@ baseurl: "/lantoniotrento.github.io"
 #
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
-data-ad-slot: 
-data-ad-client: 
-google_ad_client: 
+data-ad-slot:
+data-ad-client:
+google_ad_client:
 
 post_limit: 5
 
 
 title : Blog di Antonio Trento
 tagline: Blog italiano che tratta temi di web marketing avanzati e strumenti annessi al marketing e al business sia tecnici che concettuali.
-author : 
+author :
   name : Antonio Trento
   email : lantoniotrento@gmail.com
   github : antoniotrento
@@ -100,12 +100,12 @@ JB :
   #
   comments :
     provider : disqus
-    disqus : 
+    disqus :
       short_name : blog-antonio-trento
     #livefyre :
-    #  site_id : 
+    #  site_id :
     #intensedebate :
-    #  account : 
+    #  account :
     #facebook :
     #  appid :
       num_posts: 5
@@ -119,7 +119,7 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-45810100-6' # Id google analitics 
+        tracking_id : 'UA-45810100-6' # Id google analitics
         optimize_id : 'GTM-M4KFZRF' # I'id di google optimize per A/B Testing
         tagmanager_id: 'GTM-WWGWDM4' # id di google tag manager
     getclicky :
@@ -148,3 +148,6 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
+
+  plugins:
+    - jekyll-seo-tag
