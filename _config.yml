@@ -37,7 +37,7 @@ author :
 
 # data for jekyll-seo-tags plugins
 social:
-  name: Antonio Trento
+  name: lantoniotrento
   links:
     - https://twitter.com/lantoniotrento
     - https://www.facebook.com/lantoniotrento
@@ -58,7 +58,7 @@ plugins:
   - jekyll-feed
   - jekyll-sass-converter
   - jekyll-seo-tag
-# END data for jekyll-seo-tags plugins  
+# END data for jekyll-seo-tags plugins
 
 twitter_username: lantoniotrento
 # The production_url is only used when full-domain names are needed
