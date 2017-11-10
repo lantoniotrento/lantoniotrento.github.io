@@ -2,11 +2,12 @@
 layout: blog
 title: Tags
 tagline: All tags used in the posts
-tags : 
-img : 3.jpg
-img-mobile : 3-mobile.jpg
+tags :
+img :
+image: assets/images/antonio-trento-logo-social.jpg
+img-mobile :
 author : Antonio Trento
-css: 
+css:
 js:
 bgcolor: ff5a71
 keywords: gradient, html, css, landing page, jekyll, ruby, web marketing, advertising, Antonio Trento
@@ -14,7 +15,7 @@ canonical: https://grads.github.io/blog
 ---
 {% include JB/setup %}
 
- 
+
       <h1 id="title">{{ page.title }}</h1>
       {% if page.tagline %}
       <p class="lead">{{ page.tagline }}</p>{% endif %}
@@ -34,4 +35,3 @@ canonical: https://grads.github.io/blog
     {% include JB/pages_list %}
   </ul>
 {% endfor %}
-

@@ -7,7 +7,7 @@
 \ \ / _ \/ __/ _ \| '_ \ / _` |/ _ \
 _\ \  __/ (_| (_) | | | | (_| | (_) |
 \__/\___|\___\___/|_| |_|\__,_|\___/
-                                     
+
  __
 / _\ ___  __ _ _ __ ___| |_ ___
 \ \ / _ \/ _` | '__/ _ \ __/ _ \
@@ -15,7 +15,7 @@ _\ \  __/ (_| | | |  __/ || (_) |
 \__/\___|\__, |_|  \___|\__\___/
          |___/
 
-Puoi scaricare l'ebook segreto tramite questo link: 
+Puoi scaricare l'ebook segreto tramite questo link:
 
 https://lantoniotrento.github.io/assets/pdf/creare-il-tuo-blog-di-successo.pdf
 
@@ -34,35 +34,25 @@ lantoniotrento@gmail.com
 -->
 <html lang="it" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
   <head>
-    <meta charset="utf-8">	  
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{ page.title }}</title>
-    {% if page.tagline %}<meta name="description" content="{{ page.tagline }}">{% endif %}
-    <meta name="author" content="{{ site.author.name }}">    
-    {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
-    {% if page.canonical %}<link rel="canonical" href="{{ page.canonical }}"/>{% endif %}
+    {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <!-- CSS loaded by the children page -->
     {% if page.css %}<link rel="stylesheet" type="text/css" href="{{ BASE_PATH }}/assets/css/{{ page.css }}" />{% endif %}
-    
-	  
-	        <link rel="icon" href="{{ BASE_PATH }}/assets/images/fav2.png" type="image/x-icon">
+
+
+	  <link rel="icon" href="{{ BASE_PATH }}/assets/images/fav2.png" type="image/x-icon">
 		<link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/startup/bootstrap.min.css" />
-		<link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/startup/style.css" />	  
-		<link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/aerial/font-awesome.min.css" />	  
+		<link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/startup/style.css" />
+		<link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/aerial/font-awesome.min.css" />
 		<link href="{{ BASE_PATH }}/assets/fonts/charissil/charissil.css" rel="stylesheet">
 		<link href="{{ BASE_PATH }}/assets/fonts/fira/fira.css" rel="stylesheet">
 		<link href="{{ BASE_PATH }}/assets/fonts/openiconic/css/open-iconic.css" rel="stylesheet">
 
     	  {% include JB/analytics %}
 
-    <meta property="fb:app_id" content="509727322725898" /> 
-    <meta property="og:type"   content="website" /> 	
-    <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:description" content="{{ page.tagline }}">
-    <meta property="og:image" content="{{ BASE_PATH }}/assets/images/{{ page.img }}">
-    <meta property="og:url" content="{{ BASE_PATH }}">
-    <meta name="twitter:card" content="summary_large_image">
+
 	<!--[if IE]>
 		<script type="text/javascript">
 			 var console = { log: function() {} };
@@ -80,15 +70,15 @@ lantoniotrento@gmail.com
         });
     </script>
     {% endif %}
-	  
+
 	<!-- ManyChat -->
 	<script src="//widget.manychat.com/1010094929028825.js" async="async">
-	</script>	  
-	  
-<!-- Social locker block -->	
+	</script>
+
+<!-- Social locker block -->
     <!-- 1. Include jQuery and the plugin files in to your page -->
     <link type="text/css" rel="stylesheet" href="{{ BASE_PATH }}/css/pandalocker.2.0.0.min.css">
-	  
+
     <script src="{{ BASE_PATH }}/js/libs/jquery.min.js"></script>
     <script src="{{ BASE_PATH }}/js/libs/jquery.ui.highlight.min.js"></script>
     <script src="{{ BASE_PATH }}/js/pandalocker.2.0.0.min.js"></script>
@@ -127,8 +117,8 @@ lantoniotrento@gmail.com
 		}
 	   });
 	});
-	</script>	
-	  
+	</script>
+
 	  <script>
   window.fbAsyncInit = function() {
     FB.init({
@@ -153,30 +143,30 @@ lantoniotrento@gmail.com
 	<!-- Google Tag Manager (noscript) -->
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.JB.analytics.google.tagmanager_id }}"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	<!-- End Google Tag Manager (noscript) -->	  
-	  	  
-	  
+	<!-- End Google Tag Manager (noscript) -->
+
+
       {% include themes/bootstrap/nav-bar.html %}
-      <!--Home page style--> 
-  
+      <!--Home page style-->
+
       {{ content }}
-      {% include themes/bootstrap/footer-page.html %}  
+      {% include themes/bootstrap/footer-page.html %}
 
 	<!-- https://zotabox.com plugin messenger -->
 <script type="text/javascript">
 (function(d,s,id){var z=d.createElement(s);z.type="text/javascript";z.id=id;z.async=true;z.src="//static.zotabox.com/8/5/85c8d18999bf831caabf3e44399eb587/widgets.js";var sz=d.getElementsByTagName(s)[0];sz.parentNode.insertBefore(z,sz)}(document,"script","zb-embed-code"));
 </script>
-	
+
 <!-- ********************* Grads SCRIPTING ******************************-->
 	<!--Custom script loaded by children page-->
 	{% if page.js %}<script src="{{ BASE_PATH }}/assets/js/{{ page.js }}"></script>{% endif %}
 
-	  <!--Commentato perchè c'è jquery del social locker nell'header --> 
-  <!-- <script src="{{ BASE_PATH }}/assets/js/jquery-3.1.1.min.js"></script> -->	  
+	  <!--Commentato perchè c'è jquery del social locker nell'header -->
+  <!-- <script src="{{ BASE_PATH }}/assets/js/jquery-3.1.1.min.js"></script> -->
   <script src="{{ BASE_PATH }}/assets/js/bootstrap.min.js"></script>
   <script src="{{ BASE_PATH }}/assets/js/tether.min.js"></script>
-  <script src="{{ BASE_PATH }}/assets/js/menu.js"></script>	  
-	  
+  <script src="{{ BASE_PATH }}/assets/js/menu.js"></script>
+
 
 
   </body>
