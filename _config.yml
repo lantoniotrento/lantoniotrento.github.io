@@ -35,6 +35,31 @@ author :
   google: https://plus.google.com/u/0/b/114870349902392641766/105909498949786982602
   feedburner : BlogDiAntonioTrento
 
+# data for jekyll-seo-tags plugins
+social:
+  name: Antonio Trento
+  links:
+    - https://twitter.com/lantoniotrento
+    - https://www.facebook.com/lantoniotrento
+    - https://www.linkedin.com/in/antoniotrento
+    - https://plus.google.com/u/0/b/114870349902392641766/105909498949786982602
+    - https://github.com/antoniotrento
+    - https://keybase.io/antoniotrento
+twitter:
+  username: lantoniotrento
+
+facebook:
+ app_id: 509727322725898 #the app id from https://developers.facebook.com/
+ admins: 1010094929028825 #the page ID from https://www.facebook.com/pg/lantoniotrento (page-link), left click about scroll down and find 'Page ID'
+ publisher: 1010094929028825 #the page ID from https://www.facebook.com/pg/lantoniotrento (page-link), left click about scroll down and find 'Page ID'
+
+#theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sass-converter
+  - jekyll-seo-tag
+# END data for jekyll-seo-tags plugins  
+
 twitter_username: lantoniotrento
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt

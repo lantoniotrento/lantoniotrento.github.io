@@ -5,23 +5,25 @@ https://twitter.com/lantoniotrento
 lantoniotrento@gmail.com
 -->
 <html lang="it" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
-  <head>	  
+  <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{ page.title }}</title>
+    <!--<title>{{ page.title }}</title>
     {% if page.tagline %}<meta name="description" content="{{ page.tagline }}">{% endif %}
-    <meta name="author" content="{{ site.author.name }}">    
+    <meta name="author" content="{{ site.author.name }}">
     {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
-    {% if page.canonical %}<link rel="canonical" href="{{ page.canonical }}"/>{% endif %}
+    {% if page.canonical %}<link rel="canonical" href="{{ page.canonical }}"/>{% endif %}-->
+    {% seo %}
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- CSS loaded by the children page -->
     {% if page.css %}<link rel="stylesheet" type="text/css" href="{{ BASE_PATH }}/assets/css/{{ page.css }}" />{% endif %}
-    
-	  
+
+
 	    <link rel="icon" href="{{ BASE_PATH }}/assets/images/fav2.png" type="image/x-icon">
 
 	    <!-- main css -->
-	    <link href="{{ BASE_PATH }}/assets/css/schrift/style.css" rel="stylesheet">	  	  
+	    <link href="{{ BASE_PATH }}/assets/css/schrift/style.css" rel="stylesheet">
 	    <link href="{{ BASE_PATH }}/assets/fonts/charissil/charissil.css" rel="stylesheet">
 	    <link href="{{ BASE_PATH }}/assets/fonts/fira/fira.css" rel="stylesheet">
 	    <link href="{{ BASE_PATH }}/assets/fonts/openiconic/css/open-iconic.css" rel="stylesheet">
@@ -29,14 +31,14 @@ lantoniotrento@gmail.com
 	   <!-- <link href="{{ BASE_PATH }}/assets/css/schrift/bootstrap.min.css" rel="stylesheet">-->
 
 	  {% include JB/analytics %}
-	  
-    <meta property="fb:app_id" content="509727322725898" /> 
-    <meta property="og:type"   content="website" /> 	
+
+    <!--<meta property="fb:app_id" content="509727322725898" />
+    <meta property="og:type"   content="website" />
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{{ page.tagline }}">
     <meta property="og:image" content="{{ BASE_PATH }}/assets/images/{{ page.img }}">
     <meta property="og:url" content="{{ BASE_PATH }}/{{page.url}}">
-    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:card" content="summary_large_image">-->
 
 	<!--[if IE]>
 		<script type="text/javascript">
@@ -55,15 +57,15 @@ lantoniotrento@gmail.com
         });
     </script>
     {% endif %}
-	  
+
 	<!-- ManyChat -->
 	<script src="//widget.manychat.com/1010094929028825.js" async="async">
-	</script>	  
- 	
-<!-- Social locker block -->	
+	</script>
+
+<!-- Social locker block -->
     <!-- 1. Include jQuery and the plugin files in to your page -->
     <link type="text/css" rel="stylesheet" href="{{ BASE_PATH }}/css/pandalocker.2.0.0.min.css">
-	  
+
     <script async src="{{ BASE_PATH }}/js/libs/jquery.min.js"></script>
     <script async src="{{ BASE_PATH }}/js/libs/jquery.ui.highlight.min.js"></script>
     <script async src="{{ BASE_PATH }}/js/pandalocker.2.0.0.min.js"></script>
@@ -103,28 +105,28 @@ jQuery(document).ready(function ($) {
    });
 });
 </script>
-	  
-{% if page.exitintent %}	 
+
+{% if page.exitintent %}
 <!-- Exit intent popup -->
     <script async type="text/javascript" src="{{ BASE_PATH }}/assets/js/bioep.min.js"></script>
-    
+
     <script type="text/javascript">
       bioEp.init({
         html: '<div id="content">{{ page.exitintent }}</div>',
         css: '#content {font-family: "Fira Sans", "Droid Sans", "Open Sans", Verdana, arial, sans-serif; font-size: 14px;}',
 		    cookieExp: 0
       });
-    </script>		  
+    </script>
 {% endif %}
 
 <!-- Hellobar -->
-{% if page.hellobar %}	
-<script async src="https://my.hellobar.com/1cf1308fde34f28a43199ed385303c0e8cc615d8.js" type="text/javascript" charset="utf-8" async="async"></script>	
+{% if page.hellobar %}
+<script async src="https://my.hellobar.com/1cf1308fde34f28a43199ed385303c0e8cc615d8.js" type="text/javascript" charset="utf-8" async="async"></script>
 {% endif %}
     {% if page.welcomemat %}
 	    <link href="{{ BASE_PATH }}/assets/css/welcomemat.css" rel="stylesheet">
-    {% endif %}	
-	  
+    {% endif %}
+
 <script>
   window.fbAsyncInit = function() {
     FB.init({
@@ -142,10 +144,10 @@ jQuery(document).ready(function ($) {
      js.src = "//connect.facebook.net/en_US/sdk.js";
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
-</script>	  
+</script>
 
 
-<!--	 SCHEMA.ORG  
+<!--	 SCHEMA.ORG
 <script type="application/ld+json">
 {
   "@context": "http://schema.org/",
@@ -153,19 +155,19 @@ jQuery(document).ready(function ($) {
   "image": "{{ BASE_PATH }}/assets/images/{{ page.img }}",
   "description": "{{ page.tagline }}"
 }
-</script>	  
--->	  
-<link href='{{ site.author.google }}' rel='publisher'/>	  
-</head>		
+</script>
+-->
+<link href='{{ site.author.google }}' rel='publisher'/>
+</head>
 <body>
 
 	<!-- Google Tag Manager (noscript) -->
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.JB.analytics.google.tagmanager_id }}"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	<!-- End Google Tag Manager (noscript) -->	  
-	  	
+	<!-- End Google Tag Manager (noscript) -->
 
-{% if page.welcomemat %}	
+
+{% if page.welcomemat %}
 <!-- This shit is require mated - @MercenaryCarter -->
 <div class="introduction">
   <div class="shade">
@@ -178,19 +180,19 @@ jQuery(document).ready(function ($) {
   </div>
 </div>
 <!-- End of require mated - @MercenaryCarter -->
-{% endif %}	  
-	  
-      <!--Home page style--> 
-      {% include themes/bootstrap/nav-bar.html %}  
+{% endif %}
+
+      <!--Home page style-->
+      {% include themes/bootstrap/nav-bar.html %}
       {{ content }}
       {% include themes/bootstrap/footer.html %}
 
-	  
+
 
   {% if site.JB.comments.disqus.short_name == true %}
   <script async id="dsq-count-scr" src="//{{ site.JB.comments.disqus.short_name }}.disqus.com/count.js" async></script>
   {% endif %}
-<script src="https://antoniotrento.github.io/assets/js/jquery-2.1.1.js"></script>	
+<script src="https://antoniotrento.github.io/assets/js/jquery-2.1.1.js"></script>
 	<!-- https://zotabox.com plugin messenger -->
 <script type="text/javascript">
 (function(d,s,id){var z=d.createElement(s);z.type="text/javascript";z.id=id;z.async=true;z.src="//static.zotabox.com/8/5/85c8d18999bf831caabf3e44399eb587/widgets.js";var sz=d.getElementsByTagName(s)[0];sz.parentNode.insertBefore(z,sz)}(document,"script","zb-embed-code"));
@@ -238,7 +240,7 @@ jQuery(document).ready(function ($) {
 	  });
 	</script>
 	<!-- Stuff that makes the javascript run - @MercenaryCarter -->
-    {% endif %}	 
+    {% endif %}
 
 
   </body>
