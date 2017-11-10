@@ -5,8 +5,9 @@ category : web marketing
 tagline: "I migliori strumenti di web marketing del 2018"
 tags : [marketing, web marketing, strumenti]
 img : gli-strumenti-di-web-marketing-piu-utili-del-2018/gli-strumenti-di-web-marketing-piu-utili-del-2018.jpg
+image: assets/images/gli-strumenti-di-web-marketing-piu-utili-del-2018/gli-strumenti-di-web-marketing-piu-utili-del-2018.jpg
 author : Antonio Trento
-css: 
+css:
 js:  
 keywords: marketing, web marketing, seo, content marketing, social media, landing page, squeeze page, email marketing
 canonical: https://lantoniotrento.github.io/web-marketing/2017/10/30/gli-strumenti-di-web-marketing-piu-utili-del-2018
@@ -53,7 +54,7 @@ Lo strumento è costoso, ma se strutturi una campagna efficace che ottimizzi nel
 ### Analitycs
 [Analitycs](https://www.google.com/analytics/){:.link target="_blank"} è uno degli strumenti di motitoraggio essenziale per le tue pagine web.
 
-Per installarlo ti basterà copiare una piccola porzione di codice fornita da google nelle tue pagine web, questo permetterà alla piattaforma Analitycs di monitorare le visite e i percorsi che effettuano i lettori sul tuo sito, i tempi di permanenza sulle pagine, se gli utenti compiono obittivi precedentemente impostati, le nazionalità dei tuoi visitatori, i dispositivi utilizzati peraccedere e tante altre informazioni essenziali a comprendere l'andamento del tuo sito web e come migliorare l'esperienza utente. 
+Per installarlo ti basterà copiare una piccola porzione di codice fornita da google nelle tue pagine web, questo permetterà alla piattaforma Analitycs di monitorare le visite e i percorsi che effettuano i lettori sul tuo sito, i tempi di permanenza sulle pagine, se gli utenti compiono obittivi precedentemente impostati, le nazionalità dei tuoi visitatori, i dispositivi utilizzati peraccedere e tante altre informazioni essenziali a comprendere l'andamento del tuo sito web e come migliorare l'esperienza utente.
 
 ### Optimize
 [Optimize](https://www.google.com/analytics/tag-manager/){:.link target="_blank"} è un tool che serve per [effettuare A/B testing](https://en.wikipedia.org/wiki/A/B_testing){:.link target="_blank"} sulle pagine del tuo sito web.
@@ -127,7 +128,7 @@ Per fare un esempio metti il caso tu sia un blogger, potresti automatizzare la p
 
 Oppure puoi impostare trigger sulle tue campagne mailchimp per effettuare automatismi o tracciare dati su file exel sul tuo google drive in modo automatico
 
-Diciamo che sono due piccolissimi esempi perchè: 
+Diciamo che sono due piccolissimi esempi perchè:
 
 > Zapier gestisce un parco di 750 app, praticamente tutte le maggiori app in commercio per il lavoro digital.
 
@@ -159,14 +160,14 @@ Con questo strumento, se sarai in grado di usarlo saggiamente, avrai più possib
 
 Snip.ly è gratutito per 1000 eventi mensili, quindi cerca di valutare bene a quali link associare le tue call to action.
 
-## Clickmeter 
+## Clickmeter
 Come ho detto molte volte in questo blog, le metriche, il tracciamento degli utenti ed informazioni sulla navigazione sul tuo sito sono cose molto importanti per **capire se le tue idee sono vincenti o se c'è da correggere il tiro** in alcuni punti del tuo sito.
 
 Con [ClickMeter](http://linktrack.info/.2q1i3){:.link target="_blank"} potrai tracciare i click di ogni tuo link sul sito web, anche i link che mandano all'esterno dello stesso.
 
 Questo tipo di tracciamento è utile sia per comprendere quali sono le risorse più cliccate del sito sia per proteggere e tracciare le vendite dei tuoi link di affiliazione.
 
-È molto importante **tracciare le vendite in affiliazione per avere una prova legale** del fatto che è grazie a te che un dato utente è passato ad acquistare da un mercante affiliato al tuo sito web. 
+È molto importante **tracciare le vendite in affiliazione per avere una prova legale** del fatto che è grazie a te che un dato utente è passato ad acquistare da un mercante affiliato al tuo sito web.
 
 Attenzione, può capitare, di avere contestazioni e non ricevere pagamenti anche da grandi società senza avere le prove tangibili del fatto che è grazie al tuo link che è stato acquistato un dato servizio.
 
@@ -175,7 +176,7 @@ Potrai usare Click Meter gratuitamente in versione limitata (ha limiti sul tracc
 Inoltre Il brand Click Meter ha lanciato un app parallela chiamata [rebrandly](https://www.rebrandly.com){:.link target="_blank"} che ti permette di creare branded shortlinks, cioè creare dei link basati sul tuo nome dominio, molto carino come vanity tool.
 
 ## Pushcrew
-Un altro strumento interessante è [Pushcrew](http://snip.ly/sj1ae){:.link target="_blank"}. 
+Un altro strumento interessante è [Pushcrew](http://snip.ly/sj1ae){:.link target="_blank"}.
 
 Puoi usarlo gratuitamente fino a 2000 iscritti e **ti permette di inviare notifiche direttamente sul dispositivo** con cui l'utente si è iscritto.
 
@@ -190,7 +191,7 @@ Consiste nel dimostrare il fatto che molta gente utilizza acquista o ama il tuo 
 
 Se hai fatto la scelta giusta vorrei consigliarti di utilizzre questi principi anche sul tuo sito web.
 
-Uno strumento potentissimo che potresti usare è [proof](https://useproof.com/){:.link target="_blank"} che permette di mostrare le prove delle tue vendite, visite al sito web, upgrade a piani di pagamento superiori, iscrizioni alla tua lista. 
+Uno strumento potentissimo che potresti usare è [proof](https://useproof.com/){:.link target="_blank"} che permette di mostrare le prove delle tue vendite, visite al sito web, upgrade a piani di pagamento superiori, iscrizioni alla tua lista.
 
 Il tutto configurato in base alle integrazioni del tuo sito web come ad esempio ogni vendita di un'ecommerce o l'integrazione con maichimp ed al tipo di pagina in cui inserisci proof o in base.
 

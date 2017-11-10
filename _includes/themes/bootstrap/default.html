@@ -13,6 +13,7 @@ lantoniotrento@gmail.com
     <meta name="author" content="{{ site.author.name }}">
     {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
     {% if page.canonical %}<link rel="canonical" href="{{ page.canonical }}"/>{% endif %}-->
+
     {% seo %}
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,14 +32,6 @@ lantoniotrento@gmail.com
 	   <!-- <link href="{{ BASE_PATH }}/assets/css/schrift/bootstrap.min.css" rel="stylesheet">-->
 
 	  {% include JB/analytics %}
-
-    <!--<meta property="fb:app_id" content="509727322725898" />
-    <meta property="og:type"   content="website" />
-    <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:description" content="{{ page.tagline }}">
-    <meta property="og:image" content="{{ BASE_PATH }}/assets/images/{{ page.img }}">
-    <meta property="og:url" content="{{ BASE_PATH }}/{{page.url}}">
-    <meta name="twitter:card" content="summary_large_image">-->
 
 	<!--[if IE]>
 		<script type="text/javascript">
@@ -147,16 +140,7 @@ jQuery(document).ready(function ($) {
 </script>
 
 
-<!--	 SCHEMA.ORG
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "author": "{{ site.author.name }}",
-  "image": "{{ BASE_PATH }}/assets/images/{{ page.img }}",
-  "description": "{{ page.tagline }}"
-}
-</script>
--->
+
 <link href='{{ site.author.google }}' rel='publisher'/>
 </head>
 <body>

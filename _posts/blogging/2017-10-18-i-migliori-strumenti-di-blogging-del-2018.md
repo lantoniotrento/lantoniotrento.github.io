@@ -5,8 +5,9 @@ tagline: "I migliori strumenti di blogging del 2018"
 tags : [blogging, blog, web sites, web business]
 locker: <h2><a target="_blank" href="http://linktrack.info/.2q4on">Digital ocean</a></h2><p>Questo strumento è eccezionale, si è vero, hai bisogno di competenze in amministrazione di rete e linux per utilizzarla al meglio, ma è comunque strutturata in modo molto semplice e ti permette di eseguire azioni amministrative molto complesse in pochi e facili passi.</p><p><a href="http://linktrack.info/.2q4on" class="link">Digital Ocean</a> è lo strumento che consiglio maggiormente per gestire le tue pagine web perchè è molto stabile, scalabile, velocissimo e nettamente meno costoso di qualsiasi altro provider tu possa trovare su web a parità di prestazioni offerte!</p><p>Con poche centinaia di euro l'anno potrai installare in modo semplice e gestire piattaforme web Wordpress velocissime, che possono accettare milioni di visite al mese! È l'ideale per chi vuole operare in modo professionale creando campagne di markerting che portano traffico considerevole alle pagine web.</p><p>Il tutto con un'interfaccia amministrativa semplice e molto versatile ti permetterà di creare molte azioni al tuo server in modo semplice da implementare la tua macchina virtuale per un'applicazione professionale ed ospitarla in cloud in modo semplice a operare sulla shell della tua macchina per modificare conigurazioni complesse.</p>
 img : i-migliori-strumenti-di-blogging-del-2018/i-migliori-strumenti-di-blogging-del-2018.jpg
+image: assets/images/i-migliori-strumenti-di-blogging-del-2018/i-migliori-strumenti-di-blogging-del-2018.jpg
 author : Antonio Trento
-css: 
+css:
 js:  
 keywords: blogging, blog, seo, content marketing
 canonical: https://lantoniotrento.github.io/blogging/2017/10/18/i-migliori-strumenti-di-blogging-del-2018
@@ -24,7 +25,7 @@ Creare un blog con un piano editoriale ben strutturato per i tuoi potenziali cli
 
 Una struttura di blogging vincente passa da un buono studio del mercato di riferimento e dei potenziali clienti di quel mercato; se sarai in grato di carpire le esigenze del pubblico sarai in grado di renderti molto appetibile ed interessante condividendo sul blog soluzioni ai problemi che attanagliano i lettori per il tuo segmento di mercato.
 
-Non so se è chiaro ma per fare un esempio, se il tuo mercato tratta di ristrutturazioni case, nel tuo blog parlare di come imbiancare una stanza facendo un tutorial (consigliando prodotti all'avanguardia e tecniche particolari) potrebbe essere un argomento molto apprezzato dai lettori. 
+Non so se è chiaro ma per fare un esempio, se il tuo mercato tratta di ristrutturazioni case, nel tuo blog parlare di come imbiancare una stanza facendo un tutorial (consigliando prodotti all'avanguardia e tecniche particolari) potrebbe essere un argomento molto apprezzato dai lettori.
 
 Anche se fosse uno dei servizi che offri nel tuo business, il fatto di parlarne ti renderà molto più onesto e cristallino rispetto la concorrenza, facendo comunque una figura professionali agli occhi dei lettori, i quali sicuramente apprezzeranno letture utili per perseguire i propri scopi, facendo in modo che gli utenti si ricorderanno in modo piacevole di te e della tua attività.
 
@@ -34,7 +35,7 @@ Riuscire a indicizzarsi sui motori di ricerca però è un'obiettivo vincente dat
 
 Quindi ci sarebbero molti buoni motivi per cominciare a pianificare un blog che parli di argomenti affini alla tua attività, ma ci sono anche alcuni svantaggi di cui ti vorrei parlare:
 
-* Il blogging richiede energie: per creare un articolo vincente dovrai effettuare molte ricerche e documentarti al meglio, inoltre devi essere in grado di scrivere in modo corretto, coinvolgente, pubblicare spesso nuovi contenuti e mantenere aggiornati i vecchi. 
+* Il blogging richiede energie: per creare un articolo vincente dovrai effettuare molte ricerche e documentarti al meglio, inoltre devi essere in grado di scrivere in modo corretto, coinvolgente, pubblicare spesso nuovi contenuti e mantenere aggiornati i vecchi.
 
 * Richiede una buona capacità di gestione community: oltre alla creazione dei contenuti se avrai un blog con traffico dovrai essere in grado di gestire i commenti le critiche gli haters, saper gestire i tuoi canali social per coinvolgere il pubblico già acquisito ecc.
 
@@ -57,11 +58,11 @@ Attenzione! Il prezzo, in questo caso, non è un indicatore che rivela la qualit
 
 È una piattaforma di editoria social gratuito; [Medium](https://medium.com/){:target="_blank" .link} negli ultimi anni si è affermato come strumento di editoria, molte testate e risviste lo utilizzano puntualmente per condividere articoli ed informazioni al loro pubblico.
 
-Questo strumento può essere utlizzato come piattaforma di blogging ed è molto interessante come prodotto per via del fatto che è gratuito, non hai bisogno di competenze particolari per usarlo ed ha un layout molto elegante ed ottimizzato alla leggibilità. 
+Questo strumento può essere utlizzato come piattaforma di blogging ed è molto interessante come prodotto per via del fatto che è gratuito, non hai bisogno di competenze particolari per usarlo ed ha un layout molto elegante ed ottimizzato alla leggibilità.
 
 Inoltre Medium è una piattaforma ben indicizzata su Google, quindi se creerai articoli molto interessanti con le giuste parole chiave, verresti facilmente indicizzato; inoltre l'aspetto social ti permette di instaurare relazioni direttamente sulla piattaforma [Medium](https://medium.com/){:target="_blank" .link}.
 
-Di contro gli articoli che andrai a pubblicare non faranno parte di una tua  piattaforma propietaria e quindi la proprietà intellettuale non è unicamente tua (questo potrebbe causare attriti nella riproduzione del contenuto su altre fonti) e non hai libertà nello sviluppo della tua piattaforma, limitando lo strumento ad un posto in cui si può solo leggere e condividere l'articolo. 
+Di contro gli articoli che andrai a pubblicare non faranno parte di una tua  piattaforma propietaria e quindi la proprietà intellettuale non è unicamente tua (questo potrebbe causare attriti nella riproduzione del contenuto su altre fonti) e non hai libertà nello sviluppo della tua piattaforma, limitando lo strumento ad un posto in cui si può solo leggere e condividere l'articolo.
 
 Per avere un blog vincente devi essere anche in grado di veicolare il lettore nelle pagine che più sono sensibili ed utili per il tuo business e per farlo dovrai per forza di cose implementare strumenti di marketing che invoglino il lettore a rimanere nel tuo sito e leggere altri articoli o iscriversi alla tua newsletter per riuscire a ricontattarlo nel tempo, purtroppo Medium non mette a disposizione strumenti di marketing.
 
@@ -73,10 +74,10 @@ I principali vantaggi nell'utilizzarlo sono la velocità di caricamento delle pa
 
 Potrai ospitarlo su [Git Hub Pages](http://snip.ly/f4ifx){:target="_blank" .link} gratuitamente con prestazioni spaziali (te ne parlo in [questo articolo]({% post_url 2017-10-13-i-migliori-provider-hosting-del-2018 %}){:target="_blank" .link}), mica male poter avere a disposizione un sito web top performace gratuitamente!
 
-Inoltre Jekyll non è solo uno strumento di blogging ma di marketing potrai anche creare intorno al tuo blog tutte le pagine di promozione o di acquisizione utenti che servono alla tua attività per incrementare il traffico al sito web. 
+Inoltre Jekyll non è solo uno strumento di blogging ma di marketing potrai anche creare intorno al tuo blog tutte le pagine di promozione o di acquisizione utenti che servono alla tua attività per incrementare il traffico al sito web.
 
 Gli svantaggi nell'utilizzo di Jekyll sono il fatto che è necessario avere competenze per impelementarlo e progettarlo; infatti anche se per me questo prodotto è il migliore se vuoi sfruttarlo per un piccolo o medio business sconsiglio caldamente di utilizzarlo se non si hanno conoscenze o non si ha il tempo per acquisirle.
- 
+
 ### 3 Wordpress
 
 Piattaforma che consiglio se non hai grossi budget (costa qualche centinaia di euro anno) e se non hai competenze di programmazione.
@@ -93,11 +94,11 @@ Con Wordpress potresti essere in grado di sviluppare piattaforme web complesse e
 
 Questo strumento è perfetto per chi vuole partire alla grande, con una buona immagine professionale e una piattaforma completa di tutte le funzionalità necessarie per gestire un business su web.
 
-Di contro: 
+Di contro:
 * **Wordpress risulta molto pesante da elaborare** e quindi per gestirlo in modo ottimale consiglio di affidarsi ad un [hosting efficente](http://linktrack.info/.2q1ho){:target="_blank" .link} meglio ancora se hai competenze e riesci a mettere in piedi il tuo cloud hosting che ti consiglio nella [sezione segreta di questo articolo]({% post_url 2017-10-13-i-migliori-provider-hosting-del-2018 %}){:target="_blank" .link}!
 
 * **È lo strumento di blogging più bersagliato dagli hacker**, quindi ti consiglio di prendere i ripari a livello di sicurezza utilizzando tool anti spam, tool per backup automatici, tenendo sempre aggiornato il core e i plugin che utilizzi e sfruttando sistemi di commento da terze parti (ad esempio [disqus comment system](http://snip.ly/or0db){:target="_blank" .link})
- 
+
 ### 4 Webflow
 
 [Webflow](https://webflow.com){:target="_blank" .link} è uno strumento di nuova generazione che mira a minare la fetta di mercato web che sfrutta Wordpress per mantenere i propri siti web.
@@ -114,7 +115,7 @@ Lo consiglio peculiarmente ha chi sviluppa su web per via del fatto che le metod
 
 ## Conclusione
 
-In base alle tue esigenze ed al tuo budget c'è sempre un prodotto migliore di un'altro. 
+In base alle tue esigenze ed al tuo budget c'è sempre un prodotto migliore di un'altro.
 
 Se credi anche tu come me nel blogging e nel content marketing non è una scelta da lasciare al caso oppure optare per prodotti economici! È consigliabile per tutti strutturare bene il layout del blog ed i contenuti trattati perchè saranno il tuo biglietto da visita per il popolo del web!
 

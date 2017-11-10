@@ -5,8 +5,9 @@ tagline: "Tutti i migliori e più completi dal più costoso al meno costoso"
 tags : [marketing, web marketing, landing pages]
 locker: <h2><a target="_blank" href="https://mautic.org" class="link">Mautic</a></h2><p>È una piattaforma di marketing automation che se sei in grado di installare sui tuoi server potrai usufruirne in modo gratuito!</p><p>È lo strumento più completo che abbia mai visto ti permette di gestire un database di utenti segmentato e creare attorno ad esso campagne di email marketing e web complete e ben indirizzate al tipo di pubblico che possa apprezzarle!</p><p>È integrato nel pacchetto un generatore di pagine web, quindi con questo strumento potrai creare tutte le landing page che desideri, e se sei bravo, potresti crearti un set di template con i temi HTML che preferisci.</p><p>Il vantaggio principale di impliegare mautic è che potrai usufruire di tutte le  funzionalità di click funnels in modo gratuito ed in più il tool funge anche da server email quindi si occuperà della delivery agli utenti insieme ad un servizio di delivery (es <a href="https://aws.amazon.com/it/ses/pricing" target="_blank" class="link">Amazon SES</a>).</p><p>Questa struttura abbatterà i tuoi costi di marketing solo al costo di dominio, hosting e della delivery che è di circa 0.001$ a email (usando <a href="https://aws.amazon.com/it/ses/pricing" target="_blank" class="link">Amazon SES</a> le prime 65.000 mese saranno gratis!)</p>
 img : i-migliori-strumenti-per-creare-landing-page-e-squeeze-page-nel-2018/i-migliori-strumenti-per-creare-landing-page-e-squeeze-page-nel-2018.jpg
+image: assets/images/i-migliori-strumenti-per-creare-landing-page-e-squeeze-page-nel-2018/i-migliori-strumenti-per-creare-landing-page-e-squeeze-page-nel-2018.jpg
 author : Antonio Trento
-css: 
+css:
 js:  
 keywords: marketing, web marketing, landing pages, content marketing, squeeze, email marketing
 canonical: https://lantoniotrento.github.io/web-marketing/2017/10/23/i-migliori-strumenti-per-creare-landing-page-e-squeeze-page-nel-2018
@@ -50,7 +51,7 @@ Grazie a questi due strumenti potrai creare landing page e squeeze page per tutt
 > Se non hai alcuna conoscenza dei linguaggi HTML e CSS e non hai molto budget rivolgere lo sguardo verso Wordpress può rivelarsi un'ottima scelta per creare le tue pagine per promuovere l'attività o singoli prodotti.
 
 Per quanto riguarda la spesa dovrai provvedere ad acquistare un hosting per il tuo sito web, puoi trovare [i miei preferiti qui]({% post_url 2017-10-13-i-migliori-provider-hosting-del-2018 %}){:.link}, e se prevederai una strategia di email marketing dovrai mettere in conto che ci saranno costi da sostenere in base a quanti iscritti possiedi, **ma per iniziare per 2000 iscritti potresti usare [mailchimp](https://mailchimp.com){:.link target="_blank"}** (il terzo regalo segreto del blog ti rivela uno strumento di marketing automation gratuito che potrai usare senza limitazioni)
- 
+
 ## Jekyll
 
 Se non hai soldi da investire conosci HTML, CSS e  Javascript per riuscire ad utilizzarlo o hai intenzione di imparare ad utilizzarlo, jekyll può rivelarsi la scelta per poter riuscire a creare le tue **landig page e un blog completamente gratis**, sfruttando [GitHub pages](http://snip.ly/f4ifx){:.link target="_blank"} potrai ospitarlo gratuitamente, su dei server velocissimi, potendo gestire praticamente qualsiasi cosa.

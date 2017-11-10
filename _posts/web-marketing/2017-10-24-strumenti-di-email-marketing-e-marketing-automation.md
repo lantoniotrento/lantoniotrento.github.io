@@ -5,8 +5,9 @@ tagline: "Tutte le migliori piattaforme di marketing automation del web"
 tags : [email marketing, web marketing, marketing automation]
 locker: <h3><a target="_blank" href="https://mautic.org" class="link">Mautic</a></h3><p>È la piattaforma di marketing automation che fa per te!</p><p>Perchè?</p><p>Perchè comprende tutte le funzionalità delle precedenti ed è open source quindi puoi usarla gratis!</p><p>Utilizzando questo strumento direi che spenderai il 10% di quel che spenderesti con altri tools per via del fatto che con Mautic l'unica spesa che dovrai sostenere sarà legata alla consegna dei messaggi email e l'hosting della piattaforma sui tuoi server.</p><p>Come servizio di consegna email consiglio di utilizzare Amazon SES che costerà 0,0001 eur a messaggio email (50eur per 500000 email) riuscirà a soddifare le tue esigenze con costi veramente esigui!</p><p>L'unico punto a sfavore di Mautic è la necessità di competenze tecniche per installarlo sul proprio server; per ovviare al prolema ti basterà contattare un esperto in strumenti di hosting che, solo una volta, installerà il sistema sui tuoi server!</p>
 img : strumenti-di-email-marketing-e-marketing-automation/strumenti-di-email-marketing-e-marketing-automation.jpg
+image: assets/images/strumenti-di-email-marketing-e-marketing-automation/strumenti-di-email-marketing-e-marketing-automation.jpg
 author : Antonio Trento
-css: 
+css:
 js:  
 keywords: marketing, web marketing, content marketing, email marketing
 canonical: https://lantoniotrento.github.io/web-marketing/2017/10/24/strumenti-di-email-marketing-e-marketing-automation
@@ -55,7 +56,7 @@ Di contro il servizio si rivelerà costoso nel lungo periodo, quando avrai una l
 
 Il mio consiglio è sfrutta l'account gratuito fino all'osso, avrai fatto un po di esperienza nell'utilizzo della piattaforma e nell'implementazione di funnel e poi trova un servizio altrettanto di qualità ma meno costoso.
 
-### Active campain 
+### Active campain
 
 Su web se navighi per i vari blog a tema osannano [Active Campain](http://linktrack.info/.2qenq){:target="_blank" .link} come lo strumento definitivo per fare email marketing.
 
