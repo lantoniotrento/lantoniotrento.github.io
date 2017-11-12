@@ -1,6 +1,6 @@
 ---
 layout: post
-category : blogging
+category : web-marketing
 tagline: "Tutti i migliori e più completi dal più costoso al meno costoso"
 tags : [marketing, web marketing, landing pages]
 locker: <h2><a target="_blank" href="https://mautic.org" class="link">Mautic</a></h2><p>È una piattaforma di marketing automation che se sei in grado di installare sui tuoi server potrai usufruirne in modo gratuito!</p><p>È lo strumento più completo che abbia mai visto ti permette di gestire un database di utenti segmentato e creare attorno ad esso campagne di email marketing e web complete e ben indirizzate al tipo di pubblico che possa apprezzarle!</p><p>È integrato nel pacchetto un generatore di pagine web, quindi con questo strumento potrai creare tutte le landing page che desideri, e se sei bravo, potresti crearti un set di template con i temi HTML che preferisci.</p><p>Il vantaggio principale di impliegare mautic è che potrai usufruire di tutte le  funzionalità di click funnels in modo gratuito ed in più il tool funge anche da server email quindi si occuperà della delivery agli utenti insieme ad un servizio di delivery (es <a href="https://aws.amazon.com/it/ses/pricing" target="_blank" class="link">Amazon SES</a>).</p><p>Questa struttura abbatterà i tuoi costi di marketing solo al costo di dominio, hosting e della delivery che è di circa 0.001$ a email (usando <a href="https://aws.amazon.com/it/ses/pricing" target="_blank" class="link">Amazon SES</a> le prime 65.000 mese saranno gratis!)</p>

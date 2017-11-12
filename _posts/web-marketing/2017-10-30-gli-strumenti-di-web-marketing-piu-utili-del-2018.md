@@ -1,7 +1,7 @@
 ---
 
 layout: post
-category : web marketing
+category : web-marketing
 tagline: "I migliori strumenti di web marketing del 2018"
 tags : [marketing, web marketing, strumenti]
 img : gli-strumenti-di-web-marketing-piu-utili-del-2018/gli-strumenti-di-web-marketing-piu-utili-del-2018.jpg

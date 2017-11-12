@@ -1,6 +1,6 @@
 ---
 layout: post
-category : blogging
+category : web-marketing
 tagline: "I migliori strumenti di blogging del 2018"
 tags : [marketing, web marketing, guide]
 img : tasselli-principali-per-creare-la-tua-strategia-di-business-digitale-nel-2018/tasselli-principali-per-creare-la-tua-strategia-di-business-digitale-nel-2018.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-category : blogging
+category : web-marketing
 tagline: "Tutte le migliori piattaforme di marketing automation del web"
 tags : [email marketing, web marketing, marketing automation]
 locker: <h3><a target="_blank" href="https://mautic.org" class="link">Mautic</a></h3><p>È la piattaforma di marketing automation che fa per te!</p><p>Perchè?</p><p>Perchè comprende tutte le funzionalità delle precedenti ed è open source quindi puoi usarla gratis!</p><p>Utilizzando questo strumento direi che spenderai il 10% di quel che spenderesti con altri tools per via del fatto che con Mautic l'unica spesa che dovrai sostenere sarà legata alla consegna dei messaggi email e l'hosting della piattaforma sui tuoi server.</p><p>Come servizio di consegna email consiglio di utilizzare Amazon SES che costerà 0,0001 eur a messaggio email (50eur per 500000 email) riuscirà a soddifare le tue esigenze con costi veramente esigui!</p><p>L'unico punto a sfavore di Mautic è la necessità di competenze tecniche per installarlo sul proprio server; per ovviare al prolema ti basterà contattare un esperto in strumenti di hosting che, solo una volta, installerà il sistema sui tuoi server!</p>
