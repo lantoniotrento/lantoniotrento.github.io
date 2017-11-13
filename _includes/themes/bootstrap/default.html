@@ -37,7 +37,7 @@ lantoniotrento@gmail.com
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
     <!-- Google ADS mobile block-->
     {% if site.google_ad_client %}
-    <script type="text/javascript" async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script type="text/javascript">
      (adsbygoogle = window.adsbygoogle || []).push({
         google_ad_client: "{{ site.google_ad_client }}",
@@ -47,7 +47,7 @@ lantoniotrento@gmail.com
     {% endif %}
 
 	<!-- ManyChat -->
-	<script src="//widget.manychat.com/1010094929028825.js" async="async">
+	<script src="//widget.manychat.com/1010094929028825.js">
 	</script>
 
 <!-- Social locker block -->
@@ -98,7 +98,7 @@ jQuery(document).ready(function ($) {
 
 {% if page.exitintent %}
 <!-- Exit intent popup -->
-    <script async type="text/javascript" src="{{ BASE_PATH }}/assets/js/bioep.min.js"></script>
+    <script type="text/javascript" src="{{ BASE_PATH }}/assets/js/bioep.min.js"></script>
 
     <script type="text/javascript">
       bioEp.init({
@@ -111,7 +111,7 @@ jQuery(document).ready(function ($) {
 
 <!-- Hellobar -->
 {% if page.hellobar %}
-<script async src="https://my.hellobar.com/1cf1308fde34f28a43199ed385303c0e8cc615d8.js" type="text/javascript" charset="utf-8" async="async"></script>
+<script src="https://my.hellobar.com/1cf1308fde34f28a43199ed385303c0e8cc615d8.js" type="text/javascript" charset="utf-8"></script>
 {% endif %}
     {% if page.welcomemat %}
 	    <link href="{{ BASE_PATH }}/assets/css/welcomemat.css" rel="stylesheet">
@@ -171,7 +171,7 @@ jQuery(document).ready(function ($) {
 
 
   {% if site.JB.comments.disqus.short_name == true %}
-  <script async id="dsq-count-scr" src="//{{ site.JB.comments.disqus.short_name }}.disqus.com/count.js" async></script>
+  <script id="dsq-count-scr" src="//{{ site.JB.comments.disqus.short_name }}.disqus.com/count.js"></script>
   {% endif %}
 <script src="https://antoniotrento.github.io/assets/js/jquery-2.1.1.js"></script>
 	<!-- https://zotabox.com plugin messenger -->
@@ -179,9 +179,9 @@ jQuery(document).ready(function ($) {
 (function(d,s,id){var z=d.createElement(s);z.type="text/javascript";z.id=id;z.async=true;z.src="//static.zotabox.com/8/5/85c8d18999bf831caabf3e44399eb587/widgets.js";var sz=d.getElementsByTagName(s)[0];sz.parentNode.insertBefore(z,sz)}(document,"script","zb-embed-code"));
 </script>
 <!-- ********************* welcome mat SCRIPTING ******************************-->
-    <script async src="{{ BASE_PATH }}/assets/js/menu.js"></script>
+    <script src="{{ BASE_PATH }}/assets/js/menu.js"></script>
     <!--Custom script loaded by children page-->
-    {% if page.js %}<script async src="{{ BASE_PATH }}/assets/js/{{ page.js }}"></script>{% endif %}
+    {% if page.js %}<script src="{{ BASE_PATH }}/assets/js/{{ page.js }}"></script>{% endif %}
     {% if page.welcomemat %}
 	<!-- Stuff that makes the javascript run - @MercenaryCarter -->
 	  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
