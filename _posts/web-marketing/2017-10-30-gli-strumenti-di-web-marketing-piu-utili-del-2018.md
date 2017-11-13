@@ -13,7 +13,7 @@ keywords: marketing, web marketing, seo, content marketing, social media, landin
 canonical: https://lantoniotrento.github.io/web-marketing/2017/10/30/gli-strumenti-di-web-marketing-piu-utili-del-2018
 calltoaction: Scopri tutti i metodi e strumenti che utilizzo per ingaggiare nuovo pubblico per le mie pagine web.  <a href="https://lantoniotrento.github.io/signup">Iscriviti qui e ricevi i 3 regali segreti del blog</a>.
 socialtagline: Ti ringrazio molto per aver letto questo post! Ti andrebbe di farmi un favore? Regalami la felicità! Lasciami una condivisione sul tuo social preferito!
-
+hellobar: yes
 ---
 
 Per avere una florida attività su web avrai necessità di creare una [struttura di comunicazione efficace]({% post_url 2017-10-20-tasselli-principali-per-creare-la-tua-strategia-di-business-digitale-nel-2018 %}){:.link} ed **appettibile per il tuo pubblico di riferimento**.

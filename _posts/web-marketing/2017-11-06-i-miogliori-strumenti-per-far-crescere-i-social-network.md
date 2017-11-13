@@ -12,7 +12,7 @@ keywords: marketing, web marketing, social media marketing, content marketing, s
 canonical: https://lantoniotrento.github.io/web-marketing/2017/11/06/tasselli-principali-per-creare-la-tua-strategia-di-business-digitale-nel-2018
 calltoaction: Scopri tutti i metodi e strumenti che utilizzo per ingaggiare nuovo pubblico per le mie pagine web.  <a href="https://lantoniotrento.github.io/signup">Iscriviti qui e ricevi i 3 regali segreti del blog</a>.
 socialtagline: Ti ringrazio molto per aver letto questo post! Ti andrebbe di farmi un favore? Regalami la felicità! Lasciami una condivisione sul tuo social preferito!
-
+hellobar: yes
 ---
 {% include JB/setup %}
 
