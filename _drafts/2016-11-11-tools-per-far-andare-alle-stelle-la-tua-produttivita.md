@@ -5,7 +5,7 @@ tagline: "Tools per migliorare il tuo social media marketing"
 tags : [marketing, web marketing, guide]
 locker:
 img : i-migliori-strumenti-per-far-crescere-i-social-network/i-migliori-strumenti-per-far-crescere-i-social-network.jpg
-image: image: assets/images/tools-per-far-andare-alle-stelle-la-tua-produttivita/tools-per-far-andare-alle-stelle-la-tua-produttivita.jpg
+image:  assets/images/tools-per-far-andare-alle-stelle-la-tua-produttivita/tools-per-far-andare-alle-stelle-la-tua-produttivita.jpg
 author : Antonio Trento
 css:
 js:  
