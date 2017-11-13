@@ -108,7 +108,7 @@ Hai visto? Trello ti permette di organizzare in modo chiaro ed ordinato le tue i
 
 Uno strumento utilissimo per non perderti nemmeno un appunto o produrre documenti testi note dovunque ti trovi.
 
-[Evernote](https://evernote.com/intl/it/){:.link target="_blank"} è il tuo tacquino digitale portatile, puoi creare i tuoi tacquini ai quali associare note che possono contenere qualsiasi cosa, registrazioni, video, testo, foto. Inoltre le note possono essere catalogate tramite tag, in modo tale, che riuscirai a trovarle in fretta in futuro (a patto che ti tu ti ricorda di aggiungere i tag :-) ).
+[Evernote](https://evernote.com/intl/it/){:.link target="_blank"} è il tuo tacquino digitale portatile, puoi creare i tuoi tacquini ai quali associare note che possono contenere qualsiasi cosa, registrazioni, video, testo, foto. Inoltre le note possono essere catalogate tramite tag, in modo tale, che riuscirai a trovarle in fretta in futuro (a patto che ti tu ti ricorda di aggiungere i tag 😉 ).
 
 Evernote è gratuito per al massimo due dispositivi (ma c'è anche la versione per web) e potrai usarlo tranquillamente a patto che sfrutti lo strumento solo per scrivere.
 
