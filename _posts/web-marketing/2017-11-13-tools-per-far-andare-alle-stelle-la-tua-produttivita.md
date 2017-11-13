@@ -120,7 +120,7 @@ Usando la versione premium avrai tutto lo spazio disponibile per sfruttare forma
 
 È molto utile per chi sfrutta internet per fare ricerca o prendere ispirazione, perchè potrà avere poi un archivio di informazioni ben categorizzato dal quale poter attingere.
 
-## IFTTT
+## IFTTT
 
 [IFTTT](https://ifttt.com/){:.link target="_blank"} è uno strumento molto utile e versatile, completamente gratuito, utilizzato per integrare le applicazioni web che più utilizzi nel tuo business.
 
