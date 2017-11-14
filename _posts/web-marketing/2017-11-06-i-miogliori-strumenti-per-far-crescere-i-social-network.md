@@ -124,7 +124,7 @@ Inoltre è possibile integrare buffer con strumenti di terze parti come IFTTT (n
 
 ### Zapier
 
-È il fiore all'occhiello del web marketer, grazie a questo strumento potrai integrare moltissimi altri strumenti insieme migliornado molto la tua produttività innescando automatismi tra applicazioni.
+[Zapier](https://zapier.com){:.link target="_blank"} è il fiore all'occhiello del web marketer, grazie a questo strumento potrai integrare moltissimi altri strumenti insieme migliornado molto la tua produttività innescando automatismi tra applicazioni.
 
 Questo strumento è fantastico e potrà aiutarti anche nella gestione dei tuoi social se riuscirai a progettare autometismi intelligenti.
 
