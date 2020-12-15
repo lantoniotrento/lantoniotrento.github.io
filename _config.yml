@@ -149,13 +149,13 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-45810100-6' # Id google analitics
-        optimize_id : 'GTM-M4KFZRF' # I'id di google optimize per A/B Testing
-        tagmanager_id: 'GTM-WWGWDM4' # id di google tag manager
+        tracking_id : # Id google analitics
+        optimize_id :  # I'id di google optimize per A/B Testing
+        tagmanager_id:  # id di google tag manager
     getclicky :
       site_id :
     mixpanel :
-        token : '_MIXPANEL_TOKEN_'
+        token : 
     piwik :
         baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
         idsite : '1'                   # the id of the site on Piwik
